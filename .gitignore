@@ -1,0 +1,31 @@
+# 📦 Dépendances
+node_modules/
+.cache/
+.cache-loader/
+
+# 🚀 Fichiers de build
+build/
+.docusaurus/
+
+# 🧪 Fichiers de dev inutiles pour les joueurs
+package.json
+package-lock.json
+tsconfig.json
+babel.config.js
+server.js
+deploy-wiki.sh
+docusaurus.config.ts
+sidebars.ts
+
+# 📂 Sections inutilisées ou internes
+blog/
+src/
+
+# ⚙️ Environnements locaux (non publics)
+.env*
+.DS_Store
+
+# 🐛 Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
