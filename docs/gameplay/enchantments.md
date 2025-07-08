@@ -4,30 +4,30 @@ sidebar_position: 3
 
 # 📚 Enchantements
 
-Avec un certain nombre de niveaux, vous pouvez obtenir des invocations de différentes raretés : **Simples**, **Uniques**, **Élites**, **Mythiques** et **Légendaires**. Elles sont accessibles via la commande `/enchant` ou `/e`. Ces enchantements uniques sur le serveur apportent différents atouts.
+Vous pouvez acheter les enchantements dans la boutique du /donjon grâce aux couronnes que vous obtiendrez là-bas.
+
 
 ---
 
-## Comment obtenir des enchantements ?
+## Comment augmenter le taux de réussite ?
 
-Pour obtenir ces enchantements, il suffit d'effectuer la commande `/e`. Cela ouvrira une interface où vous aurez le choix entre les différentes invocations : **Simples**, **Uniques**, **Élites**, **Mythiques** et **Légendaires**.
+Munisez-vous d'une clé donjon et allez affronter la horde de mobs pour avoir une chance d'obtenir des poussières.
+Grâce à elle, vous pourrez augmenter le taux de réussite.
 
-Pour acheter vos invocations, il vous suffit de cliquer sur la vitre correspondant à l'invocation souhaitée. Celles-ci coûtent soit de l'XP Minecraft, soit des Bambous pour les invocations légendaires. **Assurez-vous d'avoir de la place dans votre inventaire pour chaque invocation.**
 
 ---
 
-## Quels sont les prix des invocations ?
+## Quels sont les prix des enchantements ?
 
-| **Invocations**    | **Simple** | **Unique** | **Élite** | **Mythique** | **Légendaire** |
+| **Enchantements**    | **Simple** | **Unique** | **Élite** | **Mythique** | **Légendaire** |
 |--------------------|------------|------------|-----------|--------------|----------------|
-| **Montant**        | 80 Exp     | 100 Exp    | 150 Exp   | 250 Exp      | 50 Bambous      |
-| **Récompenses**    | Enchantement Simple | Enchantement Unique | Enchantement Élite | Enchantement Mythique | Enchantement Légendaire |
+| **Montant**        | 5000 Couronnes | 7500 Couronnes    | 9500 Couronnes  | 12500 Couronnes      | 50 Perles      |
+| **Récompenses aléatoire**    | Enchantement Simple | Enchantement Unique | Enchantement Élite | Enchantement Mythique | Enchantement Légendaire |
 
 ---
 
-## Les Invocations Simple
+## Les enchantements Simple
 
-Les **invocations Simple** coûtent **80 Exp** et une fois l'invocation réalisée, vous recevrez **un livre d'enchantement simple** ainsi que **de l'expérience de niveaux**.
 
 | Enchantement Simple    | Adapté pour    | Description                                       | CoolDown | Taux de chance | Condition d'activation                                            |
 | ---------------------- | -------------- | ------------------------------------------------- | -------- | -------------- | ---------------------------------------------------------------- |
@@ -71,9 +71,8 @@ Les **invocations Simple** coûtent **80 Exp** et une fois l'invocation réalis�
 
 ---
 
-## Les Invocations Unique
+## Les enchantements Unique
 
-Les **invocations Unique** coûtent **100 Exp** et une fois l'invocation réalisée, vous recevrez **un livre d'enchantement unique** ainsi que **de l'expérience de niveaux**.
 
 | Enchantement Unique    | Adapté pour    | Description                                       | CoolDown | Taux de chance | Condition d'activation                                            |
 | ---------------------- | -------------- | ------------------------------------------------- | -------- | -------------- | ---------------------------------------------------------------- |
@@ -154,9 +153,8 @@ Les **invocations Unique** coûtent **100 Exp** et une fois l'invocation réalis
 | Dévorer III           | Épée, Hache    | Chance de restaurer 1 de nourriture lorsque l'on tue un mob | X  | 20%            | Tuer un mob (passif ou hostile)                                   |
 ---
 
-## Les Invocations Elite
+## Les enchantements Elite
 
-Les **invocations Elite** coûtent **150 Exp** et une fois l'invocation réalisée, vous recevrez **un livre d'enchantement Elite** ainsi que **de l'expérience de niveaux**.
 
 | Enchantement Elite     | Adapté pour    | Description                                       | CoolDown | Taux de chance | Condition d'activation                                            |
 | ---------------------- | -------------- | ------------------------------------------------- | -------- | -------------- | ---------------------------------------------------------------- |
@@ -310,9 +308,8 @@ Les **invocations Elite** coûtent **150 Exp** et une fois l'invocation réalis�
 | Aimant III             | Épée           | Chance d'attirer les joueurs frappés                 | 5s       | 100%           | Mettre un coup (joueur)                                             |
 ---
 
-## Les Invocations Mythiques
+## Les enchantements Mythiques
 
-Les **invocations Mythiques** coûtent **250 Exp** et une fois l'invocation réalisée, vous recevrez **un livre d'enchantement Mythique** ainsi que **de l'expérience de niveaux**.
 
 | Enchantement Mythique               | Adapté pour     | Description                                                                    | CoolDown | Taux de chance | Condition d'activation                                   |
 | ----------------------------------- | --------------- | ------------------------------------------------------------------------------ | -------- | -------------- | -------------------------------------------------------- |
@@ -470,9 +467,8 @@ Les **invocations Mythiques** coûtent **250 Exp** et une fois l'invocation réa
 
 ---
 
-## Les Invocations Légendaires
+## Les enchantements Légendaires
 
-Les **invocations Légendaires** coûtent **50 Bambous** et une fois l'invocation réalisée, vous recevrez **un livre d'enchantement Légendaire** ainsi que **de l'expérience de niveaux**.
 
 | Enchantement Légendaire | Adapté pour les | Description | CoolDown | Taux de chance | Condition d'activation |
 | ----------------------- | --------------- | ----------- | -------- | -------------- | ---------------------- |
@@ -576,5 +572,5 @@ Les **invocations Légendaires** coûtent **50 Bambous** et une fois l'invocatio
 ---
 
 :::important
-Ces enchantements apportent des avantages uniques sur le serveur et sont essentiels pour améliorer vos compétences en combat ou dans les tâches de minage et de récolte. Assurez-vous d'utiliser la commande `/e` régulièrement pour obtenir des enchantements et progresser dans vos activités !
+Ces enchantements apportent des avantages uniques sur le serveur et sont essentiels pour améliorer vos compétences en combat ou dans les tâches de minage et de récolte.
 :::
