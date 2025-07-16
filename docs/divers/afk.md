@@ -8,6 +8,8 @@ La **Zone AFK** est un endroit sécurisé où vous pouvez rester inactif pour ga
 
 Ces tickets sont **liés à votre compte** et peuvent être utilisés dans la boutique AFK pour obtenir des récompenses exclusives.
 
+![AFK](/img/afk/afk.png)
+
 ---
 
 ## 🎟️ Comment gagner des tickets ?
