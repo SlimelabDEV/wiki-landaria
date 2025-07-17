@@ -29,4 +29,15 @@ Si vous repérez une erreur, ou souhaitez ajouter une page :
 
 ---
 
+# 🙌 Contributeurs
+
+Merci aux personnes qui font vivre ce wiki 💚  
+
+<p align="center">
+  <img src="https://contrib.rocks/image?repo=SlimelabDEV/wiki-landaria" alt="Contributeurs GitHub SlimelabDEV" />
+</p>
+
+---
+
 > **Bon jeu à tous, et merci d’être là 💚**
+
