@@ -126,7 +126,7 @@ Dans cette catégorie, retrouvez une grande partie des questions qui nous sont p
 ---
 
 ## 💤 AFK
-- **Inactivité** : Mode AFK activé après 30 minutes d'inactivité.
+- **Inactivité** : Mode AFK activé après 30 minutes d'inactivité vers la zone AFK (pas de mode afk au spawn).
 
 ---
 
