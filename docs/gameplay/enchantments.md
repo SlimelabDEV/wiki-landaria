@@ -14,6 +14,7 @@ Vous pouvez acheter les enchantements dans la boutique du /donjon grâce aux cou
 Munisez-vous d'une clé donjon et allez affronter la horde de mobs pour avoir une chance d'obtenir des poussières.
 Grâce à elle, vous pourrez augmenter le taux de réussite.
 
+:::danger Le donjon est difficile et ne permet pas aux nouveaux joueurs d'y farmer facilement. Il vous faut améliorer vos skills en premier lieu.:::
 
 ---
 
