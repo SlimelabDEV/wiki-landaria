@@ -65,7 +65,9 @@ L'agriculture vous permet de cultiver une variété de plantes, chacune ayant de
 - **Plantez dans le bon environnement** : Certaines plantes nécessitent des environnements particuliers comme le Nether ou l'Overworld.
 - **Utilisez des objets spéciaux** : Utilisez des objets comme les Lava Lamps pour créer des environnements idéaux pour certaines plantes.
 
-:::danger Réactualisation des Growstations : Lorsque vous changez vos objets spéciaux, une actualisation est demandée en cassant les stations de croissance et en les reposant :::
+:::danger Réactualisation des Growstations
+Lorsque vous changez vos objets spéciaux, une actualisation est demandée en cassant les stations de croissance et en les reposant 
+:::
 
 ### 🌽 Récolte et Vente
 Après la récolte, vendez vos produits dans le **Farm Market** (`/farm market`) pour gagner de l'argent et acheter des améliorations.
