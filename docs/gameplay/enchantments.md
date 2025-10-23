@@ -21,7 +21,7 @@ Grâce à elle, vous pourrez augmenter le taux de réussite.
 
 | **Enchantements**    | **Simple** | **Unique** | **Élite** | **Mythique** | **Légendaire** |
 |--------------------|------------|------------|-----------|--------------|----------------|
-| **Montant**        | 5000 Couronnes | 7500 Couronnes    | 9500 Couronnes  | 12500 Couronnes      | 50 Perles      |
+| **Montant**        | 5000 Couronnes | 7500 Couronnes    | 9500 Couronnes  | 12500 Couronnes      | 50 Bambous      |
 | **Récompenses aléatoire**    | Enchantement Simple | Enchantement Unique | Enchantement Élite | Enchantement Mythique | Enchantement Légendaire |
 
 ---
@@ -574,3 +574,4 @@ Grâce à elle, vous pourrez augmenter le taux de réussite.
 :::important
 Ces enchantements apportent des avantages uniques sur le serveur et sont essentiels pour améliorer vos compétences en combat ou dans les tâches de minage et de récolte.
 :::
+
