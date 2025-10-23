@@ -8,8 +8,9 @@ Dans cette catégorie, retrouvez une grande partie des questions qui nous sont p
 
 ---
 
-## 🌄 Distance de vue sur les serveurs
-- **View-distance** : 7 (sauf sur Duel et Créatif).
+## 🌄 Distance de vue (view-distance)
+- **View-distance** : `8` dans les mondes joueurs (mondes où les joueurs jouent, construisent et explorent)
+- **View-distance** : `10` dans les mondes publics (spawn, zones PvP, monde End, zone Pinata, AFK, etc..)
 
 ---
 
