@@ -16,14 +16,21 @@ Sur le serveur, différentes **quêtes** sont disponibles pour pimenter votre av
 
 __Voici les types de quêtes disponibles :__
 
-- 🌾 **Le blé** : _Farming_ → Quêtes d'agriculture.
+- 🌾 **Le blé** : _Fermier_ → Quêtes d'agriculture.
 - 🗡️ **L'épée** : _Chasseur_ → Quêtes de combat épique.
 - 🗺️ **La carte vierge** : _Énigme_ → Résolution de diverses énigmes.
 - 🧭 **La boussole** : _Voyageur_ → Trouver des lieux cachés dans le spawn.
 - ⏳ **La montre** : _Temps_ → Basé sur le temps passé connecté.
 - 🛠️ **L'entonnoir** : _Divers_ → Quêtes variées.
 - 🛬 **Les elytras** : _Explorateur_ → Trouver des biomes spécifiques.
+- 🍃 **Le feuillage** : _Labyrinthe_ → Trouver la sortie des labyrinthes.
 - ⛏️ **La pioche** : _Mineur_ → Quêtes de minage.
+- 🪓 **La hache** : _Bûcheron_ → Quêtes de bûcheronnage.
+- 🎣 **La canne à pêche** : _Pêcheur_ → Pêcher tous les poissons et items possible.
+- 👢 **Les bottes** : _Jump_ → Finir les parcours de sauts.
+- 🏹 **L'arc** : _Jeux_ → Faire les modes de jeu disponibles.
+- 👕 **Le plastron** : _Armurier_ → Crafter ou apporter les différents armures et outils.
+- 📘 **Le livre enchanté** : _Enchanteur_ → Enchanter des objets et gagner de l'expérience.
 
 ---
 
@@ -69,3 +76,4 @@ Si votre inventaire est plein, vous ne recevrez pas le coffre quêtes. Il sera *
 ---
 
 Ce guide vous permettra d'explorer et de profiter pleinement des quêtes sur le serveur. Que l'aventure commence ! 🎮
+
