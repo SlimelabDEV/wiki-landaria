@@ -98,7 +98,10 @@ Utilisez la commande **/flags** pour paramétrer votre claim. Voici les paramèt
 
 :::danger
 **Il est strictement interdit de faire un claim sur le toit du Nether dans le but de s'y téléporter ou de construire. Des sanctions sévères seront prises en cas de non-respect des règles.**
+:::
 
+:::danger
 **Les spawns des monstres et animaux sont de base par défaut Minecraft. C'est à dire que les mobs sont actifs. Pour retirer certains spawns, une seule activation de spawn désactivera automatiquement les autres.**
 :::
+
 
