@@ -132,7 +132,7 @@ Dans cette catégorie, retrouvez une grande partie des questions qui nous sont p
 ---
 
 ## 🛡️ Grief
-- **Définition** : Construction ou claim à moins de 100 blocs d'un autre joueur sans permission.
+- **Définition** : Construction, destruction ou claim à moins de 100 blocs d'un autre joueur sans permission.
 
 ---
 
@@ -147,9 +147,20 @@ Dans cette catégorie, retrouvez une grande partie des questions qui nous sont p
 ---
 
 ## 🛠️ Macros
-- **Autorisé** : Macros de texte sans avantage compétitif.
+- **Autorisé** : Un lot d'items par thème est disponible en achat payant dans le /boutique ou en achetant un grade via la comamnde /kits. Ils peuvent également être gagné de façon ponctuelle comme par exemple dans les megapacks.
     - **Exemple** : Macro de "Bienvenue" à l'arrivée d'un joueur.
     - **Non autorisé** : Macro de commande pour taper plus vite.
+
+---
+
+## Kits
+- **Définition** : Un lot d'items par thème est disponible en achat payant dans le /boutique ou en achetant un grade via la comamnde /kits. Ils peuvent également être gagné de façon ponctuelle comme par exemple dans les megapacks.
+- **Mise en garde** : Nous vous conseillons de vider votre inventaire avant l'ouverture de kits sous peine de perdre la totalité des items.
+
+---
+
+## Megapacks
+- **Définition** : En passant par des items exclusifs de la collection mega ou des items vanilla,les megapacks sont une source de gains pour votre aventure.
 
 ---
 
