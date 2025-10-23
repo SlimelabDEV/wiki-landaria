@@ -147,7 +147,7 @@ Dans cette catégorie, retrouvez une grande partie des questions qui nous sont p
 ---
 
 ## 🛠️ Macros
-- **Autorisé** : Un lot d'items par thème est disponible en achat payant dans le /boutique ou en achetant un grade via la comamnde /kits. Ils peuvent également être gagné de façon ponctuelle comme par exemple dans les megapacks.
+- **Autorisé** : Macros de texte sans avantage compétitif.
     - **Exemple** : Macro de "Bienvenue" à l'arrivée d'un joueur.
     - **Non autorisé** : Macro de commande pour taper plus vite.
 
