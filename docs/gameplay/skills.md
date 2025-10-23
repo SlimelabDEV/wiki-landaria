@@ -30,6 +30,11 @@ Pour utiliser une compétence, il suffit de faire un clic droit avec un outil ou
 :::tip Conseil
 Les compétences ne sont pas débloquées par défaut, mais se débloquent en jouant un petit peu.
 :::
+
+:::danger Attention
+Certains skills imposent l'utilisation d'items Minecraft, comme par exemple le skill Alchimie qui demandent l'utilisation d'alambics. Celles-ci sont limitées à 20 alambics en simultanée par joueur.
+:::
+
 ---
 
 ## Utilisation de la Mana
@@ -86,3 +91,4 @@ Des défis/missions à accomplir pour augmenter votre salaire. Chaque mission vo
 :::important
 Comme beaucoup de joueurs, il se peut que vous soyez un peu perdu au début, mais ne vous inquiétez pas, on s'y retrouve vite. Si besoin, le staff pourra vous guider sur le [**Discord**](http://discord.landaria.fr).
 :::
+
