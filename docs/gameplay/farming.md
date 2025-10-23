@@ -44,13 +44,14 @@ Une Growstation est un dispositif spécial où vous pouvez faire pousser des pla
 ### Comment utiliser une Station de Croissance ?
 1. **Placer la Station de Croissance** : Cliquez avec le bouton droit sur le sol pour placer une Growstation.
 2. **Ajouter de l'eau** : Cliquez avec un seau d'eau sur la Growstation pour la remplir.
-3. **Planter une graine** : Placez la graine dans la Growstation pour commencer la croissance.
+3. **Planter une graine** : Placez la graine dans la Growstation pour commencer la croissance avec un clic droit sur la station pour ouvrir le menu ou directement en étant accroupi.
 4. **Vérifier les conditions** : Assurez-vous que la Growstation est dans un environnement adapté avec la température correcte.
 5. **Récolter** : Lorsque la plante est prête, cliquez avec le bouton droit pour récolter.
 
 :::tip Conseils Utiles
 - **Améliorer vos compétences** : Augmentez le nombre de Growstations que vous pouvez placer et améliorez leur efficacité en augmentant vos compétences agricoles.
 - **Gérer l'eau et les ressources** : Assurez-vous que vos Growstations ont toujours assez d'eau pour que vos plantes puissent pousser correctement.
+- **Stockage des Growstations** : Certaines graines proposent plus d'une récolte. Pour les récupérer, cassez vos Growstations. Les récoltes viendront directement dans votre inventaire.
 :::
 
 ---
@@ -144,7 +145,7 @@ Une fois que vous avez obtenu ces objets, voici comment les utiliser efficacemen
 
 :::tip Conseils Généraux
 - **Vérifiez régulièrement vos Growstations** pour vous assurer qu'elles ont suffisamment d'eau et sont dans les bonnes conditions.
-- **Participez aux tournois et événements** pour gagner des récompenses et améliorer vos compétences plus rapidement.
+- **Participez aux tournois et événements** pour gagner des récompenses dont des clés agricoles et améliorer vos compétences plus rapidement.
 :::
 
 ---
