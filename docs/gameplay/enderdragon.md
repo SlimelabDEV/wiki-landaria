@@ -12,7 +12,7 @@ Bienvenue dans le guide de l'Ender Dragon ! L'Ender Dragon est une créature pui
 
 Voici ce que vous devez savoir avant de vous lancer dans la bataille contre l'Ender Dragon :
 
-- Vous pouvez accéder à l'End via la commande **/warp end**.
+- Vous pouvez accéder à l'End via la commande **/warp end** ou **/ender**.
 - Lorsque vous tuez l'Ender Dragon, vous gagnez une **Clef de l'End** ainsi que **12000 XP** en récompense.
 - Cette clé spéciale vous permet de débloquer des récompenses uniques.
 
@@ -33,7 +33,7 @@ Prêt à affronter l'Ender Dragon ? Suivez ces étapes pour l'invoquer :
 L'affrontement avec l'Ender Dragon peut être difficile. Voici quelques conseils pour vous aider :
 
 - **Préparation :** Assurez-vous d'avoir un bon équipement, des armes puissantes et suffisamment de nourriture.
-- **Évitement :** L'Ender Dragon peut infliger des dégâts massifs. Évitez ses attaques et utilisez les structures présentes au warp end pour vous protéger.
+- **Évitement :** L'Ender Dragon peut infliger des dégâts massifs et peut vous pousser dans le void. Évitez ses attaques et utilisez les structures présentes au warp end pour vous protéger.
 - **Équipement Efficace :** Utilisez des flèches et des armes enchantées pour maximiser vos dégâts.
 
 ---
@@ -63,3 +63,4 @@ Découvrez qui est le meilleur chasseur d'Ender Dragon grâce au classement des 
 :::tip
 💡 En suivant ces conseils et en vous préparant correctement, vous serez prêt à défier l'Ender Dragon et à récolter les récompenses et la gloire qui vous attendent. Bonne chance, aventurier !
 :::
+
