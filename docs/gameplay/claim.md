@@ -63,9 +63,42 @@ Utilisez **/rp border** pour afficher les contours de votre région. Faites **/c
 - **/rp limit** : Affiche le nombre de blocs claim et la limite
 
 ---
+## Les flags
+Utilisez la commande **/flags** pour paramétrer votre claim. Voici les paramètres disponibles :
+
+- **La balise** : _Accès aux effets_ → Permet d'interdire les effets.
+- **La plume** : _Accès au fly_ → Permet d'interdire toutes les capacités de vol.
+- **Le lit** : _Accès au /home et /sethome_ → Permet d'empêcher les joueurs d'utiliser les commandes de home.
+- **Le spawner** : _Casser et placer les spawners_ → Permet d'autoriser les joueurs de casser et placer les spawners.
+- **Le bouton** : _Accès aux bouton, leviers et plaques de pression_
+- **Le blé** : _Pousse du blé/carottes etc_
+- **Le coffre** : _Accès aux coffres_ par les joueurs non membres du claim.
+- **La porte** : _Accès aux portes, trappes et portillons_ par les joueurs non membres du claim.
+- **Le briquet** : _Dégâts du feu_
+- **Le seau d'eau** : _Ecoulement de l'eau ou lave_
+- **Le seau de lave** : _Destruction par de l'eau ou lave_
+- **Le sable** : _Gravité des blocs_
+- **Les bottes** : _Formation de glace avec des bottes_
+- **Le feuillage** : _Disparition des feuilles_
+- **Le wagonnets** : _Accès aux wagonnets_
+- **L'émeraude** : _Accès aux interactions_ → Permet d'autoriser l'interaction avec les  villageois et les animaux par les joueurs non membres du claim.
+- **L'oeuf de cochon** : _Spawn des animaux_ → Permet de choisir les spawns d'animaux.
+- **L'oeuf de zombie** : _Spawn des monstres_ → Permet de choisir les spawns de monstres.
+- **L'enderpearl** : _Accès aux téléportations_ → Permet de choisir les spawns d'animaux dans le claim. Permet d'autoriser l'utilisation des enderpearls et des chorus.
+- **Le papier** : _Accès à la commande /top_
+- **Le signe interdiction** : _Entrer dans la région_ →  Permet d'empêcher les joueurs à entrer.
+- **La houe** : _Accès aux cultures_ →  Permet d'autoriser les joueurs à récolter et planter les cultures.
+- **Le pioche** : _Accès à casser des blocs_ → Permet de choisir les blocs que les joueurs non membres du claim peuvent casser.
+- **La table de craft** : _Accès aux tables de craft et enchantements_
+- **La pierre** : _Accès à placer des blocs_ → Permet de choisir les blocs que les joueurs non membres du claim peuvent placer.
+- **Le bloc de lapis** : _Transformation des blos_ → Permet d'empêcher la transformation des blocs.
+- **La flèche** : _Retour_ →  Permet de revenir au menu principal du claim.
 
 ![Attention](/img/claim/warning.png)
 
 :::danger
 **Il est strictement interdit de faire un claim sur le toit du Nether dans le but de s'y téléporter ou de construire. Des sanctions sévères seront prises en cas de non-respect des règles.**
+
+**Les spawns des monstres et animaux sont de base par défaut Minecraft. C'est à dire que les mobs sont actifs. Pour retirer certains spawns, une seule activation de spawn désactivera automatiquement les autres.**
 :::
+
