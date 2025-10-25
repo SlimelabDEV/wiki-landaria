@@ -21,7 +21,7 @@ En cas de refus, une sanction et une suppression de la guilde peuvent être enge
 
 ## 🛠️ Créer une guilde
 
-Il faut tout d'abord posséder le grade **Titan**, qui est le seul grade permettant les créations de guilde.
+Il faut tout d'abord posséder le grade **Panda**, qui est le seul grade permettant les créations de guilde.
 
 Utilisez la commande suivante pour créer une guilde :
 
@@ -248,3 +248,4 @@ Voici quelques commandes pratiques :
 :::tip
 Toutes les commandes peuvent être abrégées avec `/g`.
 :::
+
