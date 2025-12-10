@@ -4,32 +4,175 @@ sidebar_position: 3
 
 # 📚 Enchantements
 
-Vous pouvez acheter les enchantements dans la boutique du /donjon grâce aux couronnes que vous obtiendrez là-bas.
+Les enchantements sont des **améliorations spéciales** que vous pouvez appliquer sur vos armes, armures et outils.
+Ils apportent des effets puissants : dégâts bonus, protections avancées, capacités uniques…
 
+Contrairement aux enchantements classiques de Minecraft, ceux-ci sont **plus variés**, ont des **raretés**, et peuvent être **améliorés ou protégés**.
 
----
+Pour obtenir ces enchantements, vous devez passer par les **Donjons**.
 
-## Comment augmenter le taux de réussite ?
-
-Munisez-vous d'une clé donjon et allez affronter la horde de mobs pour avoir une chance d'obtenir des poussières.
-Grâce à elle, vous pourrez augmenter le taux de réussite.
-
-:::danger Attention
-Le donjon est difficile et ne permet pas aux nouveaux joueurs d'y farmer facilement. Il vous faut améliorer vos skills en premier lieu.
+:::important
+Ces enchantements apportent des avantages uniques sur le serveur et sont essentiels pour améliorer vos compétences en combat ou dans les tâches de minage et de récolte.
 :::
 
 ---
 
-## Quels sont les prix des enchantements ?
+## 🎯 À quoi sert une Clé Donjon ?
 
-| **Enchantements**    | **Simple** | **Unique** | **Élite** | **Mythique** | **Légendaire** |
-|--------------------|------------|------------|-----------|--------------|----------------|
-| **Montant**        | 5000 Couronnes | 7500 Couronnes    | 9500 Couronnes  | 12500 Couronnes      | 50 Bambous      |
-| **Récompenses aléatoire**    | Enchantement Simple | Enchantement Unique | Enchantement Élite | Enchantement Mythique | Enchantement Légendaire |
+Elle vous donne accès à une partie où vous pourrez :
+
+* affronter des mobs,
+* gagner des **Couronnes 👑**,
+* obtenir des **poussières**,
+* avancer dans vos missions,
+* récolter des fragments pour créer d’autres clés.
+
+:::tip
+C’est **l’élément central** du système Donjon.
+:::
 
 ---
 
-## Les enchantements Simple
+### 🧩 Comment obtenir une Clé Donjon ?
+En terminant des **Missions Donjon**, vous obtenez des *Fragments de clé*.
+À la *Fabrication de Clés*, vous pouvez assembler ces fragments → **clé donjon**.
+
+---
+
+## 👑 Les Couronnes — La monnaie du système enchantements
+
+Pendant un donjon :
+
+1. Vous entrez avec une **Clé Donjon**.
+2. Vous tuez des mobs.
+3. Vous terminez la partie → vous gagnez des **Couronnes 👑**.
+
+Les couronnes servent dans la boutique à acheter :
+
+* Livres d’enchantement non identifiés
+* Poussières / Parchemins
+* Traqueurs (Mob / Bloc / Poisson)
+* Augmenteurs / protections d’enchantement
+
+➡️ Accès : **/donjon** ou **/boutique**
+
+---
+
+## ⭐ Taux de réussite des enchantements
+
+Chaque livre d’enchantement possède un **taux de réussite** :
+la probabilité que l’enchantement fonctionne.
+
+* **Taux élevé** → très bonnes chances de réussite
+* **Taux faible** → risque d’échec (et destruction du livre)
+
+### ❓ Comment augmenter ce taux ?
+
+Grâce aux **Poussières Magiques**.
+
+---
+
+## ✨ Obtenir des poussières magiques
+
+1. Faites un donjon avec une **Clé Donjon**.
+2. Tuez des mobs → chance d’obtenir des **poussières secrètes**.
+3. Transformez-les en **poussières magiques**.
+4. **Glissez-déposez** les poussières sur votre livre pour augmenter son taux.
+
+---
+
+## 🧙 Les différents services du /donjon
+
+### 🔧 Boutique Donjon
+
+Échangez vos Couronnes contre :
+
+* Livres d’enchantement (5 raretés)
+* Parchemin Noir
+* Augmenteur de Slots
+* Rune Protectrice
+* Traqueurs (Mob / Bloc / Poisson)
+
+---
+
+### ⚙️ Marchand d’enchantements
+
+Permet de **désenchanter** un livre pour obtenir des **poussières**.
+Utile si vous obtenez un enchantement qui ne vous intéresse pas.
+
+---
+
+### 🧪 Alchimiste
+
+Permet de **fusionner deux livres identiques** pour en obtenir un meilleur.
+
+---
+
+### 🔨 Fabrication de Clés Donjon
+
+Utilisez vos **Fragments de clé** pour créer de nouvelles Clés Donjon.
+
+---
+
+## 🔄 Résumé simple
+
+* **Clé Donjon** = entrée du donjon
+* Donjon = mobs + Couronnes + Poussières
+* Couronnes = achetez vos enchantements
+* Poussières = augmentez le taux de réussite
+* Alchimiste = fusion des livres
+* Marchand = recyclage de livres
+* Fabrication = création de clés supplémentaires
+
+---
+## Objets de la boutique enchantements
+
+### 📚 Livres d’enchantement (non identifiés)
+
+| **Rareté**     | **Prix**         | **Récompense obtenue**           |
+| -------------- | ---------------- | -------------------------------- |
+| **Simple**     | 5 000 Couronnes  | Un livre enchanté **Simple**     |
+| **Unique**     | 8 000 Couronnes  | Un livre enchanté **Unique**     |
+| **Élite**      | 10 000 Couronnes | Un livre enchanté **Élite**      |
+| **Mythique**   | 15 000 Couronnes | Un livre enchanté **Mythique**   |
+| **Légendaire** | 20 000 Couronnes | Un livre enchanté **Légendaire** |
+
+---
+
+### 📜 Objets spéciaux
+
+| **Objet**               | **Prix**         | **Description**                                        |
+| ----------------------- | ---------------- | ------------------------------------------------------ |
+| **Parchemin Noir**      | 5 000 Couronnes  | Permet de retirer un enchantement d’un objet.          |
+| **Augmenteur de Slots** | 5 000 Couronnes  | Ajoute **+1 emplacement d’enchantement** sur un objet. |
+| **Rune Protectrice** ⭐  | 50 000 Couronnes | Empêche à 100% la perte de l’objet en cas de mort.     |
+
+---
+
+### 📊 Traqueurs
+
+| **Traqueur**                    | **Prix**        | **Utilité**                            |
+| ------------------------------- | --------------- | -------------------------------------- |
+| **Traqueur de blocs cassés**    | 2 500 Couronnes | Compte le nombre de blocs cassés.      |
+| **Traqueur de poissons pêchés** | 2 500 Couronnes | Compte le nombre de poissons pêchés.   |
+| **Traqueur de monstres tués**   | 2 500 Couronnes | Compte le nombre de monstres éliminés. |
+
+---
+
+### 📘 Missions
+Achetées dans la boutique enchantement avec des dollars $ et non des Couronnes
+
+| **Difficulté** | **Prix** | **Récompense**    |
+| -------------- | -------- | ----------------- |
+| **Facile**     | 2 500$   | Fragments de clé. |
+| **Difficile**  | 5 000$   | Fragments de clé. |
+| **Extrême**    | 10 000$  | Fragments de clé. |
+
+---
+
+## Catégorie et rareté d’enchantement
+
+## 🟢 Les enchantements Simple
 
 
 | Enchantement Simple    | Adapté pour    | Description                                       | CoolDown | Taux de chance | Condition d'activation                                            |
@@ -74,7 +217,7 @@ Le donjon est difficile et ne permet pas aux nouveaux joueurs d'y farmer facilem
 
 ---
 
-## Les enchantements Unique
+## 🔵 Les enchantements Unique
 
 
 | Enchantement Unique    | Adapté pour    | Description                                       | CoolDown | Taux de chance | Condition d'activation                                            |
@@ -156,7 +299,7 @@ Le donjon est difficile et ne permet pas aux nouveaux joueurs d'y farmer facilem
 | Dévorer III           | Épée, Hache    | Chance de restaurer 1 de nourriture lorsque l'on tue un mob | X  | 20%            | Tuer un mob (passif ou hostile)                                   |
 ---
 
-## Les enchantements Elite
+## 🔵 Les enchantements Elite
 
 
 | Enchantement Elite     | Adapté pour    | Description                                       | CoolDown | Taux de chance | Condition d'activation                                            |
@@ -311,7 +454,7 @@ Le donjon est difficile et ne permet pas aux nouveaux joueurs d'y farmer facilem
 | Aimant III             | Épée           | Chance d'attirer les joueurs frappés                 | 5s       | 100%           | Mettre un coup (joueur)                                             |
 ---
 
-## Les enchantements Mythiques
+## 🔴 Les enchantements Mythiques
 
 
 | Enchantement Mythique               | Adapté pour     | Description                                                                    | CoolDown | Taux de chance | Condition d'activation                                   |
@@ -325,6 +468,18 @@ Le donjon est difficile et ne permet pas aux nouveaux joueurs d'y farmer facilem
 | Plantation (carottes) I             | Houe            | Planter des carottes en 3x3                                                    | 3s       | 100%           | Avoir des carottes + clic droit                          |
 | Plantation (carottes) II            | Houe            | Planter des carottes en 3x3                                                    | 2s       | 100%           | Avoir des carottes + clic droit                          |
 | Plantation (carottes) III           | Houe            | Planter des carottes en 3x3                                                    | X        | 100%           | Avoir des carottes + clic droit                          |
+| Plantation (torche-fleur) I         | Houe            | Planter des torche-fleur en 3x3                                                | X        | 100%           | Avoir des torchefleur+ 
+clique droit                        |
+| Plantation (torche-fleur) II        | Houe            | Planter des torches-fleur en 3x3                                               | X        | 100%           | Avoir des torchefleur+
+clique droit                        |
+| Plantation (torche-fleur) III       | Houe            | Planter des torche-fleur en 3x3                                                | X        | 100%           | Avoir des torchefleur+
+clique droit                        | 
+| Plantation ( planturne) I           | Houe            | Planter des planturnes en 3x3                                                  | X        | 100%           | Avoir des planturnes+
+clique droit                        |
+Plantation   ( planturne) II          |                 | Planter des planturnes en 3x3                                                  | X        | 100%           | Avoir des planturnes+
+clique droit                        |
+Plantation   ( planturne) III         |                 | Planter des planturnes en 3x3                                                  | X        | 100%           | Avoir des planturnes+
+clique droit                        |
 | Jambes en gelée I                   | Bottes          | Chance d'annuler les dégâts de chute                                           | X        | 40%            | Équiper les bottes                                       |
 | Jambes en gelée II                  | Bottes          | Chance d'annuler les dégâts de chute                                           | X        | 80%            | Équiper les bottes                                       |
 | Jambes en gelée III                 | Bottes          | Chance d'annuler les dégâts de chute                                           | X        | 100%           | Équiper les bottes                                       |
@@ -467,10 +622,28 @@ Le donjon est difficile et ne permet pas aux nouveaux joueurs d'y farmer facilem
 | Hibou de nuit I                     | Épée            | Augmente les dégâts de 25% contre les mobs la nuit                             | X        | 40%            | Frapper un mob la nuit                                   |
 | Hibou de nuit II                    | Épée            | Augmente les dégâts de 35% contre les mobs la nuit                             | X        | 60%            | Frapper un mob la nuit                                   |
 | Hibou de nuit III                   | Épée            | Augmente les dégâts de 45% contre les mobs la nuit                             | X        | 80%            | Frapper un mob la nuit                                   |
+| Tranchée I                          | Pioche, Pelle   | Casser en 3x3                                                                  | X        | 20%            | Casser un bloc
+                                 |
+| Tranchée II                         | Pioche, Pelle   | Casser en 3x3                                                                  | X        | 30%            | Casser un bloc
+                                 |
+| Tranchée III                        | Pioche, Pelle   | Casser en 3x3                                                                  | X        | 40%            | Casser un bloc
+                                 |
+| Tranchée IV                         | Pioche, Pelle   | Casser en 3x3                                                                  | X        | 50%            | Casser un bloc
+                                 |
+| Tranchée V                          | Pioche, Pelle  | Casser en 3x3                                                                   | X        | 60%            | Casser un bloc
+                                 |
+| Tranchée VI                         | Pioche, Pelle  | Casser en 3x3                                                                   | X        | 70%            | Casser un bloc
+                                 |
+| Tranchée VII                        | Pioche, Pelle  | Casser en 3x3                                                                   | X        | 80%            | Casser un bloc
+                                 |  
+| Tranchée VIII                       | Pioche, Pelle  | Casser en 3x3                                                                   | X        | 90%            | Casser un bloc
+                                 |
+| Tranchée IX                         | Pioche, Pelle  | Casser en 3x3                                                                   | X        | 100%           | Casser un bloc
+                                 |
 
 ---
 
-## Les enchantements Légendaires
+## 🟠 Les enchantements Légendaires
 
 
 | Enchantement Légendaire | Adapté pour les | Description | CoolDown | Taux de chance | Condition d'activation |
@@ -572,10 +745,8 @@ Le donjon est difficile et ne permet pas aux nouveaux joueurs d'y farmer facilem
 | Lancement I             | Épée            | Projette en l'air de 8 unités | 15s | 20% | Clic droit |
 | Lancement II            | Épée            | Projette en l'air de 9 unités | 15s | 27% | Clic droit |
 | Lancement III           | Épée            | Projette en l'air de 10 unités | 10s | 35% | Clic droit |
+
 ---
 
-:::important
-Ces enchantements apportent des avantages uniques sur le serveur et sont essentiels pour améliorer vos compétences en combat ou dans les tâches de minage et de récolte.
-:::
 
 
