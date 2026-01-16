@@ -14,6 +14,10 @@ Avec le grade **Partenaire**, vous pouvez :
 - 🔔 Ping le rôle **📺 Vidéos / Lives** lors de vos annonces discord.
 
 :::warning
+**Pas de spam d’annonces** : merci de rester raisonnable dans la fréquence de publication.
+:::
+
+:::warning
 Les annonces doivent rester raisonnables et respecter les règles du serveur.
 :::
 
