@@ -1,5 +1,3 @@
----
-
 # 📚 Enchantements
 
 Les enchantements sont des **améliorations spéciales** que vous pouvez appliquer sur vos armes, armures et outils.
@@ -657,6 +655,7 @@ clique droit                        |
 | Lancement III           | Épée            | Projette en l'air de 10 unités | 10s | 35% | Clic droit |
 
 ---
+
 
 
 
