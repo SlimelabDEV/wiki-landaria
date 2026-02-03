@@ -27,7 +27,11 @@ Voici une liste non exhaustive des informations des donjons.
 
 * Perte de durabilité désactivée,
 * Perte de l’inventaire à la mort désactivée,
-
+* Enchantements custom désactivés en donjon:
+  * Frappe ❌
+  * Trickster ❌
+  * Kill Aura ❌
+  * Noctambule ❌
 ---
 
 ## 🧩 Comment obtenir une Clé Donjon ?
