@@ -40,6 +40,15 @@ Dans cette catégorie, retrouvez une grande partie des questions qui nous sont p
 
 ---
 
+## 🗺️ Cartes au trésor
+- **Fonctionnalité désactivée volontairement** : Les cartes au trésor trouvées dans les épaves, ruines océaniques et autres structures ne permettent pas de localiser un trésor.
+- Cette fonctionnalité a été désactivée afin d'éviter certains problèmes de performance liés à la génération et à la recherche des cartes.
+:::tip 💡
+- Les trésors enfouis restent présents dans le monde et peuvent toujours être trouvés lors de vos explorations.
+:::
+
+---
+
 ## 🌍 Difficulté des serveurs
 - **Difficulté** : Normal.
 
