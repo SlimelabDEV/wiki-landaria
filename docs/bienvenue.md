@@ -1,43 +1,65 @@
 ---
 sidebar_position: 0
-title: 👋 Bienvenue sur le Wiki
+title: 👋 Bienvenue
 ---
 
-# 👋 Bienvenue sur le Wiki Officiel
-
-Bienvenue sur le wiki officiel de Landaria !  
-Ce site a pour objectif de regrouper toutes les informations essentielles pour bien commencer, progresser, et maîtriser toutes les fonctionnalités proposées sur le serveur.
-
----
-
-## 📖 Comment utiliser ce wiki ?
-
-- Naviguez via le **menu à gauche** pour consulter les différentes catégories
-- Utilisez la barre de recherche en haut à droite pour trouver rapidement une information
-- Cliquez sur les liens internes pour approfondir chaque mécanique
-
----
-
-## 🧠 Contribuer au wiki
-
-Ce wiki est **ouvert aux contributions de la communauté**.  
-Si vous repérez une erreur, ou souhaitez ajouter une page :
-
-- Rendez-vous sur le dépôt GitHub : [SlimelabDEV/wiki-landaria](https://github.com/SlimelabDEV/wiki-landaria)
-- Cliquez sur “Edit this page” sur une page existante
-- Proposez vos modifications en quelques clics
-
----
-
-# 🙌 Contributeurs
-
-Merci aux personnes qui font vivre ce wiki 💚  
+# 👋 Bienvenue sur le wiki officiel de Landaria
 
 <p align="center">
-  <img src="https://contrib.rocks/image?repo=SlimelabDEV/wiki-landaria" alt="Contributeurs GitHub SlimelabDEV" />
+  <img src="/img/background/welcome-background.png" alt="Paysage de Landaria" />
 </p>
+
+Bienvenue sur **Landaria** !
+
+Tu trouveras ici toutes les infos utiles pour bien débuter, progresser tranquillement et comprendre les systèmes du serveur. Que tu sois nouveau joueur, habitué du serveur ou juste en train de chercher une commande oubliée, ce wiki est là pour te guider.
 
 ---
 
-> **Bon jeu à tous, et merci d’être là 💚**
+## 🚀 Bien démarrer
 
+Si tu découvres le serveur, commence ici :
+
+- 📜 [**Règlement**](/docs/Information/rules) : les règles importantes à connaître avant de jouer.
+- ✏️ [**Commandes**](/docs/Information/commands) : toutes les commandes utiles en jeu.
+- ❓ [**FAQ**](/docs/Information/faq) : les réponses aux questions fréquentes.
+- 👑 [**Grades**](/docs/gameplay/grades) : les grades, avantages et progressions disponibles.
+
+---
+
+## ⚙️ Systèmes importants
+
+Pour bien profiter de Landaria, pense aussi à consulter :
+
+- 🌱 [**Farming**](/docs/gameplay/farming) : développer ton agriculture.
+- 🛡️ [**Claims**](/docs/gameplay/claim) : sécuriser tes constructions.
+- 💫 [**Guildes**](/docs/gameplay/guilde) : progresser avec ton groupe.
+- 📈 [**Maisons**](/docs/gameplay/maisons) : participer aux contrats.
+- 🛒 [**Économie**](/docs/gameplay/shop) : découvrir les shops et l'hôtel des ventes.
+
+---
+
+## 🧭 Explorer le wiki
+
+Tu peux aussi parcourir les grandes catégories :
+
+- ℹ️ [**Information**](/docs/category/information) : règles, commandes et questions fréquentes.
+- 🎮 [**Gameplay**](/docs/category/gameplay) : mécaniques principales du serveur.
+- 🎉 [**Divers**](/docs/category/divers) : votes, casino, événements et systèmes annexes.
+
+---
+
+## 🆘 Besoin d'aide ?
+
+Si tu ne trouves pas une information, consulte la [**FAQ**](/docs/Information/faq) ou demande de l'aide au staff.
+Le wiki évolue avec le serveur, donc certaines pages peuvent être complétées ou améliorées avec le temps.
+
+---
+
+## 💚 Contribuer
+
+Tu as repéré une erreur ou une information manquante ?
+Tu peux proposer une correction via le dépôt GitHub [**SlimelabDEV/wiki-landaria**](https://github.com/SlimelabDEV/wiki-landaria) ou contacter l'équipe du serveur.
+
+---
+
+> **Bon jeu sur Landaria, et amuse-toi bien ! 🎮**
