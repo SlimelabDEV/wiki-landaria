@@ -1,137 +1,202 @@
-﻿---
+---
 title: 📈 Maisons & contrats
-description: Comprendre les Maisons, les contrats, les participations et les dividendes.
-sidebar_position: 1
+description: Comprendre les Maisons, les contrats, les participations, le budget et les dividendes.
+sidebar_position: 3
 ---
 
 # 📈 Maisons & contrats
 
-Les **Maisons** représentent différents secteurs d'activité en rapport avec les métiers du serveur. Chaque Maison possède son propre budget, sa valeur de participation, ses dividendes et ses contrats.
+Les **Maisons** sont un système économique communautaire. Chaque Maison représente une activité du serveur : minage, agriculture, pêche, chasse, bois, équipement ou enchantement.
 
-En participant aux contrats, vous pouvez gagner des **participations**. Ces participations peuvent ensuite être conservées pour recevoir des dividendes réguliers, ou revendues directement contre de l'argent.
+En participant aux contrats, vous gagnez des **participations** dans une Maison. Ces participations peuvent ensuite être conservées pour toucher des **dividendes**, ou revendues contre de l'argent si la Maison possède assez de budget.
 
 :::info
-Les Maisons sont un système communautaire : plus les joueurs participent, plus les contrats avancent vite et plus l'économie des Maisons devient active.
+Les Maisons ne sont pas des métiers personnels. Tout le monde peut participer à un contrat, même sans exercer le métier correspondant.
 :::
+
+## 🧭 Résumé rapide
+
+- Un seul contrat de Maison peut être actif à la fois.
+- Un nouveau contrat apparaît régulièrement, environ toutes les **78 minutes** après le précédent.
+- Un contrat dure au maximum **20 minutes**.
+- Si le contrat est terminé, les participants gagnent des participations.
+- Si le contrat expire avant d'être terminé, aucune participation n'est distribuée.
+- Une Maison gagne du budget quand son contrat est terminé.
+- Le budget sert ensuite à payer les dividendes et à racheter les participations vendues par les joueurs.
+
+---
 
 ## 📖 Ouvrir le menu des Maisons
 
-Pour ouvrir le menu principal des Maisons, utilisez :
+Pour ouvrir le menu principal :
 
 ```text
 /maison
 ```
 
-Depuis ce menu, vous pouvez consulter les Maisons disponibles, voir vos participations, suivre la valeur des parts, estimer vos dividendes et accéder au menu des contrats.
+Depuis ce menu, vous pouvez consulter les Maisons, le prix d'une participation, la caisse de chaque Maison et vos participations.
 
 ![Menu des Maisons](/img/maisons/maisons.png)
 
-## 🏠 Les Maisons disponibles
-
-Chaque Maison correspond à un type d'activité du serveur.
-
-| Maison | Activité principale |
-| --- | --- |
-| **Mineur** | Ressources de minage et blocs de pierre |
-| **Bûcheron** | Bois, bûches et tiges |
-| **Chasseur** | Ressources de mobs et combat |
-| **Fermier** | Cultures, agriculture et élevage |
-| **Pêcheur** | Pêche et ressources aquatiques |
-| **Armurier** | Équipements, armures et armes |
-| **Enchanteur** | Ressources liées à l'enchantement |
-
-:::tip
-Vous pouvez participer à plusieurs Maisons. Vos participations sont séparées pour chaque Maison.
-:::
-
-## 🤝 Les contrats
-
-Les contrats sont des objectifs communs lancés automatiquement tous les 1h30 par les Maisons.
-
-Quand un contrat est actif, tous les joueurs peuvent contribuer au même objectif en déposant la ressource demandée. Chaque dépôt fait avancer la progression globale du contrat.
-
-Pour ouvrir le menu de dépôt du contrat actif :
+Vous pouvez aussi utiliser :
 
 ```text
-/contrat
+/maison list
+/maison house <maison>
 ```
 
-![Menu du contrat](/img/maisons/contrat.png)
+---
 
-Dans ce menu, déposez uniquement la ressource demandée. Les ressources invalides ne sont pas prises en compte.
+## 🏠 Les Maisons disponibles
 
-:::info
-Un contrat est un objectif commun : tous les joueurs du serveur peuvent contribuer ensemble pour le terminer.
+Chaque Maison possède sa propre caisse, ses propres participations et ses propres contrats.
+
+| Maison | Clé à utiliser | Ressources possibles |
+| --- | --- | --- |
+| **Maison des Mineurs** | `mineur` | Roche, pierre, granite, diorite, andésite, netherrack, pierre de l'End... |
+| **Maison des Fermiers** | `fermier` | Blé, carottes, pommes de terre, betteraves, bambou, cactus, cuir... |
+| **Maison des Pêcheurs** | `pecheur` | Morues, saumons, nénuphars, poches d'encre, ficelles |
+| **Maison des Bûcherons** | `bucheron` | Bûches de chêne, sapin, bouleau, acajou, acacia, mangrove, cerisier... |
+| **Maison des Chasseurs** | `chasseur` | Viandes crues, os, chair putréfiée, poudre à canon, bâtons de blaze... |
+| **Maison des Armuriers** | `armurier` | Épées, bottes, casques, plastrons et jambières en cuir, fer ou or |
+| **Maison des Enchanteurs** | `enchanteur` | Cuir, papier, lapis-lazuli, poudre lumineuse, poudre de blaze, perles de l'Ender |
+
+:::tip
+Vos participations sont séparées par Maison. Avoir des participations chez les Mineurs ne donne rien chez les Chasseurs, et inversement.
 :::
 
-## 🎯 Participer à un contrat
+---
+
+## 🤝 Fonctionnement des contrats
+
+Un contrat demande à tous les joueurs de livrer une ressource précise pour une Maison précise.
+
+Exemple : la Maison des Mineurs peut demander de la roche, tandis que la Maison des Fermiers peut demander du blé ou des carottes.
 
 Pour participer :
 
-1. Ouvrez le menu avec `/contrat`.
-2. Regardez la ressource demandée.
-3. Déposez cette ressource dans le menu.
-4. Votre contribution est ajoutée au contrat.
-5. Si le contrat est terminé, un classement est affiché.
+1. Attendez qu'un contrat soit actif.
+2. Ouvrez le menu avec `/contrat`.
+3. Regardez la ressource demandée.
+4. Déposez uniquement cette ressource dans le menu.
+5. Votre contribution est ajoutée au total du contrat.
 
-Plus vous contribuez, plus votre part dans les récompenses du contrat peut être importante.
+![Menu du contrat](/img/maisons/contrat.png)
+
+:::warning
+Le menu accepte uniquement la ressource demandée par le contrat actif. Les autres objets ne comptent pas.
+:::
+
+Si vous déposez plus que ce qu'il reste à fournir, seul le nécessaire est accepté. Le surplus est rendu dans votre inventaire, ou tombe au sol si votre inventaire est plein.
+
+---
+
+## 🎯 Objectifs des contrats
+
+L'objectif dépend de la Maison sélectionnée.
+
+| Maison | Objectif possible |
+| --- | --- |
+| Mineurs | entre **50 000** et **100 000** ressources |
+| Fermiers | entre **25 000** et **75 000** ressources |
+| Pêcheurs | entre **1 000** et **5 000** ressources |
+| Bûcherons | entre **25 000** et **75 000** ressources |
+| Chasseurs | entre **25 000** et **75 000** ressources |
+| Armuriers | entre **500** et **2 000** ressources |
+| Enchanteurs | entre **25 000** et **75 000** ressources |
+
+La ressource et l'objectif exact changent à chaque contrat.
+
+---
 
 ## 🏆 Fin de contrat et classement
 
-Quand un contrat est terminé, le serveur affiche un classement des participants.
+Quand l'objectif est atteint, le contrat se termine et un classement est affiché.
 
-Le classement indique :
+Le classement montre :
 
 - les joueurs qui ont participé ;
 - la quantité de ressources déposées ;
 - les participations gagnées ;
-- la Maison concernée par le contrat.
+- la Maison concernée ;
+- la ressource demandée.
 
 ![Classement de contrat](/img/maisons/classement.png)
 
-:::tip
-Après un contrat, vous pouvez garder vos participations pour recevoir des dividendes, ou les vendre pour gagner de l'argent directement.
-:::
+Les participations sont réparties selon la contribution de chacun. Plus vous avez contribué dans le contrat, plus votre part de la récompense est élevée.
+
+---
 
 ## 🕋 Les participations
 
-Les participations représentent votre part dans une Maison.
+Les **participations** représentent vos parts dans une Maison.
 
 Elles servent à deux choses :
 
-- recevoir des dividendes réguliers ;
-- être revendues contre de l'argent.
+- toucher des dividendes réguliers ;
+- être vendues contre de l'argent.
 
-Chaque Maison possède sa propre valeur de participation. Par exemple, vos participations dans la Maison Mineur sont séparées de celles de la Maison Chasseur.
+Chaque Maison possède son propre prix de participation. Le prix commence bas, puis peut augmenter progressivement quand beaucoup de participations sont conservées par les joueurs.
 
-## 💰 Les dividendes
+:::tip
+Un contrat distribue une récompense globale convertie en participations. Si le prix d'une participation est bas, le contrat distribue plus de participations. Si le prix est plus élevé, il en distribue moins.
+:::
 
-Si vous conservez vos participations, vous pouvez recevoir des dividendes.
+---
 
-Les dividendes dépendent du budget de la Maison et du nombre de participations en circulation. Plus une Maison possède un budget élevé, plus les dividendes peuvent être intéressants.
+## 💰 Budget des Maisons
 
-Dans le menu des Maisons, vous pouvez voir :
+Chaque Maison possède une **caisse**, aussi appelée budget.
 
-- le prix d'une participation ;
-- le budget de la Maison ;
-- les dividendes estimés par participation ;
-- vos participations ;
-- votre valeur de vente ;
-- vos dividendes estimés.
+La caisse augmente quand un contrat de cette Maison est terminé. Un contrat terminé ajoute environ **11 000$** au budget de la Maison.
+
+Cette caisse sert ensuite à deux choses :
+
+- payer les dividendes aux joueurs qui gardent leurs participations ;
+- racheter les participations quand un joueur utilise `/maison sell`.
+
+:::warning
+Si une Maison n'a plus assez de budget, elle ne peut pas tout payer. Les dividendes deviennent très faibles ou nuls, et la vente de participations peut être refusée si la caisse ne contient pas assez d'argent.
+:::
+
+---
+
+## 💸 Les dividendes
+
+Les dividendes sont versés environ toutes les **heures** aux joueurs qui possèdent encore des participations.
+
+Le montant dépend de trois éléments :
+
+- le budget actuel de la Maison ;
+- le nombre total de participations conservées par les joueurs ;
+- votre nombre de participations dans cette Maison.
+
+En pratique, la Maison utilise une petite partie de sa caisse pour calculer le paiement par participation. Plus la Maison a de budget, plus le dividende par participation peut monter. Plus il y a de participations en circulation, plus ce montant est partagé entre les joueurs.
+
+Exemple simplifié :
+
+- une Maison possède **11 000$** de budget ;
+- elle a **10 000** participations en circulation ;
+- le dividende estimé est d'environ **0,011$ par participation** ;
+- un joueur avec **500** participations reçoit environ **5,50$** lors du versement.
+
+Après le paiement, l'argent versé est retiré de la caisse de la Maison.
 
 ![Informations d'une Maison](/img/maisons/maison.png)
 
-## 💸 Vendre ses participations
+---
 
-Si vous préférez récupérer de l'argent directement, vous pouvez vendre vos participations.
+## 💵 Vendre ses participations
 
-Pour vendre une quantité précise :
+Si vous préférez récupérer de l'argent immédiatement, vous pouvez vendre vos participations.
+
+Vendre une quantité précise :
 
 ```text
 /maison sell <maison> <nombre>
 ```
 
-Pour vendre toutes vos participations d'une Maison :
+Vendre toutes vos participations d'une Maison :
 
 ```text
 /maison sell <maison> all
@@ -143,9 +208,15 @@ Exemple :
 /maison sell chasseur all
 ```
 
+Le montant reçu dépend du prix actuel de la participation dans cette Maison.
+
 :::warning
-Vendre vos participations vous donne de l'argent immédiatement, mais vous ne recevrez plus de dividendes sur les participations vendues.
+La vente utilise la caisse de la Maison. Si la Maison n'a pas assez de budget pour racheter vos participations, la vente ne peut pas se faire pour ce montant.
 :::
+
+Vendre vos participations donne de l'argent tout de suite, mais vous ne toucherez plus de dividendes sur les participations vendues.
+
+---
 
 ## 📋 Commandes utiles
 
@@ -153,37 +224,32 @@ Vendre vos participations vous donne de l'argent immédiatement, mais vous ne re
 | --- | --- |
 | `/maison` | Ouvre le menu principal des Maisons |
 | `/contrat` | Ouvre le menu du contrat actif |
-| `/maison list` | Affiche les Maisons et vos participations |
-| `/maison house <maison>` | Affiche les informations d'une Maison |
+| `/maison list` | Affiche les Maisons, les prix, les budgets et vos participations |
+| `/maison house <maison>` | Affiche les détails d'une Maison |
 | `/maison sell <maison> <nombre>` | Vend une quantité de participations |
 | `/maison sell <maison> all` | Vend toutes vos participations d'une Maison |
 
-## ✅ Bonnes pratiques
+---
 
-- Participez aux contrats des Maisons qui vous intéressent.
-- Gardez vos participations si vous voulez recevoir des dividendes.
-- Vendez vos participations si vous voulez de l'argent immédiatement.
-- Regardez le budget et les dividendes avant de vendre.
-- Utilisez `/contrat` régulièrement pour voir si un objectif commun est actif.
-- Contribuez avec les autres joueurs pour terminer les contrats plus vite.
+## ✅ Conseils
 
-## 👷 Métiers personnels et Maisons (en développement)
+- Consultez régulièrement `/contrat` pour ne pas manquer un contrat actif.
+- Gardez des participations si vous voulez recevoir des dividendes sur la durée.
+- Vendez des participations si vous voulez récupérer de l'argent immédiatement.
+- Regardez toujours la caisse d'une Maison avant de vendre beaucoup de participations.
+- Les contrats terminés renforcent la caisse de la Maison, donc ils profitent aussi aux joueurs qui gardent leurs participations.
+- Participer à plusieurs Maisons permet de diversifier vos sources de dividendes.
 
-![dev](https://i.ebayimg.com/images/g/nvQAAOSwmVZjD3HB/s-l1200.png)
+---
 
-Les **Maisons** et les **métiers personnels** sont actuellement deux systèmes distincts.
+## 👷 Maisons et métiers personnels
 
-Les métiers personnels permettent de gagner de l'argent en réalisant différentes activités sur le serveur, tandis que les Maisons reposent sur les contrats, les participations et les dividendes.
+Les Maisons et les métiers personnels sont deux systèmes séparés.
 
-Par exemple :
+Vous pouvez très bien :
 
-- vous pouvez exercer le métier de Mineur sans posséder de participations dans la Maison Mineur ;
-- vous pouvez posséder des participations dans la Maison Pêcheur sans pratiquer la pêche ;
-- les contrats sont ouverts à tous les joueurs, quel que soit leur métier favori.
+- miner sans posséder de participations chez les Mineurs ;
+- posséder des participations chez les Pêcheurs sans pêcher ;
+- participer à un contrat de Maison même si ce n'est pas votre activité principale.
 
-Les Maisons représentent avant tout un système économique communautaire. Les métiers personnels restent quant à eux un moyen de générer des revenus grâce à vos activités.
-
-:::info
-Pour le moment, les Maisons et les métiers personnels sont indépendants l'un de l'autre. Participer à une Maison ne modifie pas les gains de votre métier, et exercer un métier ne vous accorde pas automatiquement de participations dans une Maison.
-:::
-
+Les métiers servent à gagner de l'argent avec vos activités personnelles. Les Maisons servent surtout aux contrats communautaires, aux participations, aux budgets et aux dividendes.

@@ -4,7 +4,7 @@ sidebar_position: 13
 
 # 📜 Pub
 
-Bienvenue dans le guide des Pub ! Ce guide vous expliquera comment utiliser les commandes Pub.
+Bienvenue dans le guide de la **Pub** ! Cette page explique comment préparer, tester et envoyer une annonce propre sur Landaria.
 
 ![Image de Pub](/img/pub/pub.png)
 
@@ -12,39 +12,46 @@ Bienvenue dans le guide des Pub ! Ce guide vous expliquera comment utiliser les 
 
 ## 💻 Commandes Pub
 
-### 🔑 **Commande Principale :**
-La commande **`/pub`** est utilisée pour toutes les interactions relatives au mariage. Voici une liste des sous-commandes disponibles et leurs utilisations :
+### 🔑 **Commande principale**
 
-- ### **`/pub help`**
-    - **Description :** Affiche ce panneau d'aide.
-    - **Exemple :** `/pub help`
+La commande **`/pub`** permet de gérer vos annonces publiques liées au jeu : présentation d'un shop, information utile, vente, warp ou projet joueur.
 
 ---
 
-- ### **`/pub set <message>`**
-    - **Description :** Enregistre votre messages de pub.
-    - **Exemple :** `/pub set Bienvenue chez sur Viking`
+### **`/pub help`**
+
+- **Description :** Affiche le panneau d'aide des commandes Pub.
+- **Exemple :** `/pub help`
 
 ---
 
-- ### **`/pub type <warp/info/vente>`**
-    - **Description :** Change le type de votre pub.
-    - **Exemple :** `/pub type info`
+### **`/pub set <message>`**
+
+- **Description :** Enregistre le message de votre pub.
+- **Exemple :** `/pub set Bienvenue dans mon shop Landaria`
 
 ---
 
-- ### **`/pub test`**
-    - **Description :** Affiche votre pub uniquement pour vous.
+### **`/pub type <warp/info/vente>`**
+
+- **Description :** Change le type de votre pub.
+- **Exemple :** `/pub type info`
 
 ---
 
-- ### **`/pub push`**
-    - **Description :** Envoie votre pub publiquement.
-    - **Info :** Cooldown de 30min entre chaque.
+### **`/pub test`**
 
+- **Description :** Affiche votre pub uniquement pour vous, afin de la vérifier avant envoi.
+
+---
+
+### **`/pub push`**
+
+- **Description :** Envoie votre pub publiquement.
+- **Info :** Un cooldown de 30 minutes s'applique entre deux envois.
 
 ---
 
 ## 📜 Conclusion
 
-Nous espérons que ce guide vous a aidé à comprendre comment fonctionne le système de pub sur notre serveur. Si vous avez d'autres questions, n'hésitez pas à contacter un membre du staff ! 💕
+Utilisez la pub pour partager une information claire, utile et liée au serveur. En cas de doute sur ce qui est autorisé, consultez le règlement ou demandez au staff.
