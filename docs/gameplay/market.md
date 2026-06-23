@@ -50,6 +50,10 @@ La recherche peut servir à trouver un item précis ou les markets d'un joueur.
 
 ## 🧰 Créer un market
 
+![Créer un market sur un coffre](/img/market/market-create.gif)
+
+Ce GIF montre la création d'un market directement sur le coffre regardé.
+
 Pour créer un market :
 
 1. Placez un coffre ou un tonneau.
@@ -58,6 +62,10 @@ Pour créer un market :
 4. Lancez une commande de création.
 
 Le prix indiqué est le **prix à l'unité**.
+
+![Coffre market avec une offre de vente](/img/market/market-one-offer.png)
+
+Dans cet exemple, le coffre contient une seule offre de vente.
 
 ### Market de vente
 
@@ -101,6 +109,10 @@ Pour que les joueurs puissent vendre, votre solde doit permettre de payer les ac
 
 Un même coffre market peut contenir plusieurs offres.
 
+![Market avec deux offres de vente](/img/market/market-two-offers.png)
+
+Dans cet exemple, le même coffre propose deux offres de vente différentes.
+
 ```text
 /market add <sell|buy> <prix>
 ```
@@ -118,6 +130,10 @@ Un coffre market peut contenir jusqu'à **4 offres**. Vous ne pouvez pas ajouter
 ## ⚙️ Gérer son market
 
 Cliquez sur votre coffre market pour ouvrir son menu de gestion.
+
+![Menu de gestion du market côté propriétaire](/img/market/market-owner-menu.png)
+
+Ce menu permet au propriétaire de gérer les offres, les membres et les réglages du coffre market.
 
 Depuis ce menu, vous pouvez :
 
