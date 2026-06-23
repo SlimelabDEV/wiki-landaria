@@ -14,7 +14,7 @@ Bienvenue dans le guide de la **Pub** ! Cette page explique comment préparer, t
 
 ### 🔑 **Commande principale**
 
-La commande **`/pub`** permet de gérer vos annonces publiques liées au jeu : présentation d'un shop, information utile, vente, warp ou projet joueur.
+La commande **`/pub`** permet de gérer vos annonces publiques liées au jeu : présentation d'un market, information utile, vente, warp ou projet joueur.
 
 ---
 
@@ -28,7 +28,7 @@ La commande **`/pub`** permet de gérer vos annonces publiques liées au jeu : p
 ### **`/pub set <message>`**
 
 - **Description :** Enregistre le message de votre pub.
-- **Exemple :** `/pub set Bienvenue dans mon shop Landaria`
+- **Exemple :** `/pub set Bienvenue dans mon market Landaria`
 
 ---
 

@@ -30,7 +30,7 @@ Pour bien profiter de Landaria, pense aussi à consulter :
 - 🛡️ [**Claims**](/docs/gameplay/claim) : sécuriser tes constructions.
 - 💫 [**Guildes**](/docs/gameplay/guilde) : progresser avec ton groupe.
 - 📈 [**Maisons**](/docs/gameplay/maisons) : participer aux contrats.
-- 🛒 [**Économie**](/docs/gameplay/shop) : découvrir les shops et l'hôtel des ventes.
+- 🛒 [**Économie**](/docs/gameplay/market) : découvrir les markets et l'hôtel des ventes.
 
 ---
 

@@ -34,7 +34,7 @@ Voici la liste complète des commandes disponibles sur le serveur Landaria. Ces 
 - **/money &lt;pseudo&gt;** : Permet de voir l'argent d'un joueur.
 - **/salaire** : Ouvre la liste des salaires.
 - **/trade &lt;pseudo&gt;** : Permet de faire un échange sécurisé.
-- **/shop &lt;vendre/acheter&gt; &lt;item&gt;** : Chercher un shop par item.
+- **/market search &lt;item/pseudo&gt;** : Chercher un market par item ou joueur.
 - **/ah** : Ouvrir l'hôtel des ventes.
 - **/ah sell &lt;prix&gt; &lt;nombre&gt;** : Vendre des items.
 - **/ah search &lt;joueur&gt;** : Voir les ventes d'un joueur.

@@ -4,11 +4,11 @@ sidebar_position: 9
 
 # 🏡 Hotel des ventes
 
-**L'hôtel des ventes** est un shop à la disposition de tous les joueurs qui vous permettra de vendre ainsi que d'acheter des items. Seuls les joueurs d'un même serveur peuvent y accéder.
+**L'hôtel des ventes** est une interface à la disposition de tous les joueurs qui vous permettra de vendre ainsi que d'acheter des items. Seuls les joueurs d'un même serveur peuvent y accéder.
 
 Chaque joueur peut vendre ses items dans l'hôtel des ventes au prix qu'il le souhaite. À l'inverse, il peut également acheter les items mis en vente par d'autres joueurs au prix choisi par ceux-ci.
 
-L'hôtel des ventes n'est donc pas une vente aux enchères, mais bien un shop à part entière à distinguer des coffres de vente.
+L'hôtel des ventes n'est donc pas une vente aux enchères, mais bien un système de vente à part entière à distinguer des coffres de vente.
 
 ### Exemple 📝 :
 Je décide de mettre ma pioche extra 6 en vente dans l'hôtel des ventes lundi à 13h30. Cela signifie qu'à partir de là, si personne ne l'achète avant qu'elle n'expire dans l'hôtel des ventes, elle me sera retournée automatiquement à partir de jeudi à 13h30. Je n'ai rien gagné, mais je n'ai pas non plus perdu mon objet.

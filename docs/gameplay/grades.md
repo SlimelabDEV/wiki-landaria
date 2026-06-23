@@ -63,6 +63,6 @@ Découvrez les différents grades disponibles sur le serveur et les avantages qu
 | **/cartographytable**       | ❌      | ❌ | ❌ | ✅ | ✅              |
 | **Items au /ah**             | 25      | 50 | 75 | 100 | 100            |
 | **Nombre de home**           | 5       | 15 | 25 | 50 | 50             |
-| **Coffre de shop**           | 10      | 20 | 25 | 25 | 25             |
+| **Coffre de market**         | 10      | 20 | 25 | 25 | 25             |
 | **Salaire par heure**        | 50      | 100 | 150 | 200 | 200            |
 | **Kit**                     | Kit Citoyen | Kit Tortue | Kit Renard | Kit Panda | Kit Panda      |
