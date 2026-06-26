@@ -9,22 +9,28 @@ Voici la liste complète des commandes disponibles sur le serveur Landaria. Ces 
 ---
 
 ## Commandes Générales 🛠️
-- **/regles** : Ouvre le lien vers le règlement.
+- **/regles** : Ouvre le lien vers le règlement du serveur.
+- **/wiki** : Ouvre le lien vers le wiki du serveur.
 - **/menu** : Ouvre le menu principal du serveur.
 - **/boutique** : Ouvre le menu boutique du serveur.
-- **/buy** : Ouvre le menu achat de points.
-- **/skill** : Ouvre le menu compétences et salaires.
+- **/buy** : Ouvre le menu achat de perles.
+- **/buy \<pseudo\>** : Ouvre le menu d'achat de perles pour les offrir au joueur souhaité.
+- **/skill ou /sk** : Ouvre le menu compétences et salaires.
 - **/skill top** : Ouvre le menu des classements des compétences.
 - **/liens** : Affiche les liens vers nos sites.
 - **/niveau** : Permet de voir vos statistiques.
 - **/ec** : Ouvre votre enderchest.
-- **/quete** : Ouvre le menu des quêtes.
+- **/quete ou /q** : Ouvre le menu des quêtes.
 - **/profil** : Ouvre le menu profil et options.
+- **/option ou /options** : Ouvre le menu des options directement.
 - **/kit** : Ouvre le menu des kits.
 - **/seen \<pseudo\>** : Permet de voir la dernière connexion d’un joueur.
 - **/stats** : Permet de voir vos statistiques.
 - **/time \<pseudo\>** : Permet de voir le temps de jeu et la première connexion d'un joueur.
 - **/rtp** : Ouvre le menu de téléportation aléatoire.
+- **/bossbar** : Affiche ou retire les barres d'informations en haut de l'écran.
+- **/sb** : Affiche ou retire le scoreboard à droite de l'écran.
+- **/m \<pseudo\>** ou **/msg \<pseudo\>** : Envoie un message privé à un autre joueur.
 
 ---
 
@@ -38,19 +44,20 @@ Voici la liste complète des commandes disponibles sur le serveur Landaria. Ces 
 - **/ah** : Ouvrir l'hôtel des ventes.
 - **/ah sell &lt;prix&gt; &lt;nombre&gt;** : Vendre des items.
 - **/ah search &lt;joueur&gt;** : Voir les ventes d'un joueur.
+- **/paytoggle** : Bloque ou autorise les paiements provenant des autres joueurs.
 
 ---
 
 ## Commandes Téléportation 🌍
 - **/back** : Vous téléporte à votre dernière position.
 - **/dback** : Vous téléporte à votre dernière position de mort.
-- **/home &lt;nom&gt;** : Permet de voir vos homes et vous téléporter.
+- **/h ou /home &lt;nom&gt;** : Permet de voir vos homes et vous téléporter.
 - **/sethome &lt;nom&gt;** : Permet de créer un home.
 - **/delhome &lt;nom&gt;** : Permet de supprimer un home.
 - **/warp** : Ouvre le menu des warps.
 - **/setwarp** : Permet de créer votre warp.
 - **/delwarp** : Permet de supprimer votre warp.
-- **/pvp** : Vous téléporte vers l'arène PvP.
+- **/pvp** : Ouvre le menu des arènes PvP. (Nécessite 5h de jeu pour pouvoir s'y rendre)
 - **/ender** : Vous téléporte vers le monde End.
 - **/tpa &lt;pseudo&gt;** : Téléporte vers un joueur avec son accord.
 - **/tpahere &lt;pseudo&gt;** : Téléporte un joueur à vous avec son accord.
@@ -59,6 +66,9 @@ Voici la liste complète des commandes disponibles sur le serveur Landaria. Ces 
 - **/creatif** : Vous téléporte vers le serveur créatif.
 - **/jeux** : Vous téléporte vers le serveur jeux.
 - **/hub** : Retour au hub.
+- **/spawn** : Vous téléporte vers le spawn.
+- **/casino** : Vous téléporte vers le Casino du serveur.
+- **/crate ou /crates** : Vous téléporte vers l'emplacement des différentes caisses d'évent, vote, pêche... du spawn.
 
 ---
 
@@ -93,6 +103,11 @@ Voici la liste complète des commandes disponibles sur le serveur Landaria. Ces 
 - **/claim list** : Liste de toutes vos régions.
 - **/claim chat &lt;message&gt;** : Parler à un joueur de votre région.
 - **/claim near** : Affiche les régions proches de vous.
+- **/claim help** : Liste des différentes commandes d'aide du /claim.
+- **/claim transfert \<pseudo\>** : Permet de transférer le claim où vous êtes au joueur défini.
+- **/claim transfert accepter** : Accepter la demande de transfert du claim.
+- **/claim transfert refuser** : Refuser la demande de transfert du claim.
+- **/claim trusted** : Liste de tous les claims des joueurs dans lesquels vous êtes membre ou admin.
 
 ---
 
@@ -100,6 +115,7 @@ Voici la liste complète des commandes disponibles sur le serveur Landaria. Ces 
 - **/g create** : Créer une guilde.
 - **/g delete** : Supprime votre guilde.
 - **/g prefix &lt;nom&gt;** : Change le préfix de guilde.
+- **/g rename &lt;nom&gt;** : Change le nom de guilde visible dans le chat.
 - **/g sethome** : Définit le home de la guilde.
 - **/g delhome** : Supprime le home de guilde.
 - **/g home** : Téléporte au home de la guilde.
@@ -111,6 +127,7 @@ Voici la liste complète des commandes disponibles sur le serveur Landaria. Ces 
 - **/g list** : Affiche la liste des guildes.
 - **/g members** : Ouvre le menu des membres de la guilde.
 - **/g promote** : Promouvoir un membre de la guilde.
+- **/g demote** : Rétrograder un membre de la guilde.
 - **/g status** : Change la guilde en public ou privé.
 - **/g gc** : Active le chat de guilde.
 - **/g ac** : Active le chat d'alliance de guilde.
@@ -120,4 +137,14 @@ Voici la liste complète des commandes disponibles sur le serveur Landaria. Ces 
 - **/g bank withdraw &lt;nombre&gt;** : Retirer de l'argent de la banque de guilde.
 - **/g bank deposit &lt;nombre&gt;** : Déposer de l'argent dans la banque de guilde.
 - **/g upgrade** : Améliore ta guilde.
+- **/g transfer \<pseudo\>** : Transfère la propriété de la guilde au joueur souhaité.
+
+---
+
+## Commandes de debug
+- **/edebug** (en tenant l'item en main) : Permet de résoudre des bugs présents sur un item, des poussières magiques, des livres d'enchantements customs non fonctionnels et plus encore.
+
+:::tip 💡
+La commande `/edebug` peut ne pas résoudre tous les soucis de l'item. Dans ce cas, il est nécessaire d'ouvrir un ticket pour expliquer le problème au staff. Un remboursement ou un échange pourra être effectué.
+:::
 
