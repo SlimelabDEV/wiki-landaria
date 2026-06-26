@@ -36,6 +36,11 @@ Votre échelon est visible en passant la souris sur votre pseudo dans le chat.
 | 1000+              | 🔥 Populaire                                  |
 | 1500+              | 🎖 Respecté                                   |
 | 2000+              | 🏆 Icône du Serveur                           |
+| 3000+              | ⚡ Légende Vivante                            |
+| 5000+              | 🐉 Mythe                                      |
+| 7500+              | ⭐ Héros du Serveur                           |
+| 10000+             | 🌌 Divinité                                   |
+| 20000+             | 👑 Champion Suprême                           |
 
 ---
 
