@@ -376,7 +376,7 @@ Achetées dans la boutique enchantement avec des dollars $ et non des Couronnes
 | Plantation (carottes) I             | Houe            | Planter des carottes en 3x3                                                    | 3s       | 100%           | Avoir des carottes + clic droit                          |
 | Plantation (carottes) II            | Houe            | Planter des carottes en 3x3                                                    | 2s       | 100%           | Avoir des carottes + clic droit                          |
 | Plantation (carottes) III           | Houe            | Planter des carottes en 3x3                                                    | X        | 100%           | Avoir des carottes + clic droit                          |
-| Plantation (torche-fleur) I         | Houe            | Planter des torche-fleur en 3x3                                                | X        | 100%           | Avoir des torchefleur+ 
+| Plantation (torche-fleur) I         | Houe            | Planter des torche-fleur en 3x3                                                | X        | 100%           | Avoir des torchefleur+ |
 clique droit                        |
 | Plantation (torche-fleur) II        | Houe            | Planter des torches-fleur en 3x3                                               | X        | 100%           | Avoir des torchefleur+
 clique droit                        |
@@ -530,7 +530,7 @@ clique droit                        |
 | Hibou de nuit I                     | Épée            | Augmente les dégâts de 25% contre les mobs la nuit                             | X        | 40%            | Frapper un mob la nuit                                   |
 | Hibou de nuit II                    | Épée            | Augmente les dégâts de 35% contre les mobs la nuit                             | X        | 60%            | Frapper un mob la nuit                                   |
 | Hibou de nuit III                   | Épée            | Augmente les dégâts de 45% contre les mobs la nuit                             | X        | 80%            | Frapper un mob la nuit                                   |
-| Tranchée I                          | Pioche, Pelle   | Casser en 3x3                                                                  | X        | 20%            | Casser un bloc
+| Tranchée I                          | Pioche, Pelle   | Casser en 3x3                                                                  | X        | 20%            | Casser un bloc |
                                  |
 | Tranchée II                         | Pioche, Pelle   | Casser en 3x3                                                                  | X        | 30%            | Casser un bloc
                                  |

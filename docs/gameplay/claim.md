@@ -1,44 +1,44 @@
 ---
 title: 🛡️ Guide des claims
-description: Apprendre a creer, gerer et proteger son claim sur le serveur.
+description: Apprendre à créer, gérer et protéger son claim sur le serveur.
 sidebar_position: 6
 ---
 
 # 🛡️ Les claims
 
-Les claims permettent de proteger vos constructions et de gerer qui peut entrer, construire, interagir ou participer a votre territoire.
+Les claims permettent de protéger vos constructions et de gérer qui peut entrer, construire, interagir ou participer à votre territoire.
 
-Un claim protege une zone precise du monde. Vous pouvez ensuite y ajouter des membres, regler des options, afficher ses limites, definir un point de teleportation ou bloquer certains joueurs.
+Un claim protège une zone précise du monde. Vous pouvez ensuite y ajouter des membres, régler des options, afficher ses limites, définir un point de téléportation ou bloquer certains joueurs.
 
 :::info
-Certains mondes peuvent etre bloques pour la creation de claims, comme le spawn ou les zones PvP.
+Certains mondes peuvent être bloqués pour la création de claims, comme le spawn ou les zones PvP.
 :::
 
-## 🔎 Avant de creer un claim
+## 🔎 Avant de créer un claim
 
-Avant de vous installer, verifiez les claims proches avec :
+Avant de vous installer, vérifiez les claims proches avec :
 
 ```text
 /claim near
 ```
 
-Cette commande affiche les regions autour de vous, leur centre et leur proprietaire. Elle aide a eviter de construire trop pres d'un autre joueur.
+Cette commande affiche les régions autour de vous, leur centre et leur propriétaire. Elle aide à éviter de construire trop près d'un autre joueur.
 
 :::warning
-Respectez les claims autour de vous. Si vous voulez vous installer pres d'un autre joueur, demandez-lui son accord avant de construire.
+Respectez les claims autour de vous. Si vous voulez vous installer près d'un autre joueur, demandez-lui son accord avant de construire.
 :::
 
-## ⚡ Creer un claim rapidement
+## ⚡ Créer un claim rapidement
 
-Placez-vous au centre de la zone que vous voulez proteger, puis utilisez :
+Placez-vous au centre de la zone que vous voulez protéger, puis utilisez :
 
 ```text
 /claim
 ```
 
-Si vous n'etes dans aucun claim, le menu de creation s'ouvre. Choisissez ensuite une taille.
+Si vous n'êtes dans aucun claim, le menu de création s'ouvre. Choisissez ensuite une taille.
 
-![Menu de creation de claim](/img/claim/claim.png)
+![Menu de création de claim](/img/claim/claim.png)
 
 Les tailles disponibles dans le menu sont :
 
@@ -49,56 +49,56 @@ Les tailles disponibles dans le menu sont :
 | 100x100 | 500$ |
 | 200x200 | 2000$ |
 
-Les claims sont payants et ne sont pas rembourses en cas de suppression.
+Les claims sont payants et ne sont pas remboursés en cas de suppression.
 
-## 🎯 Creer un claim avec precision
+## 🎯 Créer un claim avec précision
 
-Pour choisir vous-meme les coins de votre region, utilisez un baton.
+Pour choisir vous-même les coins de votre région, utilisez un bâton.
 
-![Selection au baton](/img/claim/claim2.png)
+![Sélection au bâton](/img/claim/claim2.png)
 
-Avec le baton en main :
+Avec le bâton en main :
 
 1. Faites clic gauche sur un coin de la zone.
 2. Faites clic droit sur le coin oppose.
-3. Ajustez la selection si besoin.
+3. Ajustez la sélection si besoin.
 4. Validez avec :
 
 ```text
 /claim create
 ```
 
-Des particules peuvent apparaitre pour montrer les limites de la selection.
+Des particules peuvent apparaître pour montrer les limites de la sélection.
 
-![Delimitation d'un claim](/img/claim/claim3.png)
+![Délimitation d'un claim](/img/claim/claim3.png)
 ![Exemple de claim](/img/claim/claim4.png)
 
 :::tip
-Avec le baton, le prix est calcule selon la taille de la zone. La taille maximale est de 400x400.
+Avec le bâton, le prix est calculé selon la taille de la zone. La taille maximale est de 400x400.
 :::
 
 ## 🧭 Ouvrir le menu de gestion
 
-Placez-vous dans un claim que vous pouvez gerer, puis utilisez :
+Placez-vous dans un claim que vous pouvez gérer, puis utilisez :
 
 ```text
 /claim
 ```
 
-Si vous avez acces a plusieurs claims superposes a cet endroit, le plugin vous proposera de choisir lequel gerer.
+Si vous avez accès à plusieurs claims superposés à cet endroit, le plugin vous proposera de choisir lequel gérer.
 
-Le menu de gestion donne acces aux options principales :
+Le menu de gestion donne accès aux options principales :
 
 - **Informations** : voir le monde, le centre, la taille, les chefs, admins et membres.
 - **Message de bienvenue** : afficher un message quand un joueur entre dans le claim.
-- **Renommer le claim** : changer le nom affiche.
+- **Renommer le claim** : changer le nom affiché.
 - **Afficher la bordure** : voir les limites avec des particules.
-- **Point de teleportation** : enregistrer votre position comme point d'arrivee.
-- **Vos regions** : voir la liste de vos claims.
-- **Creer une autre region** : ajouter une region secondaire.
-- **Membres** : gerer les joueurs autorises.
-- **Permissions des roles** : choisir ce que les admins, membres et visiteurs peuvent faire.
-- **Flags** : activer ou desactiver des protections.
+- **Point de téléportation** : enregistrer votre position comme point d'arrivée.
+- **Vos régions** : voir la liste de vos claims.
+- **Créer une autre région** : ajouter une région secondaire.
+- **Membres** : gérer les joueurs autorisés.
+- **Permissions des rôles** : choisir ce que les admins, membres et visiteurs peuvent faire.
+- **Flags** : activer ou désactiver des protections.
 - **Bannissements** : bloquer des joueurs dans le claim.
 - **Supprimer le claim** : retirer la protection, sans supprimer les constructions.
 
@@ -110,99 +110,99 @@ Pour afficher vos claims :
 /claim list
 ```
 
-Vous pouvez aussi ouvrir cette liste depuis le menu de gestion avec **Vos regions**.
+Vous pouvez aussi ouvrir cette liste depuis le menu de gestion avec **Vos régions**.
 
-## 👥 Inviter et gerer des joueurs
+## 👥 Inviter et gérer des joueurs
 
-Dans le menu **Membres**, vous pouvez gerer les joueurs qui ont acces a votre claim.
+Dans le menu **Membres**, vous pouvez gérer les joueurs qui ont accès à votre claim.
 
-Les roles principaux sont :
+Les rôles principaux sont :
 
-- **Chef** : proprietaire principal du claim, avec toutes les permissions.
-- **Admin** : joueur de confiance qui peut aider a gerer le claim selon les permissions donnees.
-- **Membre** : joueur autorise a participer au claim selon les permissions donnees.
-- **Visiteur** : joueur sans role particulier.
+- **Chef** : propriétaire principal du claim, avec toutes les permissions.
+- **Admin** : joueur de confiance qui peut aider à gérer le claim selon les permissions données.
+- **Membre** : joueur autorisé à participer au claim selon les permissions données.
+- **Visiteur** : joueur sans rôle particulier.
 
 :::tip
-Donnez le role admin uniquement aux joueurs en qui vous avez vraiment confiance.
+Donnez le rôle admin uniquement aux joueurs en qui vous avez vraiment confiance.
 :::
 
-## 🔐 Gerer les permissions des roles
+## 🔐 Gérer les permissions des rôles
 
-Le menu **Permissions des roles** permet de choisir ce que chaque role peut faire.
+Le menu **Permissions des rôles** permet de choisir ce que chaque rôle peut faire.
 
 Par exemple, vous pouvez autoriser ou non :
 
-- gerer les membres ;
-- gerer les flags ;
-- gerer les bannissements ;
+- gérer les membres ;
+- gérer les flags ;
+- gérer les bannissements ;
 - modifier le message de bienvenue ;
-- changer la priorite ;
-- definir le point de teleportation ;
+- changer la priorité ;
+- définir le point de téléportation ;
 - renommer ou supprimer le claim ;
 - afficher la bordure.
 
 Les chefs gardent toutes les permissions.
 
-## 🚩 Regler les flags
+## 🚩 Régler les flags
 
 Les flags sont les options de protection du claim. Ouvrez le menu **Flags** depuis le menu du claim, puis cliquez sur une option pour la modifier.
 
-Ils permettent notamment de controler :
+Ils permettent notamment de contrôler :
 
-- l'entree et la sortie du claim ;
+- l'entrée et la sortie du claim ;
 - le vol ;
 - les effets ;
-- les homes et teleportations ;
+- les homes et téléportations ;
 - les portes, trappes, portillons, boutons, leviers et plaques de pression ;
 - les coffres et autres interactions ;
 - les spawners ;
-- le feu, l'eau, la lave, la gravite et certaines transformations de blocs ;
+- le feu, l'eau, la lave, la gravité et certaines transformations de blocs ;
 - les cultures ;
 - les blocs que les visiteurs peuvent casser ou poser ;
-- les commandes bloquees ;
+- les commandes bloquées ;
 - le chat de claim ;
 - l'apparition des animaux ;
 - l'apparition des monstres.
 
 ## 🐾 Animaux et monstres
 
-Les menus **Gestion des animaux** et **Gestion des monstres** permettent de choisir precisement quelles creatures peuvent apparaitre dans votre claim.
+Les menus **Gestion des animaux** et **Gestion des monstres** permettent de choisir précisément quelles créatures peuvent apparaître dans votre claim.
 
 Vous pouvez :
 
 - tout activer ;
-- tout desactiver ;
-- activer ou desactiver une creature precise ;
+- tout désactiver ;
+- activer ou désactiver une créature précise ;
 - changer de page si la liste est longue.
 
 :::danger
-Les spawns des monstres et animaux suivent le comportement du serveur par defaut tant que vous ne les modifiez pas. Si vous changez la liste, verifiez bien les creatures activees pour eviter les mauvaises surprises.
+Les spawns des monstres et animaux suivent le comportement du serveur par défaut tant que vous ne les modifiez pas. Si vous changez la liste, vérifiez bien les créatures activées pour éviter les mauvaises surprises.
 :::
 
 ## ⛔ Bannir un joueur du claim
 
-Dans le menu **Bannissements**, vous pouvez ajouter un joueur a la liste des bannis.
+Dans le menu **Bannissements**, vous pouvez ajouter un joueur à la liste des bannis.
 
-Un joueur banni ne peut plus entrer dans le claim. S'il est deja dedans au moment du ban, il est renvoye hors de la zone.
+Un joueur banni ne peut plus entrer dans le claim. S'il est déjà dedans au moment du ban, il est renvoyé hors de la zone.
 
-Pour retirer un ban, retournez dans le meme menu et cliquez sur le joueur banni.
+Pour retirer un ban, retournez dans le même menu et cliquez sur le joueur banni.
 
-## 🌀 Definir le point de teleportation
+## 🌀 Définir le point de téléportation
 
-Placez-vous a l'endroit voulu dans le claim, puis ouvrez :
+Placez-vous à l'endroit voulu dans le claim, puis ouvrez :
 
 ```text
 /claim
 ```
 
-Cliquez sur **Definir le point de teleportation**.
+Cliquez sur **Définir le point de téléportation**.
 
-Les joueurs autorises utiliseront ensuite ce point pour arriver dans le claim.
+Les joueurs autorisés utiliseront ensuite ce point pour arriver dans le claim.
 
 ## 💬 Chat de claim
 
-Pour parler uniquement aux membres presents du claim :
+Pour parler uniquement aux membres présents du claim :
 
 ```text
 /claim chat <message>
@@ -214,28 +214,28 @@ Exemple :
 /claim chat Quelqu'un peut venir m'aider ?
 ```
 
-## 🤝 Claims ou vous etes membre
+## 🤝 Claims où vous êtes membre
 
-Pour voir les claims dans lesquels vous etes membre ou admin :
+Pour voir les claims dans lesquels vous êtes membre ou admin :
 
 ```text
 /claim trusted
 ```
 
-Depuis ce menu, vous pouvez retrouver les claims partages avec vous et quitter un claim si vous ne voulez plus en faire partie.
+Depuis ce menu, vous pouvez retrouver les claims partagés avec vous et quitter un claim si vous ne voulez plus en faire partie.
 
-## 🔁 Transferer un claim
+## 🔁 Transférer un claim
 
-Pour proposer le transfert d'un claim a un autre joueur :
+Pour proposer le transfert d'un claim à un autre joueur :
 
 ```text
 /claim transfert <joueur>
 ```
 
-Le joueur doit accepter la demande pour devenir proprietaire.
+Le joueur doit accepter la demande pour devenir propriétaire.
 
 :::warning
-Un transfert change le proprietaire du claim. Verifiez bien le pseudo avant de confirmer.
+Un transfert change le propriétaire du claim. Vérifiez bien le pseudo avant de confirmer.
 :::
 
 ## 🧨 Supprimer un claim
@@ -245,28 +245,28 @@ Vous pouvez supprimer un claim depuis le menu de gestion.
 Supprimer un claim retire seulement la protection. Les blocs et constructions restent en place.
 
 :::danger
-Il est interdit de faire un claim sur le toit du Nether dans le but de s'y teleporter ou d'y construire. Des sanctions peuvent etre appliquees en cas de non-respect des regles.
+Il est interdit de faire un claim sur le toit du Nether dans le but de s'y téléporter ou d'y construire. Des sanctions peuvent être appliquées en cas de non-respect des règles.
 :::
 
 ## ⌨️ Commandes utiles
 
-| Commande | Utilite |
+| Commande | Utilité |
 | --- | --- |
 | `/claim` | Ouvre le menu principal |
-| `/claim create` | Cree un claim avec la selection au baton |
+| `/claim create` | Crée un claim avec la sélection au bâton |
 | `/claim list` | Affiche vos claims |
-| `/claim trusted` | Affiche les claims ou vous etes membre ou admin |
+| `/claim trusted` | Affiche les claims où vous êtes membre ou admin |
 | `/claim near` | Affiche les claims proches |
 | `/claim info` | Affiche les informations du claim actuel |
 | `/claim chat <message>` | Envoie un message aux membres du claim |
-| `/claim transfert <joueur>` | Propose de transferer un claim |
+| `/claim transfert <joueur>` | Propose de transférer un claim |
 
 ## ✅ Bonnes pratiques
 
-- Creez votre claim avant de construire une base importante.
+- Créez votre claim avant de construire une base importante.
 - Regardez les claims proches avant de vous installer.
-- Verifiez la bordure pour eviter de laisser des coffres hors protection.
+- Vérifiez la bordure pour éviter de laisser des coffres hors protection.
 - Ajoutez seulement des joueurs de confiance.
-- Utilisez les permissions des roles pour limiter ce que les membres peuvent modifier.
-- Definissez un point de teleportation dans un endroit sur.
+- Utilisez les permissions des rôles pour limiter ce que les membres peuvent modifier.
+- Définissez un point de téléportation dans un endroit sûr.
 - Gardez une distance correcte avec les claims voisins.

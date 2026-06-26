@@ -2,7 +2,7 @@
 sidebar_position: 9
 ---
 
-# 🏡 Hotel des ventes
+# 🏡 Hôtel des ventes
 
 **L'hôtel des ventes** est une interface à la disposition de tous les joueurs qui vous permettra de vendre ainsi que d'acheter des items. Seuls les joueurs d'un même serveur peuvent y accéder.
 
@@ -62,7 +62,7 @@ Pour retrouver l'article, faites **/ah** et cliquez sur le coffre 📦. Vous ver
 
 ## 📌 À Savoir
 
-- 🕒 Les objets en vente restent **3 jours maximum** dans l'hôtel des ventes. Après ces 3 jours, ils sont déplacés dans **Item expirés** pour être stockés **3 jours de plus**. Après ces **6 jours**, les objets non récupérés seront **supprimés**.
+- 🕒 Les objets en vente restent **3 jours maximum** dans l'hôtel des ventes. Après ces 3 jours, ils sont déplacés dans **Items expirés** pour être stockés **3 jours de plus**. Après ces **6 jours**, les objets non récupérés seront **supprimés**.
 - 💰 Il n'y a pas de taxe sur les ventes/achats dans l'hôtel des ventes.
 - 🎖️ Avec un grade boutique, vous pouvez vendre beaucoup plus d'objets.
 - 🔔 Vos objets peuvent être achetés même lorsque vous êtes déconnecté. Vous recevrez l'argent dès votre reconnexion.

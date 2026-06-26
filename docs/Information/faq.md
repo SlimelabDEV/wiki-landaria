@@ -36,7 +36,7 @@ Dans cette catégorie, retrouvez une grande partie des questions qui nous sont p
 ## 🏭 Spawners
 :::tip 💡
 - **Casser un spawner** : Nécessite un grade boutique, pas besoin d'une pioche spéciale.
-  :::
+:::
 
 ---
 
@@ -70,10 +70,10 @@ Dans cette catégorie, retrouvez une grande partie des questions qui nous sont p
 
 ---
 
-## 🚫 Double comptes
+## 🚫 Doubles comptes
 :::tip ⚠️
 - **Autorisation** : Non, sauf pour les membres d'une même famille jouant sur la même IP. Preuve via ticket.
-  :::
+:::
 
 ---
 
@@ -131,7 +131,7 @@ Dans cette catégorie, retrouvez une grande partie des questions qui nous sont p
 ## 🧱 Blocs claimables
 :::tip 🔒
 - **Limite par défaut** : Très élevée, possibilité d'augmenter jusqu'à 1,5 million avec un pack ville.
-  :::
+:::
 
 ---
 
@@ -163,17 +163,17 @@ Dans cette catégorie, retrouvez une grande partie des questions qui nous sont p
 ---
 
 ## Kits
-- **Définition** : Un lot d'items par thème est disponible en achat payant dans le /boutique ou en achetant un grade via la comamnde /kits. Ils peuvent également être gagné de façon ponctuelle comme par exemple dans les megapacks.
+- **Définition** : Un lot d'items par thème est disponible en achat payant dans le /boutique ou en achetant un grade via la commande /kits. Ils peuvent également être gagnés de façon ponctuelle, comme par exemple dans les megapacks.
 - **Mise en garde** : Nous vous conseillons de vider votre inventaire avant l'ouverture de kits sous peine de perdre la totalité des items.
 
 ---
 
 ## Megapacks
-- **Définition** : En passant par des items exclusifs de la collection mega ou des items vanilla,les megapacks sont une source de gains pour votre aventure.
+- **Définition** : En passant par des items exclusifs de la collection mega ou des items vanilla, les megapacks sont une source de gains pour votre aventure.
 
 ---
 
 ## 🎨 Pack de texture
 :::tip 🖼️
-- **Problème de téléchargement** : Allez dans Multijoueur, sélectionnez le serveur, cliquez sur "Modifier", puis activez "Pack de ressource".
-  :::
+- **Problème de téléchargement** : Allez dans Multijoueur, sélectionnez le serveur, cliquez sur "Modifier", puis activez "Pack de ressources".
+:::

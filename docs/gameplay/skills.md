@@ -89,6 +89,6 @@ Des défis/missions à accomplir pour augmenter votre salaire. Chaque mission vo
 ---
 
 :::important
-Comme beaucoup de joueurs, il se peut que vous soyez un peu perdu au début, mais ne vous inquiétez pas, on s'y retrouve vite. Si besoin, le staff pourra vous guider sur le [**Discord**](http://discord.landaria.fr).
+Comme beaucoup de joueurs, il se peut que vous soyez un peu perdu au début, mais ne vous inquiétez pas, on s'y retrouve vite. Si besoin, le staff pourra vous guider sur le [**Discord**](https://discord.landaria.fr).
 :::
 

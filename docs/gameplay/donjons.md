@@ -8,7 +8,7 @@ Au warp donjon, vous retrouverez tous les PNJ et les informations essentielles s
 
 ---
 
-## 🎯A quoi servent les donjons ?
+## 🎯 À quoi servent les donjons ?
 
 Voici une liste non exhaustive des fonctionnalités des donjons.
 
