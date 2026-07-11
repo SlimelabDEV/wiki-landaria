@@ -1,7 +1,7 @@
 ---
 title: 📈 Maisons & contrats
 description: Comprendre les Maisons, les contrats, les participations, le budget et les dividendes.
-sidebar_position: 3
+sidebar_position: 1
 ---
 
 # 📈 Maisons & contrats
@@ -53,13 +53,13 @@ Chaque Maison possède sa propre caisse, ses propres participations et ses propr
 
 | Maison | Clé à utiliser | Ressources possibles |
 | --- | --- | --- |
-| **Maison des Mineurs** | `mineur` | Roche, pierre, granite, diorite, andésite, netherrack, pierre de l'End... |
-| **Maison des Fermiers** | `fermier` | Blé, carottes, pommes de terre, betteraves, bambou, cactus, cuir... |
-| **Maison des Pêcheurs** | `pecheur` | Morues, saumons, nénuphars, poches d'encre, ficelles |
-| **Maison des Bûcherons** | `bucheron` | Bûches de chêne, sapin, bouleau, acajou, acacia, mangrove, cerisier... |
-| **Maison des Chasseurs** | `chasseur` | Viandes crues, os, chair putréfiée, poudre à canon, bâtons de blaze... |
-| **Maison des Armuriers** | `armurier` | Épées, bottes, casques, plastrons et jambières en cuir, fer ou or |
-| **Maison des Enchanteurs** | `enchanteur` | Cuir, papier, lapis-lazuli, poudre lumineuse, poudre de blaze, perles de l'Ender |
+| **Maison des Mineurs** | `mineur` | Roche, pierre, granite, diorite, andésite, netherrack, pierre de l'End, pierre des abîmes, ardoise des abîmes, spéléothèmes, éclats d’améthyste, émeraudes, basalte... |
+| **Maison des Fermiers** | `fermier` | Blé, carottes, pommes de terre, betteraves, bambou, cactus, cuir, blocs de mousse, planturnes, baies lumineuses, blocs/rayons de miel, roses de Wither, fleurs, pastèques, œufs. |
+| **Maison des Pêcheurs** | `pecheur` | Morues, saumons, nénuphars, poches d'encre, ficelles, poissons tropicaux, morues cuites, saumons cuits... |
+| **Maison des Bûcherons** | `bucheron` | Bûches de chêne, sapin, bouleau, acajou, acacia, mangrove, cerisier, feuilles, lianes, blocs de bambou... |
+| **Maison des Chasseurs** | `chasseur` | Viandes crues, os, chair putréfiée, poudre à canon, bâtons de blaze,  viandes cuites, plumes, peaux/pattes de lapin, éclats/cristaux de prismarine, flèches.... |
+| **Maison des Armuriers** | `armurier` | Épées, bottes, casques, plastrons et jambières en cuir, fer, or ou diamant |
+| **Maison des Enchanteurs** | `enchanteur` | Cuir, papier, lapis-lazuli, poudre lumineuse, poudre de blaze, perles de l'Ender, livres et fioles d'expérience. |
 
 :::tip
 Vos participations sont séparées par Maison. Avoir des participations chez les Mineurs ne donne rien chez les Chasseurs, et inversement.
