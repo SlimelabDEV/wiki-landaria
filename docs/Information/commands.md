@@ -26,7 +26,7 @@ Voici la liste complète des commandes disponibles sur le serveur Landaria. Ces 
 - **/kit** : Ouvre le menu des kits.
 - **/seen \<pseudo\>** : Permet de voir la dernière connexion d’un joueur.
 - **/stats** : Permet de voir vos statistiques.
-- **/time \<pseudo\>** : Permet de voir le temps de jeu et la première connexion d'un joueur.
+- **/flytime** : Permet de voir votre temps de fly disponible.
 - **/rtp** : Ouvre le menu de téléportation aléatoire.
 - **/bossbar** : Affiche ou retire les barres d'informations en haut de l'écran.
 - **/sb** : Affiche ou retire le scoreboard à droite de l'écran.
