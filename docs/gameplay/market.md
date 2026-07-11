@@ -63,6 +63,8 @@ Pour créer un market :
 
 Le prix indiqué est le **prix à l'unité**.
 
+Vous pouvez aussi créer directement un market sans utiliser `/market create` : accroupissez-vous puis cliquez sur le coffre avec l'item en main. Il suffit ensuite d'indiquer le prix dans le tchat.
+
 ![Coffre market avec une offre de vente](/img/market/market-one-offer.png)
 
 Dans cet exemple, le coffre contient une seule offre de vente.
@@ -122,6 +124,8 @@ Exemple :
 ```text
 /market add sell 1000
 ```
+
+Vous pouvez également ajouter une offre en vous accroupissant puis en cliquant sur le coffre avec l'item en main. Indiquez ensuite le prix demandé dans le tchat.
 
 Un coffre market peut contenir jusqu'à **4 offres**. Vous ne pouvez pas ajouter deux fois exactement la même offre avec le même item et le même type.
 
