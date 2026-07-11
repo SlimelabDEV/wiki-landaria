@@ -57,7 +57,7 @@ Chaque Maison possède sa propre caisse, ses propres participations et ses propr
 | **Maison des Fermiers** | `fermier` | Blé, carottes, pommes de terre, betteraves, bambou, cactus, cuir, blocs de mousse, planturnes, baies lumineuses, blocs/rayons de miel, roses de Wither, fleurs, pastèques, œufs. |
 | **Maison des Pêcheurs** | `pecheur` | Morues, saumons, nénuphars, poches d'encre, ficelles, poissons tropicaux, morues cuites, saumons cuits... |
 | **Maison des Bûcherons** | `bucheron` | Bûches de chêne, sapin, bouleau, acajou, acacia, mangrove, cerisier, feuilles, lianes, blocs de bambou... |
-| **Maison des Chasseurs** | `chasseur` | Viandes crues, os, chair putréfiée, poudre à canon, bâtons de blaze,  viandes cuites, plumes, peaux/pattes de lapin, éclats/cristaux de prismarine, flèches.... |
+| **Maison des Chasseurs** | `chasseur` | Viandes crues, os, chair putréfiée, poudre à canon, bâtons de blaze, viandes cuites, plumes, peaux/pattes de lapin, éclats/cristaux de prismarine, flèches... |
 | **Maison des Armuriers** | `armurier` | Épées, bottes, casques, plastrons et jambières en cuir, fer, or ou diamant |
 | **Maison des Enchanteurs** | `enchanteur` | Cuir, papier, lapis-lazuli, poudre lumineuse, poudre de blaze, perles de l'Ender, livres et fioles d'expérience. |
 
