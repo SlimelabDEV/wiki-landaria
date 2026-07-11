@@ -130,7 +130,11 @@ Dans cette catégorie, retrouvez une grande partie des questions qui nous sont p
 
 ## 🧱 Blocs claimables
 :::tip 🔒
-- **Limite par défaut** : Très élevée, possibilité d'augmenter jusqu'à 1,5 million avec un pack ville.
+- **Limite par défaut** : 250k blocs, possibilité d'augmenter jusqu'à 1 million avec le grade **Panda**.
+- `L'avantage Claim Géant` au `/boutique` → Divers vous permettra d'augmenter cette limite à 1,5 million de blocs.
+- `L'avantage Claim Iceberg*` au `/boutique` → Divers vous permettra d'augmenter cette limite à 2 millions de blocs.
+
+<sub>* : Disponible après avoir acquis l'avantage Claim Géant au préalable.</sub>
 :::
 
 ---
@@ -177,3 +181,56 @@ Dans cette catégorie, retrouvez une grande partie des questions qui nous sont p
 :::tip 🖼️
 - **Problème de téléchargement** : Allez dans Multijoueur, sélectionnez le serveur, cliquez sur "Modifier", puis activez "Pack de ressources".
 :::
+
+---
+
+## ⚖️ Sanctions automatiques et sanctions staff (mutes)
+### <ins> Comment fonctionne le système de sanctions sur le serveur ? </ins>
+
+- Plusieurs sanctions différentes peuvent être appliquées par SlimeBot ou par le staff. Il peut s'agir de :
+    - **Kick** : expulsion temporaire du serveur, généralement accompagné d'un message. Reconnexion immédiate possible.
+    - **Mute** : impossibilité de parler dans le tchat pendant une durée définie, en fonction du nombre de sanctions reçues au cours des 72 dernières heures.
+    - **Ban** : impossibilité temporaire ou permanente de rejoindre le serveur pendant une durée définie selon le motif de la sanction.
+
+| **Niveau de sanction sur 72h** | **Sanction appliquée**                     |
+| ------------------------------ | ------------------------------------------ |
+| **1re sanction**               | Mute 30 minutes + 1 avertissement (warn)   |
+| **2e sanction**                | Mute 1 heure + 1 avertissement (warn)      |
+| **3e sanction**                | Mute 3 heures + 1 avertissement (warn)     |
+| **4e sanction**                | Ban 24 heures du serveur                   |
+
+- Chaque avertissement (warn) expire après 72 heures.
+- Seules les sanctions reçues et actives dans cette période de 72 heures glissantes sont prises en compte pour l'escalade des sanctions.
+- Une fois tous les avertissements expirés, le compteur de sanctions est réinitialisé.
+
+→ Si une sanction injustifiée est appliquée par erreur par un membre du staff ou par SlimeBot, celle-ci peut être annulée et l'avertissement retiré par un membre du staff.
+:::tip 💡
+- <ins>Pour éviter de recevoir toute sanction et garder un esprit de jeu très correct, il est impératif de respecter le</ins> 📜 [**Règlement**](/docs/Information/rules).
+:::
+
+---
+
+## ⭐ Compte Premium
+### <ins> Qu'est-ce que le compte Premium ? </ins>
+- Le compte Premium est un type d'abonnement très rare, à durée variable allant d'un jour à un an selon l'offre désirée et vous offrant de multiples avantages. Une offre supplémentaire vous permet d'offrir 1 heure de Premium à l'ensemble des joueurs (celle-ci peut être cumulée afin d'offrir plusieurs heures de Premium).
+- Les avantages sont :
+    - Gain d'expérience de compétence **doublé**.
+    - Gain d'expérience de niveau de serveur **doublé**.
+    - Gain d'argent de tous les salaires **doublé**.
+    - **+50 %** d'argent gagné lorsque vous tuez des mobs provenant de spawners.
+    - **+50 %** de couronnes gagnées en donjon.
+    - Possibilité d'activer jusqu'à **10 quêtes** simultanément.
+    - Préfixe ⭐ à côté de votre pseudo.
+    - Fly **illimité** dans les mondes Overworld.
+    - Accès à : `/skin*`, `/condense*`, `/bottlexp*`, `/tete*` et `/fcraft*`.
+    - Accès à `l'Outil Automatique*`.
+    - Accès à `Casser les arbres en un coup*`.
+:::tip 💡
+- Le compte Premium désactive la téléportation automatique au warp AFK (normalement effectuée au bout de 30 min sans bouger). Idéal pour rester AFK dans vos fermes automatisées durant plusieurs heures !
+:::
+
+💡* : <sub>Vous pourrez retrouver plus d'informations sur ces avantages dans le menu `/boutique` → Divers directement en jeu.</sub>
+
+- ⚠️ Une fois le Compte Premium activé, le compte à rebours en haut de l'écran dans la bossbar `/bossbar` ne cessera de diminuer, même lorsque vous serez déconnecté.
+
+---
