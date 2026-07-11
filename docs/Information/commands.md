@@ -15,6 +15,7 @@ Voici la liste complète des commandes disponibles sur le serveur Landaria. Ces 
 - **/boutique** : Ouvre le menu boutique du serveur.
 - **/buy** : Ouvre le menu achat de perles.
 - **/buy \<pseudo\>** : Ouvre le menu d'achat de perles pour les offrir au joueur souhaité.
+- **/b** : Souhaite la bienvenue à un nouveau joueur lors de sa première connexion au serveur avec un message prédéfini aléatoire.
 - **/skill ou /sk** : Ouvre le menu compétences et salaires.
 - **/skill top** : Ouvre le menu des classements des compétences.
 - **/liens** : Affiche les liens vers nos sites.
@@ -24,7 +25,8 @@ Voici la liste complète des commandes disponibles sur le serveur Landaria. Ces 
 - **/profil** : Ouvre le menu profil et options.
 - **/option ou /options** : Ouvre le menu des options directement.
 - **/kit** : Ouvre le menu des kits.
-- **/seen \<pseudo\>** : Permet de voir la dernière connexion d’un joueur.
+- **/kitpreview \<nom du kit\>** : Permet d'avoir une prévisualisation du kit demandé.
+- **/seen \<pseudo\>** : Affiche la première/dernière connexion du joueur, la durée depuis sa dernière (in)activité, le monde où il se situe et son temps de jeu.
 - **/stats** : Permet de voir vos statistiques.
 - **/flytime** : Permet de voir votre temps de fly disponible.
 - **/rtp** : Ouvre le menu de téléportation aléatoire.
@@ -141,10 +143,20 @@ Voici la liste complète des commandes disponibles sur le serveur Landaria. Ces 
 
 ---
 
-## Commandes de debug
+## Commandes Maisons/Contrats 🏭
+
+- **/contrat** : Ouvre le menu du contrat actif pour déposer les ressources demandées.
+- **/maison ou /maisons** : Ouvre le menu principal des maisons.
+- **/maison list** : Affiche la liste des maisons, le prix d'une part, la caisse et votre nombre de participations dans chacune d'elles.
+- **/maison house \<maison\>** : Affiche le prix d'une part, la caisse, le nombre total de participations et vos participations d'une maison précise.
+- **/maison sell \<maison\> \<nombre\>** : Permet de vendre une quantité souhaitée de participations d'une maison précise.
+- **/maison sell \<maison\> all** : Permet de vendre toutes vos participations d'une maison précise.
+- **/maison status** : Affiche le nombre total de maisons chargées.
+
+---
+## Commandes de débug 🪲
 - **/edebug** (en tenant l'item en main) : Permet de résoudre des bugs présents sur un item, des poussières magiques, des livres d'enchantements customs non fonctionnels et plus encore.
 
 :::tip 💡
 La commande `/edebug` peut ne pas résoudre tous les soucis de l'item. Dans ce cas, il est nécessaire d'ouvrir un ticket pour expliquer le problème au staff. Un remboursement ou un échange pourra être effectué.
 :::
-
