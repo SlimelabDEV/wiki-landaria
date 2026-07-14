@@ -15,14 +15,20 @@ Dans cette catégorie, retrouvez une grande partie des questions qui nous sont p
 ---
 
 ## 🐾 Limites pour les monstres et animaux
-- **Limite par chunk** : 15 entités par groupe.
-    - **Monstres** : Zombies, araignées, endermans, squelettes, etc.
-    - **Pillards** : Pilleurs, évocateurs, etc.
-    - **Animaux** : Vaches, porcs, moutons, lapins, etc.
-    - **Mobs ambiants** : Chauves-souris, etc.
-    - **Poissons** : Saumon, morue, poisson-globe, etc.
-    - **Animaux apprivoisés** : Chats, loups, chevaux, etc.
-    - **Villageois** : Uniquement.
+
+Pour garder le serveur fluide, le nombre de mobs est limité **par chunk**.
+
+- **Limite par type** : jusqu'à **15 mobs du même type** dans un même chunk.
+    - Exemple : 15 vaches, 15 cochons, 15 zombies, etc.
+- **Limite globale** : jusqu'à **40 mobs au total** dans un même chunk.
+
+Si ces limites sont dépassées, le serveur peut supprimer progressivement les mobs en trop.
+
+Les mobs ordinaires sont supprimés en priorité. Les villageois, animaux apprivoisés, mobs nommés, mobs tenus en laisse, montures et boss sont gardés le plus longtemps possible, mais ils ne sont pas totalement immunisés si le chunk dépasse trop les limites.
+
+:::tip 💡
+Pour éviter les suppressions, évitez de concentrer trop d'animaux, monstres ou villageois dans le même chunk. Répartir les farms sur plusieurs chunks aide à limiter les pertes et améliore les performances du serveur.
+:::
 
 ---
 
