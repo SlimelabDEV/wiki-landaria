@@ -8,7 +8,7 @@ sidebar_position: 6
 
 Les claims permettent de protéger vos constructions et de gérer qui peut entrer, construire, interagir ou participer à votre territoire.
 
-Un claim protège une zone précise du monde. Vous pouvez ensuite y ajouter des membres, régler des options, afficher ses limites, définir un point de téléportation ou bloquer certains joueurs.
+Un claim protège une zone précise du monde. Vous pouvez ensuite y ajouter des membres, régler des options, afficher ses limites, définir un point de téléportation, personnaliser son icône ou bloquer certains joueurs.
 
 :::info
 Certains mondes peuvent être bloqués pour la création de claims, comme le spawn ou les zones PvP.
@@ -60,7 +60,7 @@ Pour choisir vous-même les coins de votre région, utilisez un bâton.
 Avec le bâton en main :
 
 1. Faites clic gauche sur un coin de la zone.
-2. Faites clic droit sur le coin oppose.
+2. Faites clic droit sur le coin opposé.
 3. Ajustez la sélection si besoin.
 4. Validez avec :
 
@@ -94,12 +94,13 @@ Le menu de gestion donne accès aux options principales :
 - **Renommer le claim** : changer le nom affiché.
 - **Afficher la bordure** : voir les limites avec des particules.
 - **Point de téléportation** : enregistrer votre position comme point d'arrivée.
-- **Vos régions** : voir la liste de vos claims.
+- **Vos régions** : voir la liste de vos claims et modifier leur icône.
 - **Créer une autre région** : ajouter une région secondaire.
 - **Membres** : gérer les joueurs autorisés.
 - **Permissions des rôles** : choisir ce que les admins, membres et visiteurs peuvent faire.
 - **Flags** : activer ou désactiver des protections.
 - **Bannissements** : bloquer des joueurs dans le claim.
+- **Priorité** : choisir quel claim passe en premier lorsque plusieurs claims se superposent.
 - **Supprimer le claim** : retirer la protection, sans supprimer les constructions.
 
 ## 📜 Voir ses claims
@@ -111,6 +112,18 @@ Pour afficher vos claims :
 ```
 
 Vous pouvez aussi ouvrir cette liste depuis le menu de gestion avec **Vos régions**.
+
+Depuis cette liste, le chef du claim peut personnaliser l'icône affichée pour un claim. L'item utilisé sert seulement d'icône et n'est pas consommé.
+
+## 📊 Voir ses limites
+
+Pour afficher vos limites de claims et de blocs :
+
+```text
+/claim limit
+```
+
+La commande indique le monde actuel, le nombre de claims possédés, la surface utilisée, votre limite de blocs et ce qu'il vous reste.
 
 ## 👥 Inviter et gérer des joueurs
 
@@ -133,13 +146,16 @@ Le menu **Permissions des rôles** permet de choisir ce que chaque rôle peut fa
 
 Par exemple, vous pouvez autoriser ou non :
 
+- gérer les admins ;
 - gérer les membres ;
 - gérer les flags ;
 - gérer les bannissements ;
 - modifier le message de bienvenue ;
 - changer la priorité ;
 - définir le point de téléportation ;
-- renommer ou supprimer le claim ;
+- renommer le claim ;
+- supprimer le claim ;
+- transférer le claim ;
 - afficher la bordure.
 
 Les chefs gardent toutes les permissions.
@@ -151,19 +167,18 @@ Les flags sont les options de protection du claim. Ouvrez le menu **Flags** depu
 Ils permettent notamment de contrôler :
 
 - l'entrée et la sortie du claim ;
-- le vol ;
-- les effets ;
-- les homes et téléportations ;
+- le fly ;
+- les potions et certains effets ;
 - les portes, trappes, portillons, boutons, leviers et plaques de pression ;
-- les coffres et autres interactions ;
-- les spawners ;
+- les coffres, shulker boxes, tonneaux, fours et autres interactions ;
+- les tables de craft, enclumes, tables d'enchantement et coffres de l'End ;
 - le feu, l'eau, la lave, la gravité et certaines transformations de blocs ;
 - les cultures ;
 - les blocs que les visiteurs peuvent casser ou poser ;
 - les commandes bloquées ;
-- le chat de claim ;
 - l'apparition des animaux ;
-- l'apparition des monstres.
+- l'apparition des monstres ;
+- les animaux que les visiteurs peuvent blesser ou tuer.
 
 ## 🐾 Animaux et monstres
 
@@ -198,7 +213,15 @@ Placez-vous à l'endroit voulu dans le claim, puis ouvrez :
 
 Cliquez sur **Définir le point de téléportation**.
 
-Les joueurs autorisés utiliseront ensuite ce point pour arriver dans le claim.
+Les joueurs autorisés peuvent ensuite utiliser :
+
+```text
+/claim tp <claim> [monde]
+```
+
+:::tip
+Si plusieurs claims portent le même nom, indiquez aussi le monde avec `/claim tp <claim> <monde>`.
+:::
 
 ## 💬 Chat de claim
 
@@ -213,6 +236,22 @@ Exemple :
 ```text
 /claim chat Quelqu'un peut venir m'aider ?
 ```
+
+## 🔔 Notifications et bossbar
+
+Vous pouvez activer ou désactiver certaines informations liées aux claims :
+
+```text
+/claim notify
+```
+
+Cette commande active ou désactive les notifications d'entrée/sortie et les messages de bienvenue.
+
+```text
+/claim bossbar
+```
+
+Cette commande active ou désactive la bossbar permanente du claim.
 
 ## 🤝 Claims où vous êtes membre
 
@@ -229,7 +268,7 @@ Depuis ce menu, vous pouvez retrouver les claims partagés avec vous et quitter 
 Pour proposer le transfert d'un claim à un autre joueur :
 
 ```text
-/claim transfert <joueur>
+/claim transfert <joueur> [claim] [monde]
 ```
 
 Le joueur doit accepter la demande pour devenir propriétaire.
@@ -254,12 +293,20 @@ Il est interdit de faire un claim sur le toit du Nether dans le but de s'y tél�
 | --- | --- |
 | `/claim` | Ouvre le menu principal |
 | `/claim create` | Crée un claim avec la sélection au bâton |
-| `/claim list` | Affiche vos claims |
+| `/claim list` | Affiche vos claims et permet de modifier leur icône |
 | `/claim trusted` | Affiche les claims où vous êtes membre ou admin |
 | `/claim near` | Affiche les claims proches |
 | `/claim info` | Affiche les informations du claim actuel |
+| `/claim limit` | Affiche vos limites de claims et de blocs |
+| `/claim tp <claim> [monde]` | Vous téléporte vers un de vos claims |
 | `/claim chat <message>` | Envoie un message aux membres du claim |
-| `/claim transfert <joueur>` | Propose de transférer un claim |
+| `/claim notify` | Active ou désactive les notifications de claim |
+| `/claim bossbar` | Active ou désactive la bossbar du claim |
+| `/claim flag` | Ouvre le menu des flags |
+| `/claim member` | Ouvre le menu des membres |
+| `/claim ban` | Ouvre le menu des bannissements |
+| `/claim border` | Affiche la bordure du claim |
+| `/claim transfert <joueur> [claim] [monde]` | Propose de transférer un claim |
 
 ## ✅ Bonnes pratiques
 
