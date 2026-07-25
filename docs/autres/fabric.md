@@ -147,7 +147,7 @@ Les mods purement visuels ou d'optimisation sont souvent plus simples à utilise
 Si vous souhaitez jouer sur un serveur Minecraft francophone accessible facilement, vous pouvez rejoindre **Landaria**.
 Le serveur propose une économie, des métiers, des compétences, des quêtes, des donjons et de nombreuses activités pour progresser sans configuration complexe.
 
-**Adresse du serveur :** `play.landaria.fr`
+**Adresse du serveur :** `go.landaria.fr`
 
 ## ✅ Conclusion
 

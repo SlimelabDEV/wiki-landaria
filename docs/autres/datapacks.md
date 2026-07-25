@@ -131,7 +131,7 @@ Ils permettent d'ajouter du contenu tout en gardant une connexion simple pour le
 Si vous souhaitez jouer sur un serveur Minecraft francophone déjà rempli d'activités, vous pouvez rejoindre **Landaria**.
 Le serveur propose une économie, des métiers, des compétences, des quêtes, des donjons et de nombreux systèmes de progression.
 
-**Adresse du serveur :** `play.landaria.fr`
+**Adresse du serveur :** `go.landaria.fr`
 
 ## ✅ Conclusion
 

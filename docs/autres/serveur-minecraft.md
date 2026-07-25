@@ -158,7 +158,7 @@ Si vous souhaitez jouer directement sur un serveur Minecraft francophone déjà 
 
 Le serveur propose une économie entre joueurs, des métiers, des compétences, des quêtes, des donjons, des grades et de nombreuses activités multijoueur.
 
-**Adresse du serveur :** `play.landaria.fr`
+**Adresse du serveur :** `go.landaria.fr`
 
 ## ✅ Conclusion
 

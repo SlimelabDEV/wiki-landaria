@@ -129,7 +129,7 @@ Il peut améliorer votre confort visuel, vos FPS et votre immersion pendant l'ex
 Si vous cherchez un serveur Minecraft francophone pour profiter de vos nouveaux réglages, vous pouvez rejoindre **Landaria**.
 Le serveur propose une économie, des métiers, des compétences, des quêtes, des donjons et de nombreuses activités.
 
-**Adresse du serveur :** `play.landaria.fr`
+**Adresse du serveur :** `go.landaria.fr`
 
 ## ✅ Conclusion
 

@@ -124,7 +124,7 @@ Les maps personnalisées sont parfaites pour jouer en solo, mais les serveurs Mi
 Si vous recherchez un serveur Minecraft francophone avec une progression complète, vous pouvez rejoindre **Landaria**.
 Le serveur propose une économie, des métiers, des compétences, des quêtes, des donjons et de nombreuses activités dans un univers multijoueur.
 
-**Adresse du serveur :** `play.landaria.fr`
+**Adresse du serveur :** `go.landaria.fr`
 
 ## ✅ Conclusion
 

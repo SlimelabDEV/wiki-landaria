@@ -2,7 +2,7 @@
 
 ## 🎮 Étape 1 : Générer un code
 
-1. Connecte-toi au serveur **play.landaria.fr**.
+1. Connecte-toi au serveur **go.landaria.fr**.
 2. Exécute la commande :
 
    ```text

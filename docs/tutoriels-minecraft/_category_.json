@@ -1,0 +1,8 @@
+{
+  "label": "Tutoriels Minecraft",
+  "position": 5,
+  "link": {
+    "type": "doc",
+    "id": "tutoriels-minecraft/index"
+  }
+}

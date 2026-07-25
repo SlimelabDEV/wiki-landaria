@@ -165,7 +165,7 @@ Ils permettent d'améliorer l'immersion lors de vos constructions, explorations,
 Si vous recherchez un serveur Minecraft francophone pour profiter pleinement de votre nouveau pack de textures, vous pouvez rejoindre **Landaria**.
 Le serveur propose notamment une économie entre joueurs, des métiers, des compétences, des quêtes, des donjons et de nombreuses activités pour progresser dans un univers riche en contenu.
 
-**Adresse du serveur :** `play.landaria.fr`
+**Adresse du serveur :** `go.landaria.fr`
 
 ## ✅ Conclusion
 

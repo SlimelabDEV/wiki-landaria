@@ -156,7 +156,7 @@ Lisez attentivement la page de téléchargement afin de vérifier les dépendanc
 Une fois votre mod installé, vous pouvez également le tester en multijoueur sur un serveur compatible.
 Si vous recherchez un serveur Minecraft francophone proposant une économie avancée, des métiers, des compétences, des donjons, des quêtes et de nombreuses fonctionnalités inédites, vous pouvez découvrir **Landaria**.
 
-**Adresse du serveur :** `play.landaria.fr`
+**Adresse du serveur :** `go.landaria.fr`
 
 Avant de rejoindre un serveur avec des mods, vérifiez toujours que celui-ci est compatible avec votre version de Minecraft et les mods installés sur votre client.
 
