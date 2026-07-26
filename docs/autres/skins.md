@@ -1,6 +1,6 @@
 ﻿---
 title: 🎨 Installer un skin sur Minecraft
-description: Découvrez comment installer un skin sur Minecraft Java Edition et Bedrock Edition afin de personnaliser votre personnage.
+description: "Apprenez à créer et installer un skin Minecraft sur Java ou Bedrock, puis à corriger son affichage grâce au wiki de Landaria."
 ---
 # 🎨 Installer un skin sur Minecraft
 

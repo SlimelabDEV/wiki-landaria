@@ -1,6 +1,6 @@
 ﻿---
 title: 🔧 Installer Forge sur Minecraft
-description: Découvrez comment installer Forge sur Minecraft Java Edition afin d'ajouter facilement des mods compatibles à votre jeu.
+description: "Installez Forge sur Minecraft Java, ajoutez vos mods compatibles et corrigez les problèmes courants grâce au wiki de Landaria."
 ---
 
 # 🔧 Installer Forge sur Minecraft

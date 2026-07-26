@@ -1,6 +1,6 @@
 ﻿---
 title: 📦 Installer un datapack sur Minecraft
-description: Découvrez comment installer un datapack sur Minecraft Java Edition pour ajouter des fonctionnalités à un monde sans installer de mod.
+description: "Apprenez à installer, activer et vérifier un datapack dans un monde Minecraft Java grâce au guide proposé par le wiki de Landaria."
 ---
 
 # 📦 Installer un datapack sur Minecraft

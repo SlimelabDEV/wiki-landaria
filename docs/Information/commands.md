@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+description: "Consultez la liste des commandes de Landaria pour la téléportation, l'économie, les homes, les quêtes et les principales fonctions du serveur."
 ---
 
 # ✏️Commandes

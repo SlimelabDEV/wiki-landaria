@@ -1,6 +1,6 @@
 ﻿---
 title: 🔧 Installer un mod sur Minecraft
-description: Guide complet pour installer des mods sur Minecraft Java Edition avec Forge, NeoForge ou Fabric. Compatible avec toutes les versions de Minecraft.
+description: "Découvrez comment installer des mods Minecraft avec Forge, NeoForge ou Fabric et éviter les plantages grâce au wiki de Landaria."
 ---
 
 # 🔧 Installer un mod sur Minecraft

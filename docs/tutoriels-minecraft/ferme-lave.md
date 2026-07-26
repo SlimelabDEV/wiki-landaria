@@ -1,14 +1,14 @@
 ---
-title: Ferme à lave avec des spéléothèmes Minecraft
+title: 🌋 Ferme à lave avec des spéléothèmes Minecraft
 description: Produisez de la lave renouvelable avec une source de lave, un bloc, un spéléothème pointu et un chaudron.
 sidebar_position: 5
 ---
 
-# Ferme à lave avec des spéléothèmes Minecraft
+# 🌋 Ferme à lave avec des spéléothèmes Minecraft
 
 Une ferme à lave utilise un spéléothème pointu pour faire couler lentement une source de lave dans un chaudron. Elle ne demande aucune redstone et fournit un combustible renouvelable pour les fours.
 
-## Matériel nécessaire
+## 🧰 Matériel nécessaire
 
 Pour chaque module :
 
@@ -21,7 +21,7 @@ Pour chaque module :
 
 Construisez la ferme loin du bois et des objets inflammables.
 
-## Construire un module
+## 🛠️ Construire un module
 
 1. Placez le chaudron au sol.
 2. Laissez un bloc d'air au-dessus.
@@ -33,19 +33,19 @@ Construisez la ferme loin du bois et des objets inflammables.
 
 Le remplissage repose sur un événement aléatoire. Plusieurs chaudrons côte à côte donnent une production plus régulière qu'un seul module.
 
-## Agrandir sans danger
+## 📈 Agrandir sans danger
 
 Créez une rangée de chaudrons en gardant chaque source de lave séparée. Ajoutez un couloir de circulation assez large pour utiliser les seaux sans ouvrir accidentellement le réservoir supérieur.
 
 Étiquetez ou éclairez les entrées. Une ferme à lave installée dans un mur ressemble facilement à une simple décoration alors qu'elle contient de nombreuses sources.
 
-## Utiliser la lave comme combustible
+## ♻️ Utiliser la lave comme combustible
 
 Un seau de lave cuit un grand nombre d'objets, mais le seau vide doit être récupéré. Utilisez un système de fours compatible ou alimentez-les manuellement.
 
 Stockez les seaux pleins dans des coffres séparés des matériaux inflammables.
 
-## Problèmes courants
+## ⚠️ Problèmes courants
 
 ### Le chaudron ne se remplit pas
 
@@ -59,11 +59,13 @@ Le réservoir n'est pas fermé. Utilisez uniquement des blocs pleins autour de c
 
 Le délai est aléatoire. Ajoutez plusieurs modules et laissez les chunks chargés pendant vos activités à proximité.
 
-## À retenir
+## ✅ À retenir
 
 La ferme à lave est lente, silencieuse et très simple. Elle devient intéressante lorsqu'une rangée de chaudrons travaille pendant que vous utilisez normalement votre base.
 
 Découvrez ensuite le [générateur de basalte](/docs/tutoriels-minecraft/generateur-basalte) ou les autres [tutoriels Minecraft](/docs/tutoriels-minecraft).
+
+Pour aller plus loin, consultez aussi [le générateur d’obsidienne](/docs/tutoriels-minecraft/generateur-obsidienne).
 
 ## 🌍 Rejoindre Landaria
 

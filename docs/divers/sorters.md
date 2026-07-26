@@ -1,4 +1,5 @@
 ---
+description: "Apprenez à construire et configurer un trieur automatique sur Landaria afin de ranger efficacement les objets dans vos coffres."
 sidebar_position: 1
 ---
 

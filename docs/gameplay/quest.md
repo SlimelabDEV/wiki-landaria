@@ -1,4 +1,5 @@
 ---
+description: "Découvrez les différents types de quêtes de Landaria, les commandes pour les lancer et les récompenses en argent et expérience."
 sidebar_position: 5
 ---
 

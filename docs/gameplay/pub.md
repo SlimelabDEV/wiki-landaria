@@ -1,4 +1,5 @@
 ---
+description: "Apprenez à préparer, prévisualiser et publier une annonce sur Landaria pour promouvoir un market, un warp, une vente ou un projet."
 sidebar_position: 13
 ---
 

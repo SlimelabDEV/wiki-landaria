@@ -1,3 +1,7 @@
+---
+description: "Découvrez les donjons de Landaria, leurs clés, missions, boss, collections et couronnes utilisées pour acheter des améliorations."
+---
+
 # 💀 Donjons
 
 Les donjons sont le seul endroit où il est possible de farmer des couronnes, permettant d’acheter des enchantements customs ainsi que des améliorations. Voir la page **Enchantements**

@@ -1,4 +1,5 @@
 ---
+description: "Consultez les commandes de mariage de Landaria pour demander un joueur, gérer votre relation, vous téléporter et partager un home."
 sidebar_position: 12
 ---
 

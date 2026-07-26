@@ -1,6 +1,6 @@
 ﻿---
 title: 🌐 Créer un serveur Minecraft
-description: Découvrez comment créer un serveur Minecraft Java Edition pour jouer avec vos amis en local, sur un hébergeur ou avec un serveur dédié.
+description: "Découvrez comment créer un serveur Minecraft Java, choisir un hébergement, accepter l'EULA et configurer les accès avec le wiki de Landaria."
 ---
 
 # 🌐 Créer un serveur Minecraft

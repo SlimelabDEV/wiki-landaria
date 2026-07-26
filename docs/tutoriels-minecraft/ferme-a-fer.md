@@ -1,14 +1,14 @@
 ---
-title: Ferme à fer Minecraft Java simple
+title: 🔩 Ferme à fer Minecraft Java simple
 description: Comprenez les villageois, les lits et l'apparition des golems pour construire une ferme à fer fiable dans Minecraft Java Edition.
 sidebar_position: 2
 ---
 
-# Ferme à fer Minecraft Java simple
+# 🔩 Ferme à fer Minecraft Java simple
 
 Une ferme à fer utilise les villageois pour provoquer l'apparition de golems, puis dirige ces derniers vers une zone de mort. Elle fournit du fer et des coquelicots sans minage, mais son fonctionnement dépend de règles précises propres à Java Edition.
 
-## Matériel nécessaire
+## 🧰 Matériel nécessaire
 
 - Au moins trois villageois pour un petit module
 - Des lits accessibles
@@ -22,13 +22,13 @@ Une ferme à fer utilise les villageois pour provoquer l'apparition de golems, p
 
 Donnez une étiquette au zombie et protégez-le du soleil. Le système doit aussi empêcher tout contact direct avec les villageois.
 
-## Principe de la ferme
+## ⚙️ Principe de la ferme
 
 Les villageois doivent former un groupe valide, avoir utilisé leurs lits et ne pas détecter un golem suffisamment proche. Lorsqu'ils voient périodiquement un zombie, ils paniquent et peuvent tenter de faire apparaître un golem dans la zone prévue.
 
 Le zombie ne doit pas rester visible en permanence si cela empêche les villageois de dormir. Une ligne de vue interrompue au bon moment rend le module plus fiable.
 
-## Étapes générales
+## 🛠️ Étapes générales
 
 1. Construisez la cellule des villageois en hauteur.
 2. Placez les lits dans une disposition accessible.
@@ -41,13 +41,13 @@ Le zombie ne doit pas rester visible en permanence si cela empêche les villageo
 
 Testez plusieurs cycles jour-nuit avant de fermer la construction.
 
-## Choisir l'emplacement
+## 🧭 Choisir l'emplacement
 
 Éloignez la ferme des villages, lits et groupes de villageois existants. Un golem apparu dans une grotte ou sur un toit peut être détecté par les villageois et interrompre la production.
 
 Laissez un accès permettant d'inspecter les lits, le zombie et la plateforme.
 
-## Problèmes courants
+## ⚠️ Problèmes courants
 
 ### Aucun golem n'apparaît
 
@@ -61,11 +61,13 @@ Rendez les surfaces voisines incompatibles avec leur apparition ou déplacez le 
 
 Interrompez temporairement leur vision du zombie. Ils doivent pouvoir atteindre leur lit et s'y coucher, même brièvement.
 
-## À retenir
+## ✅ À retenir
 
 Une ferme à fer fiable repose davantage sur l'état des villageois que sur la quantité de redstone. Gardez chaque élément visible et testez un petit module avant de le multiplier.
 
 Préparez ensuite un [élevage de villageois](/docs/tutoriels-minecraft/elevage-villageois) ou parcourez les autres [tutoriels Minecraft](/docs/tutoriels-minecraft).
+
+Pour aller plus loin, consultez aussi [le stockage en silos](/docs/tutoriels-minecraft/stockage-silos).
 
 ## 🌍 Rejoindre Landaria
 

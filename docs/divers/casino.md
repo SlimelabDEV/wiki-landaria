@@ -1,4 +1,5 @@
 ---
+description: "Découvrez le casino de Landaria, ses différentes clés, ses récompenses et la commande permettant de rejoindre cet espace de jeu."
 sidebar_position: 3
 ---
 

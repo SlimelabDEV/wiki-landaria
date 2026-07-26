@@ -1,6 +1,6 @@
 ---
 title: 🛡️ Guide des claims
-description: Apprendre à créer, gérer et protéger son claim sur le serveur.
+description: "Apprenez à créer, agrandir et gérer un claim sur Landaria, puis à régler les permissions, flags, membres et téléportations."
 sidebar_position: 6
 ---
 

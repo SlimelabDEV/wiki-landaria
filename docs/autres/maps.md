@@ -1,6 +1,6 @@
 ﻿---
 title: 🗺️ Installer une map sur Minecraft
-description: Découvrez comment installer une map Minecraft Java Edition ou Bedrock Edition pour jouer sur une aventure, une construction ou un monde personnalisé.
+description: "Apprenez à installer une map Minecraft Java ou Bedrock, localiser le dossier des mondes et corriger les problèmes avec le wiki de Landaria."
 ---
 
 # 🗺️ Installer une map sur Minecraft

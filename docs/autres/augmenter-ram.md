@@ -1,6 +1,6 @@
 ﻿---
 title: 🧠 Augmenter la RAM sur Minecraft
-description: Découvrez comment allouer plus de RAM à Minecraft Java Edition pour améliorer les performances avec des mods, shaders ou packs de ressources.
+description: "Apprenez à allouer davantage de RAM à Minecraft Java, régler le launcher et éviter les ralentissements avec le wiki de Landaria."
 ---
 
 # 🧠 Augmenter la RAM sur Minecraft

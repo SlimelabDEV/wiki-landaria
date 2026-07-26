@@ -1,4 +1,5 @@
 ---
+description: "Découvrez l'agriculture avancée de Landaria, ses commandes, cultures, growstations, outils et améliorations pour optimiser vos récoltes."
 sidebar_position: 1
 ---
 

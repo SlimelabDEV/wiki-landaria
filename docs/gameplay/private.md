@@ -1,4 +1,5 @@
 ---
+description: "Apprenez à protéger un coffre ou un bloc avec une pancarte Private sur Landaria, puis à ajouter ou retirer des joueurs autorisés."
 sidebar_position: 11
 ---
 

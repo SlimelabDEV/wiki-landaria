@@ -1,4 +1,5 @@
 ---
+description: "Apprenez à créer et gérer une guilde sur Landaria, inviter des membres, organiser les grades, la banque, les homes et les permissions."
 sidebar_position: 4
 ---
 

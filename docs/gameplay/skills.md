@@ -1,4 +1,5 @@
 ---
+description: "Découvrez les compétences, niveaux, mana et salaires de Landaria, ainsi que les bonus débloqués pour chaque activité Minecraft."
 sidebar_position: 2
 ---
 

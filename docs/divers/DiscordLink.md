@@ -1,3 +1,7 @@
+---
+description: "Suivez les étapes pour lier votre compte Minecraft à Discord sur Landaria, générer votre code et synchroniser automatiquement vos rôles."
+---
+
 # 🔗 Lier son compte Minecraft à Discord
 
 ## 🎮 Étape 1 : Générer un code

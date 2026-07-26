@@ -1,3 +1,7 @@
+---
+description: "Découvrez les conditions, avantages et commandes du grade Partenaire de Landaria pour annoncer vos vidéos et diffusions en direct."
+---
+
 # 🎥 Grade Partenaire
 
 Le **grade Partenaire** est destiné aux créateurs de contenu qui participent activement à la mise en avant du serveur via des **lives** ou des **vidéos**.  

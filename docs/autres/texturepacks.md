@@ -1,6 +1,6 @@
 ﻿---
 title: 🎨 Installer un pack de textures sur Minecraft
-description: Découvrez comment installer un pack de textures sur Minecraft Java Edition et Bedrock Edition afin de modifier l'apparence du jeu.
+description: "Découvrez comment installer un pack de textures Minecraft Java ou Bedrock et résoudre les incompatibilités avec le wiki de Landaria."
 ---
 
 # 🎨 Installer un pack de textures sur Minecraft

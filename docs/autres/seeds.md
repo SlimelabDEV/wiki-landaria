@@ -1,6 +1,6 @@
 ﻿---
 title: 🌱 Trouver et utiliser un seed Minecraft
-description: Découvrez comment trouver, copier et utiliser un seed Minecraft pour générer un monde précis sur Java Edition ou Bedrock Edition.
+description: "Découvrez comment utiliser une seed Minecraft Java ou Bedrock, partager une graine de monde et retrouver vos coordonnées avec le wiki de Landaria."
 ---
 
 # 🌱 Trouver et utiliser un seed Minecraft

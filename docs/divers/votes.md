@@ -1,4 +1,5 @@
 ---
+description: "Découvrez comment voter pour Landaria, créer votre compte de vote et récupérer les récompenses obtenues pour soutenir le serveur."
 sidebar_position: 4
 ---
 

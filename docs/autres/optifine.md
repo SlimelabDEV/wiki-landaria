@@ -1,6 +1,6 @@
 ﻿---
 title: ⚡ Installer OptiFine sur Minecraft
-description: Découvrez comment installer OptiFine sur Minecraft Java Edition pour améliorer les performances, activer les shaders et personnaliser les graphismes.
+description: "Apprenez à installer OptiFine sur Minecraft Java, régler les graphismes et résoudre les incompatibilités avec le wiki de Landaria."
 ---
 
 # ⚡ Installer OptiFine sur Minecraft

@@ -1,6 +1,6 @@
 ﻿---
 title: 🧵 Installer Fabric sur Minecraft
-description: Guide simple pour installer Fabric sur Minecraft Java Edition et ajouter des mods légers ou des mods d'optimisation.
+description: "Installez Fabric sur Minecraft Java, ajoutez Fabric API et vos mods compatibles, puis résolvez les erreurs avec le wiki de Landaria."
 ---
 
 # 🧵 Installer Fabric sur Minecraft

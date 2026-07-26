@@ -1,4 +1,5 @@
 ---
+description: "Préparez le combat contre l'Ender Dragon sur Landaria : accès à l'End, invocation, récompenses, réapparition et informations utiles."
 sidebar_position: 7
 ---
 

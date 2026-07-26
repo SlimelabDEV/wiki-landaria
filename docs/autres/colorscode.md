@@ -1,6 +1,6 @@
 ﻿---
 title: 🌈 Les codes couleurs Minecraft
-description: Découvrez tous les codes couleurs Minecraft pour personnaliser vos messages, panneaux, grades, serveurs et textes en jeu.
+description: "Retrouvez les codes couleur et de mise en forme Minecraft pour personnaliser vos textes, panneaux et messages avec le wiki de Landaria."
 ---
 
 # 🌈 Les codes couleurs Minecraft

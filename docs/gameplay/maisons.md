@@ -1,6 +1,6 @@
 ---
 title: 📈 Maisons & contrats
-description: Comprendre les Maisons, les contrats, les participations, le budget et les dividendes.
+description: "Comprenez les Maisons et contrats de Landaria : participations, budgets, dividendes, ventes et progression économique communautaire."
 sidebar_position: 1
 ---
 

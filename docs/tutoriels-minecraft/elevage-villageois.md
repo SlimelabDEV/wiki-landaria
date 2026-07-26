@@ -1,14 +1,14 @@
 ---
-title: Élevage de villageois automatique dans Minecraft
+title: 👨‍🌾 Élevage de villageois automatique dans Minecraft
 description: Construisez un élevage de villageois avec lits, nourriture, fermier et zone de sortie dans Minecraft Java Edition.
 sidebar_position: 3
 ---
 
-# Élevage de villageois automatique dans Minecraft
+# 👨‍🌾 Élevage de villageois automatique dans Minecraft
 
 Un élevage de villageois fournit les habitants nécessaires à un hall de commerce, une ferme à fer ou un nouveau village. Pour se reproduire, les villageois doivent avoir assez de nourriture et trouver un lit libre valide pour le futur bébé.
 
-## Matériel nécessaire
+## 🧰 Matériel nécessaire
 
 - Deux villageois adultes
 - Plusieurs lits
@@ -21,7 +21,7 @@ Un élevage de villageois fournit les habitants nécessaires à un hall de comme
 
 Les carottes et les pommes de terre sont simples à gérer, car elles ne remplissent pas l'inventaire du fermier avec des graines.
 
-## Construire la zone de culture
+## 🛠️ Construire la zone de culture
 
 1. Préparez un petit champ hydraté et fermé.
 2. Placez un composteur accessible.
@@ -33,19 +33,19 @@ Les carottes et les pommes de terre sont simples à gérer, car elles ne remplis
 
 Le fermier récolte et partage la nourriture. Les deux adultes peuvent alors devenir disposés à se reproduire.
 
-## Gérer les lits
+## ⚙️ Gérer les lits
 
 Le nombre de villageois dépend des lits reconnus dans la zone. Chaque naissance nécessite un lit libre valide.
 
 Une trappe, une hauteur adaptée ou un courant d'eau peut séparer les bébés. Une fois déplacés assez loin, ils ne doivent plus réserver les lits du module.
 
-## Transporter les villageois
+## 🚚 Transporter les villageois
 
 Les wagonnets sont précis et fonctionnent bien dans une base technique. Les bateaux coûtent moins cher, mais sont plus difficiles à déplacer sur des différences de hauteur.
 
 Préparez la destination avant de sortir un villageois. Un adulte libre peut choisir un bloc de métier ou un lit non prévu et perturber les autres installations.
 
-## Problèmes courants
+## ⚠️ Problèmes courants
 
 ### Des cœurs apparaissent puis des particules de colère
 
@@ -59,11 +59,13 @@ Leur inventaire peut être plein ou les règles du monde peuvent empêcher le ra
 
 Assurez-vous qu'il peut atteindre le composteur et que celui-ci n'est pas déjà lié à un autre villageois.
 
-## À retenir
+## ✅ À retenir
 
 La fiabilité d'un élevage dépend surtout de la gestion des lits et de l'évacuation des nouveaux habitants. Construisez la sortie dès le départ pour éviter de bloquer le module.
 
 Utilisez ensuite ces villageois dans un [hall de commerce](/docs/tutoriels-minecraft/hall-commerce-villageois) ou revenez aux [tutoriels Minecraft](/docs/tutoriels-minecraft).
+
+Pour aller plus loin, consultez aussi [le trieur automatique pour les récoltes](/docs/tutoriels-minecraft/trieur-automatique-objets).
 
 ## 🌍 Rejoindre Landaria
 

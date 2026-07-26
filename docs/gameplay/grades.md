@@ -1,4 +1,5 @@
 ---
+description: "Comparez les grades disponibles sur Landaria, leurs avantages, commandes, bonus et récompenses afin de choisir celui qui vous convient."
 sidebar_position: 8
 ---
 

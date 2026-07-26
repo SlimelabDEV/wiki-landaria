@@ -1,3 +1,7 @@
+---
+description: "Consultez les enchantements personnalisés de Landaria, leurs raretés, effets, chances d'activation et équipements compatibles."
+---
+
 # 📚 Enchantements
 
 Les enchantements sont des **améliorations spéciales** que vous pouvez appliquer sur vos armes, armures et outils.

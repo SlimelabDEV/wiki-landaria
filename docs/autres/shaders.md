@@ -1,6 +1,6 @@
 ﻿---
 title: ✨ Installer des shaders sur Minecraft
-description: Découvrez comment installer des shaders sur Minecraft Java Edition pour améliorer les graphismes avec OptiFine, Iris Shaders ou Sodium.
+description: "Apprenez à installer des shaders Minecraft avec Iris ou OptiFine, choisir un pack et améliorer les performances avec le wiki de Landaria."
 ---
 
 # ✨ Installer des shaders sur Minecraft

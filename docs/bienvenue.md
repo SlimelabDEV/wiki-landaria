@@ -1,4 +1,5 @@
 ---
+description: "Découvrez le wiki officiel de Landaria : guides de démarrage, commandes, règles et systèmes essentiels pour progresser sur le serveur Minecraft."
 sidebar_position: 0
 title: 👋 Bienvenue
 ---

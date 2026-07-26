@@ -1,6 +1,6 @@
 ---
 title: 🛒 Markets
-description: Créer un market, vendre, acheter et utiliser le menu market.
+description: "Apprenez à créer un market sur Landaria, ajouter des offres sur un coffre, fixer les prix et acheter ou vendre avec les autres joueurs."
 sidebar_position: 10
 ---
 
