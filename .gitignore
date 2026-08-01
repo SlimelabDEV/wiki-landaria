@@ -16,6 +16,7 @@ server.js
 deploy-wiki.sh
 docusaurus.config.ts
 sidebars.ts
+static/robots.txt
 
 # 📂 Sections inutilisées ou internes
 blog/
