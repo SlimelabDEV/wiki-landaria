@@ -20,6 +20,7 @@ Si tu découvres le serveur, commence ici :
 - ✏️ [**Commandes**](/docs/Information/commands) : toutes les commandes utiles en jeu.
 - ❓ [**FAQ**](/docs/Information/faq) : les réponses aux questions fréquentes.
 - 👑 [**Grades**](/docs/gameplay/grades) : les grades, avantages et progressions disponibles.
+- 🎫 [**Voter**](/docs/divers/votes) : soutenir le serveur et gagner des points à dépenser en jeu.
 
 ---
 
