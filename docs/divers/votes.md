@@ -1,76 +1,93 @@
 ---
-description: "Découvrez comment voter pour Landaria, créer votre compte de vote et récupérer les récompenses obtenues pour soutenir le serveur."
+description: "Votez pour Landaria depuis le site officiel, gagnez des points en jeu et échangez-les contre des clés et récompenses avec /voteshop."
 sidebar_position: 4
 ---
 
-# 🎫 Voter, qu'est-ce que c'est ?
+# 🎫 Voter pour Landaria
 
-Lorsque vous votez pour nos serveurs, vous aidez **Slimelab** à se développer. Grâce à votre soutien, nous grimpons dans les classements, ce qui nous permet d'obtenir une meilleure visibilité et donc plus de joueurs.
+Chaque vote aide **Landaria** à gagner en visibilité et à accueillir de nouveaux joueurs. En échange de votre soutien, vous recevez des **points de vote en jeu** à dépenser dans une boutique dédiée.
 
-Tout en nous soutenant, vous obtenez des récompenses qui vous seront utiles lors de vos aventures.
-
----
-
-## 📝 Créer un compte pour voter (Optionnel)
-
-![inscription étape 1](/img/votes/vote1.png)  
-Pour créer un compte, rien de plus simple !  
-Rendez-vous sur le site de vote du serveur Slimelab sur lequel vous jouez. Sur le coin supérieur gauche, cliquez sur **Inscription** comme indiqué sur le screen.
-
-![inscription étape 2](/img/votes/vote2.png)  
-Remplissez correctement l'encadré avec des informations fiables comme sur le screen ci-dessus.  
-
-:::danger Attention  
-Vérifiez bien de mettre le pseudo que vous possédez en jeu !  
+:::tip Accès direct
+👉 [**Ouvrir le site de vote de Landaria**](https://landaria.fr/vote)
 :::
-
-:::tip
-Pas besoin de compte pour voter et obtenir des récompenses ! 🚀  
-:::
-
----
-
-## 🔑 Connexion
-
-![connexion étape 1](/img/votes/vote3.png)  
-Une fois le compte créé, connectez-vous en cliquant sur l'onglet **Connexion** comme indiqué sur le screen.
-
-![connexion étape 2](/img/votes/vote4.png)
 
 ---
 
 ## 🗳️ Comment voter ?
 
-Voter est simple ! Suivez les étapes ci-dessous :
+Vous pouvez voter sans créer de compte sur le site :
 
-1. Si vous n'avez pas de compte, entrez simplement votre pseudo Minecraft et cliquez sur **Continuer**.  
-   ![étape suivante](/img/votes/vote5.png)
+1. Ouvrez la [page de vote de Landaria](https://landaria.fr/vote).
+2. Entrez votre **pseudo Minecraft** puis cliquez sur **Continuer**.
+3. Choisissez l'une des plateformes de vote disponibles.
+4. Suivez les instructions de la plateforme et validez votre vote.
+5. Une fois le vote confirmé, vos points sont ajoutés à votre solde en jeu.
 
-2. Choisissez l'une des options proposées, vous serez automatiquement redirigé vers un site de vote. Suivez les instructions et une fois le vote terminé, vous recevrez automatiquement vos récompenses en jeu.  
-   ![choix de site](/img/votes/vote6.png)
+![Choix des plateformes de vote et de leurs délais](/img/votes/votes_sites.png)
 
-:::tip 
-Si vous avez déjà un compte, vous pouvez directement accéder à cette étape
+:::info Délais de vote
+Chaque plateforme possède son propre délai avant de pouvoir voter à nouveau. Le site indique automatiquement celles qui sont disponibles.
 :::
 
 ---
 
-## 🎁 Comment récupérer les récompenses ?
+## 🔐 Se connecter au site
 
-En jeu, utilisez la commande `/vote` pour voir votre nombre de points de vote et accéder à la boutique de points de vote.
+La connexion est **facultative pour voter**, mais elle permet de retrouver directement votre profil et votre pseudo.
 
-- **/vote take all** pour convertir tous vos points en **clés de vote**.
-- **/vote take &lt;nombre&gt;** pour récupérer un certain nombre de clés.
+Il n'y a plus d'inscription ni d'adresse e-mail à renseigner. Utilisez simplement :
 
-Vous avez deux solutions :
+- votre **pseudo Minecraft** ;
+- le **mot de passe de votre compte sur le serveur**, identique à celui utilisé en jeu.
 
-- Convertir vos points en clés de vote avec **/vote take all**
-- Acheter des avantages (commandes, spawners, etc.) avec vos points dans la boutique de vote via **/vote**
+![Connexion avec le pseudo Minecraft et le mot de passe du serveur](/img/votes/votelogin.png)
 
 ---
 
-## 💡 Bon à savoir !
+## ⚡ VoteParty
 
-Vous pouvez voter et obtenir vos points de vote même si vous n'êtes pas connecté en jeu ! Les points seront stockés sur votre compte et vous pourrez les utiliser à tout moment.
+Les votes de toute la communauté remplissent ensemble la jauge de la **VoteParty**. La page affiche en temps réel :
 
-[^1]: This is the footnote text.
+- le nombre total de votes ;
+- les votes restants avant le prochain objectif ;
+- la durée d'un éventuel boost ;
+- le multiplicateur de points actif.
+
+Un palier de VoteParty est débloqué tous les **1 000 votes**. Chaque palier ajoute **12 heures** au boost, durant lequel chaque vote rapporte **2 points en jeu au lieu de 1**.
+
+Les durées de boost se cumulent : s'il reste 5 heures lorsqu'un nouveau palier est atteint, les 12 heures supplémentaires sont ajoutées et le boost passe à **17 heures restantes**.
+
+![Progression et boost de la VoteParty](/img/votes/voteparty.png)
+
+---
+
+## 🏆 Classement mensuel
+
+Chaque vote validé compte également pour le **classement mensuel**. Le site met en avant les trois meilleurs votants et permet de consulter le classement complet.
+
+![Podium des trois meilleurs votants du mois](/img/votes/votetop3.png)
+
+Le classement complet indique votre position, votre nombre de votes et la récompense associée à chaque place. Les positions et les récompenses évoluent au cours du mois.
+
+![Classement mensuel complet des votants](/img/votes/voteclassement.png)
+
+---
+
+## 🎁 Utiliser ses points en jeu
+
+Une fois vos points reçus, utilisez la commande :
+
+```text
+/voteshop
+```
+
+La boutique affiche votre solde et les récompenses disponibles. Vous pouvez notamment échanger vos points contre des **clés de vote**, ainsi que contre différents objets ou avantages proposés par le serveur.
+
+![Boutique de points de vote accessible avec la commande voteshop](/img/votes/voteshop.png)
+
+:::tip À retenir
+- Tous les **1 000 votes**, la VoteParty ajoute **12 heures** au boost restant ; pendant ce boost, chaque vote rapporte **2 points**.
+- Aucun compte sur le site ni aucune adresse e-mail ne sont nécessaires pour voter.
+- La connexion au site utilise vos identifiants Minecraft du serveur.
+- Les points se dépensent directement en jeu avec `/voteshop`.
+:::
