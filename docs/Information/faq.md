@@ -9,6 +9,28 @@ Dans cette catégorie, retrouvez une grande partie des questions qui nous sont p
 
 ---
 
+## 🔐 Premiers pas sur le serveur
+
+Lors de votre première connexion, créez votre mot de passe avec la commande suivante :
+
+- 🔒 `/register MotDePasse MotDePasse`
+
+Lors des connexions suivantes, connectez-vous à votre compte avec :
+
+- 🔓 `/login MotDePasse`
+
+<sub>Le mot de passe indiqué ci-dessus est seulement un exemple. Choisissez un mot de passe différent et sécurisé.</sub>
+
+:::important ⚠️
+Votre mot de passe doit rester unique et confidentiel. Ne le communiquez jamais et ne réutilisez pas un mot de passe déjà employé sur un autre service.
+:::
+
+:::tip 💡
+En cas de perte ou d'oubli de votre mot de passe, rendez-vous sur le Discord de Landaria et ouvrez un ticket avec le motif *J'ai un problème avec mon mot de passe*. Décrivez ensuite votre problème en suivant les indications du formulaire afin que le staff puisse vous aider.
+:::
+
+---
+
 ## 🌄 Distance de vue (view-distance)
 - **View-distance** : `8` dans les mondes joueurs (mondes où les joueurs jouent, construisent et explorent)
 - **View-distance** : `10` dans les mondes publics (spawn, zones PvP, monde End, zone Pinata, AFK, etc..)
@@ -239,5 +261,11 @@ Pour éviter les suppressions, évitez de concentrer trop d'animaux, monstres ou
 💡* : <sub>Vous pourrez retrouver plus d'informations sur ces avantages dans le menu `/boutique` → Divers directement en jeu.</sub>
 
 - ⚠️ Une fois le Compte Premium activé, le compte à rebours en haut de l'écran dans la bossbar `/bossbar` ne cessera de diminuer, même lorsque vous serez déconnecté.
+
+:::tip 💡
+La durée de votre Premium personnel est automatiquement mise en pause tant qu'un **Premium pour tous** est actif.
+:::
+
+Utilisez `/premium` en jeu pour consulter les détails de votre compte Premium en cours.
 
 ---

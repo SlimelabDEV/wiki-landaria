@@ -83,9 +83,11 @@ Voici la liste complète des commandes disponibles sur le serveur Landaria. Ces 
 - **#inv** : Affiche ton inventaire.
 - **#item** : Affiche l'objet dans ta main.
 - **#ec** : Affiche ton enderchest.
-- **#pos** : Affiche ta position.
 - **#bal** : Affiche ton argent.
-- **#skill** : Affiche tes compétences.
+- **#sk** : Affiche tes compétences.
+- **#guild** : Affiche le nom de ta guilde.
+- **#gbank** : Affiche l'argent disponible dans la banque de ta guilde.
+- **#c** : Affiche ton solde de couronnes.
 
 ---
 
@@ -103,6 +105,8 @@ Voici la liste complète des commandes disponibles sur le serveur Landaria. Ces 
 - **/claim bossbar** : Active ou désactive la bossbar permanente du claim.
 - **/claim flag** : Ouvre le menu des flags.
 - **/claim member** : Ouvre le menu des membres.
+- **/claim member add \<pseudo\>** : Envoie au joueur une demande pour rejoindre le claim.
+- **/claim member accept** ou **/claim member decline** : Accepte ou refuse une demande pour rejoindre un claim.
 - **/claim ban** : Ouvre le menu des bannissements.
 - **/claim border** : Affiche la bordure du claim.
 - **/claim transfert \<joueur\> [claim] [monde]** : Propose de transférer un claim à un joueur.
@@ -120,6 +124,7 @@ Voici la liste complète des commandes disponibles sur le serveur Landaria. Ces 
 - **/g invite &lt;joueur&gt;** : Invite un joueur dans votre guilde.
 - **/g accept &lt;joueur&gt;** : Accepte une invitation de guilde.
 - **/g leave** : Quitte votre guilde actuelle.
+- **/g confirm** : Confirme une action qui nécessite une validation.
 - **/g info** : Affiche les informations de guilde.
 - **/g boot &lt;joueur&gt;** : Kick un joueur de la guilde.
 - **/g list** : Affiche la liste des guildes.
@@ -150,9 +155,15 @@ Voici la liste complète des commandes disponibles sur le serveur Landaria. Ces 
 - **/maison status** : Affiche le nombre total de maisons chargées.
 
 ---
+
 ## Commandes de débug 🪲
-- **/edebug** (en tenant l'item en main) : Permet de résoudre des bugs présents sur un item, des poussières magiques, des livres d'enchantements customs non fonctionnels et plus encore.
+- **/edebug** (en tenant l'item en main) : Permet de résoudre des bugs présents sur un item, des poussières magiques, des livres d'enchantements customs non fonctionnels, des runes protectrices et plus encore.
 
 :::tip 💡
 La commande `/edebug` peut ne pas résoudre tous les soucis de l'item. Dans ce cas, il est nécessaire d'ouvrir un ticket pour expliquer le problème au staff. Un remboursement ou un échange pourra être effectué.
 :::
+
+---
+
+## Commande du compte Premium ⭐
+- **/premium** : Affiche les informations liées au compte Premium actif.
