@@ -275,9 +275,9 @@ Achetées dans la boutique enchantement avec des dollars $ et non des Couronnes
 | Vaudou I               | Armure         | Inflige l'effet faiblesse 1 pendant 3s             | 2s       | 5%             | Prendre un coup (mob ou joueur)                                   |
 | Vaudou II              | Armure         | Inflige l'effet faiblesse 1 pendant 5s             | 2s       | 7%             | Prendre un coup (mob ou joueur)                                   |
 | Vaudou III             | Armure         | Inflige l'effet faiblesse 1 pendant 7s             | 2s       | 9%             | Prendre un coup (mob ou joueur)                                   |
-| Vaudou IV              | Armure         | Inflige l'effet faiblesse 1 pendant 3s             | 2s       | 13%            | Prendre un coup (mob ou joueur)                                   |
-| Vaudou V               | Armure         | Inflige l'effet faiblesse 1 pendant 5s             | 2s       | 16%            | Prendre un coup (mob ou joueur)                                   |
-| Vaudou VI              | Armure         | Inflige l'effet faiblesse 1 pendant 7s             | 2s       | 21%            | Prendre un coup (mob ou joueur)                                   |
+| Vaudou IV              | Armure         | Inflige l'effet faiblesse 2 pendant 3s             | 2s       | 13%            | Prendre un coup (mob ou joueur)                                   |
+| Vaudou V               | Armure         | Inflige l'effet faiblesse 2 pendant 5s             | 2s       | 16%            | Prendre un coup (mob ou joueur)                                   |
+| Vaudou VI              | Armure         | Inflige l'effet faiblesse 2 pendant 7s             | 2s       | 21%            | Prendre un coup (mob ou joueur)                                   |
 | Wither I               | Armure         | Chance d'infliger wither 1 pendant 3s              | 3s       | 9%             | Prendre un coup (mob ou joueur)                                   |
 | Wither II              | Armure         | Chance d'infliger wither 1 pendant 5s              | 3s       | 11%            | Prendre un coup (mob ou joueur)                                   |
 | Wither III             | Armure         | Chance d'infliger wither 1 pendant 7s              | 3s       | 14%            | Prendre un coup (mob ou joueur)                                   |
@@ -371,27 +371,27 @@ Achetées dans la boutique enchantement avec des dollars $ et non des Couronnes
 
 | Enchantement Mythique               | Adapté pour     | Description                                                                    | CoolDown | Taux de chance | Condition d'activation                                   |
 | ----------------------------------- | --------------- | ------------------------------------------------------------------------------ | -------- | -------------- | -------------------------------------------------------- |
-| Plantation I                        | Houe            | Planter les graines de blé en 3x3                                              | 3s       | 100%           | Avoir des graines de blé + clic droit                   |
-| Plantation II                       | Houe            | Planter les graines de blé en 3x3                                              | 2s       | 100%           | Avoir des graines de blé + clic droit                   |
-| Plantation III                      | Houe            | Planter les graines de blé en 3x3                                              | X        | 100%           | Avoir des graines de blé + clic droit                   |
-| Plantation (pomme de terre) I       | Houe            | Planter des pommes de terre en 3x3                                             | 3s       | 100%           | Avoir des patates + clic droit                           |
-| Plantation (pomme de terre) II      | Houe            | Planter des pommes de terre en 3x3                                             | 2s       | 100%           | Avoir des patates + clic droit                           |
-| Plantation (pomme de terre) III     | Houe            | Planter des pommes de terre en 3x3                                             | X        | 100%           | Avoir des patates + clic droit                           |
-| Plantation (carottes) I             | Houe            | Planter des carottes en 3x3                                                    | 3s       | 100%           | Avoir des carottes + clic droit                          |
-| Plantation (carottes) II            | Houe            | Planter des carottes en 3x3                                                    | 2s       | 100%           | Avoir des carottes + clic droit                          |
-| Plantation (carottes) III           | Houe            | Planter des carottes en 3x3                                                    | X        | 100%           | Avoir des carottes + clic droit                          |
-| Plantation (torche-fleur) I         | Houe            | Planter des torches-fleurs en 3x3                                      | 3s       | 100%           | Avoir des torches-fleurs + clic droit             |
-| Plantation (torche-fleur) II        | Houe            | Planter des torches-fleurs en 3x3                                      | 2s       | 100%           | Avoir des torches-fleurs + clic droit             |
-| Plantation (torche-fleur) III       | Houe            | Planter des torches-fleurs en 3x3                                      | X        | 100%           | Avoir des torches-fleurs + clic droit             |
-| Plantation (planturne) I            | Houe            | Planter des planturnes en 3x3                                          | 3s       | 100%           | Avoir des planturnes + clic droit                 |
-| Plantation (planturne) II           | Houe            | Planter des planturnes en 3x3                                          | 2s       | 100%           | Avoir des planturnes + clic droit                 |
-| Plantation (planturne) III          | Houe            | Planter des planturnes en 3x3                                          | X        | 100%           | Avoir des planturnes + clic droit                 |
-| Plantation (betterave) I            | Houe            | Planter des betteraves en 3x3                                          | 3s       | 100%           | Avoir des betteraves + clic droit                 |
-| Plantation (betterave) II           | Houe            | Planter des betteraves en 3x3                                          | 2s       | 100%           | Avoir des betteraves + clic droit                 |
-| Plantation (betterave) III          | Houe            | Planter des betteraves en 3x3                                          | X        | 100%           | Avoir des betteraves + clic droit                 |
-| Plantation (verrues du Nether) I    | Houe            | Planter des verrues en 3x3                                             | 3s       | 100%           | Avoir des verrues + clic droit                    |
-| Plantation (verrues du Nether) II   | Houe            | Planter des verrues en 3x3                                             | 2s       | 100%           | Avoir des verrues + clic droit                    |
-| Plantation (verrues du Nether) III  | Houe            | Planter des verrues en 3x3                                             | X        | 100%           | Avoir des verrues + clic droit                    |
+| Plantation I                        | Houe            | Planter les graines de blé en 3x3                                              | 3s       | 100%           | Avoir des graines de blé + accroupi clic droit                   |
+| Plantation II                       | Houe            | Planter les graines de blé en 3x3                                              | 2s       | 100%           | Avoir des graines de blé + accroupi clic droit                   |
+| Plantation III                      | Houe            | Planter les graines de blé en 3x3                                              | X        | 100%           | Avoir des graines de blé + accroupi clic droit                   |
+| Plantation (pomme de terre) I       | Houe            | Planter des pommes de terre en 3x3                                             | 3s       | 100%           | Avoir des patates + accroupi clic droit                           |
+| Plantation (pomme de terre) II      | Houe            | Planter des pommes de terre en 3x3                                             | 2s       | 100%           | Avoir des patates + accroupi clic droit                           |
+| Plantation (pomme de terre) III     | Houe            | Planter des pommes de terre en 3x3                                             | X        | 100%           | Avoir des patates + accroupi clic droit                           |
+| Plantation (carottes) I             | Houe            | Planter des carottes en 3x3                                                    | 3s       | 100%           | Avoir des carottes + accroupi clic droit                          |
+| Plantation (carottes) II            | Houe            | Planter des carottes en 3x3                                                    | 2s       | 100%           | Avoir des carottes + accroupi clic droit                          |
+| Plantation (carottes) III           | Houe            | Planter des carottes en 3x3                                                    | X        | 100%           | Avoir des carottes + accroupi clic droit                          |
+| Plantation (torche-fleur) I         | Houe            | Planter des torches-fleurs en 3x3                                      | 3s       | 100%           | Avoir des torches-fleurs + accroupi clic droit             |
+| Plantation (torche-fleur) II        | Houe            | Planter des torches-fleurs en 3x3                                      | 2s       | 100%           | Avoir des torches-fleurs + accroupi clic droit             |
+| Plantation (torche-fleur) III       | Houe            | Planter des torches-fleurs en 3x3                                      | X        | 100%           | Avoir des torches-fleurs + accroupi clic droit             |
+| Plantation (planturne) I            | Houe            | Planter des planturnes en 3x3                                          | 3s       | 100%           | Avoir des planturnes + accroupi clic droit                 |
+| Plantation (planturne) II           | Houe            | Planter des planturnes en 3x3                                          | 2s       | 100%           | Avoir des planturnes + accroupi clic droit                 |
+| Plantation (planturne) III          | Houe            | Planter des planturnes en 3x3                                          | X        | 100%           | Avoir des planturnes + accroupi clic droit                 |
+| Plantation (betterave) I            | Houe            | Planter des betteraves en 3x3                                          | 3s       | 100%           | Avoir des betteraves + accroupi clic droit                 |
+| Plantation (betterave) II           | Houe            | Planter des betteraves en 3x3                                          | 2s       | 100%           | Avoir des betteraves + accroupi clic droit                 |
+| Plantation (betterave) III          | Houe            | Planter des betteraves en 3x3                                          | X        | 100%           | Avoir des betteraves + accroupi clic droit                 |
+| Plantation (verrues du Nether) I    | Houe            | Planter des verrues en 3x3                                             | 3s       | 100%           | Avoir des verrues + accroupi clic droit                    |
+| Plantation (verrues du Nether) II   | Houe            | Planter des verrues en 3x3                                             | 2s       | 100%           | Avoir des verrues + accroupi clic droit                    |
+| Plantation (verrues du Nether) III  | Houe            | Planter des verrues en 3x3                                             | X        | 100%           | Avoir des verrues + accroupi clic droit                    |
 | Jambes en gelée I                   | Bottes          | Chance d'annuler les dégâts de chute                                           | X        | 40%            | Équiper les bottes                                       |
 | Jambes en gelée II                  | Bottes          | Chance d'annuler les dégâts de chute                                           | X        | 80%            | Équiper les bottes                                       |
 | Jambes en gelée III                 | Bottes          | Chance d'annuler les dégâts de chute                                           | X        | 100%           | Équiper les bottes                                       |
@@ -535,23 +535,23 @@ Achetées dans la boutique enchantement avec des dollars $ et non des Couronnes
 | Hibou de nuit II                    | Épée            | Augmente les dégâts de 35% contre les mobs la nuit                             | X        | 60%            | Frapper un mob la nuit                                   |
 | Hibou de nuit III                   | Épée            | Augmente les dégâts de 45% contre les mobs la nuit                             | X        | 80%            | Frapper un mob la nuit                                   |
 | Tranchée I                          | Pioche, Pelle   | Casser en 3x3                                                                  | X        | 20%            | Casser un bloc |
-                                 |
+       |                          
 | Tranchée II                         | Pioche, Pelle   | Casser en 3x3                                                                  | X        | 30%            | Casser un bloc
-                                 |
+       |                         
 | Tranchée III                        | Pioche, Pelle   | Casser en 3x3                                                                  | X        | 40%            | Casser un bloc
-                                 |
+       |                          
 | Tranchée IV                         | Pioche, Pelle   | Casser en 3x3                                                                  | X        | 50%            | Casser un bloc
-                                 |
+       |                          
 | Tranchée V                          | Pioche, Pelle  | Casser en 3x3                                                                   | X        | 60%            | Casser un bloc
-                                 |
+       |                          
 | Tranchée VI                         | Pioche, Pelle  | Casser en 3x3                                                                   | X        | 70%            | Casser un bloc
-                                 |
+       |                          
 | Tranchée VII                        | Pioche, Pelle  | Casser en 3x3                                                                   | X        | 80%            | Casser un bloc
-                                 |  
+       |                            
 | Tranchée VIII                       | Pioche, Pelle  | Casser en 3x3                                                                   | X        | 90%            | Casser un bloc
-                                 |
+       |                          
 | Tranchée IX                         | Pioche, Pelle  | Casser en 3x3                                                                   | X        | 100%           | Casser un bloc
-                                 |
+       |                          
 
 ---
 
