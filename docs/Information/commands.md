@@ -47,9 +47,12 @@ Voici la liste complète des commandes disponibles sur le serveur Landaria. Ces 
 - **/job ou /jobs** : Ouvre le menu des [métiers et salaires](/docs/gameplay/jobs).
 - **/trade &lt;pseudo&gt;** : Permet de faire un échange sécurisé.
 - **/market search &lt;item/pseudo&gt;** : Chercher un market par item ou joueur.
-- **/ah** : Ouvrir l'hôtel des ventes.
-- **/ah sell &lt;prix&gt; &lt;nombre&gt;** : Vendre des items.
-- **/ah search &lt;joueur&gt;** : Voir les ventes d'un joueur.
+- **/ah** ou **/hdv** : Ouvrir l'[hôtel des ventes](/docs/gameplay/hdv).
+- **/ah sell &lt;prix&gt; [quantité]** : Mettre en vente le stack tenu en main au prix total indiqué ; la quantité est facultative.
+- **/ah search &lt;recherche&gt;** : Rechercher un objet ou les annonces d'un vendeur.
+- **/ah history [page]** : Consulter vos achats et vos ventes ; la page est facultative.
+- **/ah claim** : Récupérer l'argent des ventes en attente.
+- **/ah page &lt;page&gt;** ou **/ah p &lt;page&gt;** : Ouvrir une page du catalogue.
 - **/paytoggle** : Bloque ou autorise les paiements provenant des autres joueurs.
 
 ---
