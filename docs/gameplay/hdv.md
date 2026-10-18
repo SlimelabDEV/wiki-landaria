@@ -31,11 +31,19 @@ Si vous voulez vendre vos items dans l'hôtel des ventes, il vous faudra d'abord
 
 Utilisez la commande **/ah** ou **/hdv** pour accéder au menu de l'hôtel des ventes.
 
-Pour **acheter un item**, passez la souris dessus pour vérifier le vendeur, le prix et le temps restant. Cliquez ensuite sur l'objet et validez avec **Acheter** dans le menu de confirmation. Un message apparaît dans le chat en jeu 💬 :
+![Menu principal de l'hôtel des ventes](/img/hdv/hdv.png)
+
+Pour **acheter un item**, passez la souris dessus pour vérifier le vendeur, le prix et le temps restant.
+
+![Détails d'une annonce : vendeur, prix et temps restant](/img/hdv/details-annonce.png)
+
+Cliquez ensuite sur l'objet et validez avec **Acheter** dans le menu de confirmation. Un message apparaît dans le chat en jeu 💬 :
 
 ![Exemple de message après un achat](/img/hdv/hdv2.png)
 
 L'objet est remis directement dans votre inventaire si vous avez assez de place. Sinon, retrouvez-le dans **Items achetés** et récupérez-le dans les **6 jours suivant l'achat**.
+
+![Menu Items achetés pour récupérer les achats en attente](/img/hdv/items-achetes.png)
 
 🛠️ Les boutons de la dernière ligne du menu vous permettent de naviguer :
 
@@ -55,6 +63,10 @@ Utilisez **/ah search &lt;recherche&gt;** pour chercher du texte dans le nom, la
 
 Par exemple, **/ah search épée rare** recherche cette expression et **/ah search Pseudo** permet de retrouver les annonces d'un vendeur. Vous pouvez ensuite changer le tri ou la catégorie. Faites **/ah** pour revenir au catalogue complet.
 
+Pour parcourir les objets par famille, cliquez sur l'émeraude **Catégories**, puis choisissez la catégorie souhaitée.
+
+![Menu des catégories de l'hôtel des ventes](/img/hdv/categories.png)
+
 ---
 
 ## 💸 Vendre dans l'hôtel des ventes
@@ -69,6 +81,12 @@ Le prix total doit être un nombre entier compris entre **1 $ et 50 000 000 $**.
 
 Pour retrouver vos annonces, faites **/ah** et ouvrez le coffre **Items en vente**. Cliquez sur un objet pour le retirer. Vous pouvez aussi cliquer sur votre propre annonce dans le catalogue, puis confirmer avec **Retirer**.
 
+![Menu Items en vente pour retrouver et retirer vos annonces](/img/hdv/items-en-vente.png)
+
+Pour récupérer un invendu, ouvrez le seau de lave **Items expirés** depuis le menu principal.
+
+![Menu Items expirés pour récupérer les invendus](/img/hdv/items-expires.png)
+
 Dans **Items en vente**, **Items achetés** et **Items expirés**, l'entonnoir **Tout retirer** permet de récupérer les objets de la liste. Prévoyez assez de place dans votre inventaire.
 
 ---
@@ -81,7 +99,14 @@ Dans **Items en vente**, **Items achetés** et **Items expirés**, l'entonnoir *
 - 🎖️ Le nombre d'annonces simultanées dépend de votre grade.
 - 🔔 Vos objets peuvent être achetés même lorsque vous êtes déconnecté. Le vendeur reçoit l'argent **immédiatement, même hors ligne**.
 - 🪙 **/ah claim** permet de récupérer d'éventuels crédits de vente en attente. Leur récupération est aussi automatique à la connexion.
-- 📜 **/ah history** ouvre l'historique de vos achats et de vos ventes. Vous pouvez filtrer les transactions et les trier par date ou par prix.
+
+---
+
+## 📜 Consulter votre historique
+
+Utilisez **/ah history** ou le livre et plume **Historique** pour retrouver vos achats et vos ventes. Le coffre permet de filtrer les transactions et l'entonnoir de les trier par date ou par prix.
+
+![Menu Historique des achats et des ventes](/img/hdv/historique.png)
 
 ---
 
