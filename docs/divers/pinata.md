@@ -1,72 +1,82 @@
 ---
-description: "Découvrez l'événement Piñata de Landaria, son horaire, la commande d'accès et les récompenses distribuées aux participants."
+description: "Découvrez la Piñata de Landaria : horaire, lieux d'apparition, fonctionnement et gains obtenus à chaque coup."
 sidebar_position: 5
 ---
 
-# 🎉 Événement Piñata
+# 🪅 La Piñata
 
-L'**événement Piñata** est une activité amusante et pleine de récompenses où les joueurs se réunissent pour briser une gigantesque piñata ! Une fois cassée, elle distribue des récompenses variées.
+![Piñata](/img/pinata/pinata-banniere.svg)
 
-![Pinata](/img/pinata/pinata.png)
-
-## 📍 Comment y participer ?
-
-- Utilisez la commande `/warp pinata` pour vous téléporter directement à l'événement.
-- L'événement a lieu **tous les jours à 18h**.
+Tous les jours, une **piñata géante** apparaît dans un lieu public de **Landaria**. Rejoignez-la avec les autres joueurs et tapez dessus : **chaque coup vous rapporte de l'argent et de l'expérience**. Plus vous frappez, plus vous gagnez !
 
 ---
-## 📝 À Savoir
 
-:::danger Important
-Les récompenses sont visibles **uniquement par vous** si vous avez contribué à casser la piñata.
-Si vous ne participez pas à la destruction de la piñata, **vous ne recevrez aucune récompense**.
+## 📅 Quand et où ?
+
+- 🕕 La piñata apparaît **tous les jours à 18 h**.
+- 📍 Son lieu change à chaque fois : elle peut apparaître au **spawn**, à la **zone AFK**, aux **jeux** ou aux **donjons**.
+- 📣 Une annonce dans le chat indique le **`/warp`** à utiliser pour la rejoindre.
+- ⏱️ L'événement dure **10 minutes maximum**.
+
+![Annonce de la piñata dans le chat](/img/pinata/pinata-annonce.png)
+
+Pendant l'événement, une barre en haut de votre écran vous rappelle le warp et le nombre de coups restants, où que vous soyez sur le serveur.
+
+:::tip 💡
+Utilisez la commande `/slimeevents status pinata` pour savoir dans combien de temps arrive la prochaine piñata, ou où elle se trouve si elle est déjà là.
 :::
----
-
-## 🎁 Récompenses de la Piñata
-
-La pinata offre plusieurs types de récompenses, avec des quantités et probabilités différentes. Voici les objets que vous pouvez obtenir :
-
-| Récompense                   | Quantité       | Chance de drop (%) |
-|------------------------------|----------------|--------------------|
-| EXPERIENCE_BOTTLE             | 6-12           | 100                |
-| CAKE                         | 1              | 100                |
-| GOLD_NUGGET                  | 6-12           | 100                |
-| RAW_GOLD                     | 3-9            | 100                |
-| RAW_IRON                     | 3-9            | 100                |
-| IRON_INGOT                   | 5-10           | 90                 |
-| GOLD_INGOT                   | 3-7            | 90                 |
-| GOLD_BLOCK                   | 1-3            | 50                 |
-| IRON_BLOCK                   | 1-3            | 50                 |
-| DIAMOND                      | 3-6            | 80                 |
-| DIAMOND_BLOCK                | 1-2            | 30                 |
-| EMERALD                      | 3-6            | 80                 |
-| EMERALD_BLOCK                | 1-2            | 30                 |
-| LAPIS_LAZULI                 | 16-32          | 80                 |
-| LAPIS_BLOCK                  | 1-4            | 60                 |
-| REDSTONE_BLOCK               | 4-8            | 70                 |
-| COAL_BLOCK                   | 4-8            | 80                 |
-| GOLDEN_APPLE                 | 1-5            | 50                 |
-| ENCHANTED_GOLDEN_APPLE        | 1              | 50                 |
-| GOLDEN_CARROT                | 1-5            | 50                 |
-| TOTEM_OF_UNDYING             | 1              | 30                 |
-| NETHERITE_SCRAP              | 1-3            | 30                 |
-| NETHERITE_INGOT              | 1              | 10                 |
-| ENDER_PEARL                  | 4-8            | 70                 |
-| BLAZE_ROD                    | 2-5            | 60                 |
-| SHULKER_SHELL                | 1-2            | 40                 |
-| OBSIDIAN                     | 8-16           | 70                 |
-| HONEY_BOTTLE                 | 1-3            | 50                 |
-| SADDLE                       | 1              | 40                 |
-| HORSE_ARMOR                  | 1              | 30                 |
-| NAME_TAG                     | 1              | 40                 |
-| ANCIENT_DEBRIS               | 1              | 20                 |
-| NETHER_STAR                  | 1              | 10                 |
-| HEART_OF_THE_SEA             | 1              | 10                 |
-| SLIME_BALL                   | 4-10           | 60                 |
-| PRISMARINE_CRYSTALS          | 8-16           | 50                 |
-| BEACON                       | 1              | 5                  |
 
 ---
 
-Rejoignez-nous tous les jours à 18h pour briser la pinata et récolter de superbes récompenses ! 🎉
+## 🔨 Comment jouer ?
+
+1. Rejoignez la piñata avec le **`/warp`** indiqué dans l'annonce.
+2. Approchez-vous du **lama multicolore** : c'est lui, la piñata ! Il court et saute autour de son point d'apparition.
+3. **Frappez-le** avec le clic gauche, peu importe l'objet que vous tenez en main.
+
+![Écran du joueur pendant la piñata](/img/pinata/pinata-ecran.png)
+
+La piñata résiste à **100 coups**, partagés entre tous les joueurs. Au-dessus d'elle, un compteur affiche les coups restants. Au dernier coup, elle **éclate** dans une pluie de confettis et l'événement se termine.
+
+:::note À savoir
+- Vous pouvez frapper **jusqu'à deux fois par seconde**. Inutile de cliquer plus vite, les coups en trop ne comptent pas.
+- Vous devez être **proche** de la piñata et la **voir** directement.
+- Les flèches et autres projectiles ne comptent pas.
+- Si la piñata n'est pas cassée au bout de 10 minutes, elle disparaît.
+:::
+
+---
+
+## 🎁 Récompenses
+
+Chaque coup validé vous rapporte immédiatement :
+
+| Gain | Par coup |
+| --- | --- |
+| 💰 Argent | **1 000 $** |
+| ✨ Expérience de niveau | **100 XP** |
+
+Vos gains s'affichent juste au-dessus de votre barre d'objets à chaque coup.
+
+Par exemple, si vous donnez **15 coups** pendant l'événement, vous repartez avec **15 000 $** et **1 500 XP**.
+
+:::tip 💡
+Les 100 coups partent vite quand beaucoup de joueurs sont présents : soyez à l'heure pour en profiter au maximum !
+:::
+
+---
+
+## ❓ Questions fréquentes
+
+**Je frappe la piñata mais je ne gagne rien, pourquoi ?**
+Vérifiez que vous êtes assez près, que rien ne vous cache la piñata et que vous ne frappez pas trop vite.
+
+**Un message me demande de contacter le staff après un coup.**
+Votre gain doit être vérifié : [ouvrez un ticket](/docs/Information/ticket) en indiquant l'heure de l'événement.
+
+**La piñata a disparu avant que je puisse la frapper.**
+Les 100 coups ont été atteints ou les 10 minutes sont écoulées. Rendez-vous le lendemain à 18 h !
+
+---
+
+Rejoignez-nous tous les jours à 18 h pour faire éclater la piñata ! 🎉
