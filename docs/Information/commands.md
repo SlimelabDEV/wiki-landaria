@@ -119,34 +119,34 @@ Voici la liste complète des commandes disponibles sur le serveur Landaria. Ces 
 
 ---
 
-## Commandes Guildes (Grade Panda requis) 🐼
-- **/g create** : Créer une guilde.
-- **/g delete** : Supprime votre guilde.
-- **/g prefix &lt;nom&gt;** : Change le préfix de guilde.
-- **/g rename &lt;nom&gt;** : Change le nom de guilde visible dans le chat.
-- **/g sethome** : Définit le home de la guilde.
-- **/g delhome** : Supprime le home de guilde.
-- **/g home** : Téléporte au home de la guilde.
+## Commandes Guildes 🛡️
+Tous les détails sont sur la page [Guildes](/docs/gameplay/guilde).
+
+- **/g** : Ouvre le menu de votre guilde.
+- **/g create &lt;nom&gt; [préfixe]** : Fonde une guilde pour 1 000 000 $.
+- **/g confirm** ou **/g cancel** : Confirme ou annule l'action en attente.
 - **/g invite &lt;joueur&gt;** : Invite un joueur dans votre guilde.
-- **/g accept &lt;joueur&gt;** : Accepte une invitation de guilde.
-- **/g leave** : Quitte votre guilde actuelle.
-- **/g confirm** : Confirme une action qui nécessite une validation.
-- **/g info** : Affiche les informations de guilde.
-- **/g boot &lt;joueur&gt;** : Kick un joueur de la guilde.
-- **/g list** : Affiche la liste des guildes.
-- **/g members** : Ouvre le menu des membres de la guilde.
-- **/g promote** : Promouvoir un membre de la guilde.
-- **/g demote** : Rétrograder un membre de la guilde.
-- **/g status** : Change la guilde en public ou privé.
-- **/g gc** : Active le chat de guilde.
-- **/g ac** : Active le chat d'alliance de guilde.
-- **/g vault** : Ouvre le coffre de guilde.
-- **/g buff** : Ouvre le menu buff.
-- **/g bank balance** : Affiche l'argent dans la banque de guilde.
-- **/g bank withdraw &lt;nombre&gt;** : Retirer de l'argent de la banque de guilde.
-- **/g bank deposit &lt;nombre&gt;** : Déposer de l'argent dans la banque de guilde.
-- **/g upgrade** : Améliore ta guilde.
-- **/g transfer \<pseudo\>** : Transfère la propriété de la guilde au joueur souhaité.
+- **/g uninvite &lt;joueur&gt;** : Retire une invitation.
+- **/g accept &lt;guilde&gt;** ou **/g decline &lt;guilde&gt;** : Accepte ou refuse une invitation.
+- **/g leave** : Quitte votre guilde.
+- **/g promote &lt;joueur&gt;** ou **/g demote &lt;joueur&gt;** : Change le rôle d'un membre.
+- **/g boot &lt;joueur&gt;** : Expulse un membre.
+- **/g transfer &lt;joueur&gt;** : Cède la direction de la guilde.
+- **/g rename &lt;nom&gt;** : Renomme la guilde.
+- **/g prefix &lt;préfixe&gt;** : Change le préfixe de la guilde.
+- **/g status** : Rend la guilde publique ou privée.
+- **/g upgrade** : Débloque le palier suivant.
+- **/g bank balance** : Affiche l'argent de la banque de guilde.
+- **/g bank deposit &lt;montant&gt;** : Dépose de l'argent dans la banque de guilde.
+- **/g bank withdraw &lt;montant&gt;** : Retire de l'argent de la banque de guilde.
+- **/g vault [page]** : Ouvre le coffre de guilde.
+- **/g sethome**, **/g home** ou **/g delhome** : Place, rejoint ou supprime le home de guilde.
+- **/g ally add|accept|decline|remove|list [guilde]** : Gère les alliances.
+- **/g gc [message]** : Parle dans le chat de guilde, ou y bascule.
+- **/g ac [message]** : Parle dans le chat d'alliance, ou y bascule.
+- **/g list** : Ouvre le classement des guildes.
+- **/g info &lt;guilde&gt;** : Affiche la fiche d'une guilde.
+- **/g delete** : Dissout la guilde.
 
 ---
 
