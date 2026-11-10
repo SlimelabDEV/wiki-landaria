@@ -166,10 +166,10 @@ Achetées dans la boutique enchantement avec des dollars $ et non des Couronnes
 | Poids plume I          | Épée, Hache    | Chance d'avoir célérité 1 (3s) lors de l'attaque   | 2s       | 35%            | Attaquer un mob ou joueur                                         |
 | Poids plume II         | Épée, Hache    | Chance d'avoir célérité 2 (4s) lors de l'attaque   | 2s       | 55%            | Attaquer un mob ou joueur                                         |
 | Poids plume III        | Épée, Hache    | Chance d'avoir célérité 3 (5s) lors de l'attaque   | 2s       | 75%            | Attaquer un mob ou joueur                                         |
-| Fondu I                | Armure         | Chance de brûler la cible                         | 2s       | 21%            | Prendre un coup (mob ou joueur)                                   |
-| Fondu II               | Armure         | Chance de brûler la cible                         | 2s       | 32%            | Prendre un coup (mob ou joueur)                                   |
-| Fondu III              | Armure         | Chance de brûler la cible                         | 2s       | 49%            | Prendre un coup (mob ou joueur)                                   |
-| Fondu IV               | Armure         | Chance de brûler la cible                         | 2s       | 63%            | Prendre un coup (mob ou joueur)                                   |
+| Fondu I | Armure | Chance d'enflammer celui qui vous frappe pendant 2s | 2s | 21% | Prendre un coup (mob ou joueur) |
+| Fondu II | Armure | Chance d'enflammer celui qui vous frappe pendant 4s | 2s | 32% | Prendre un coup (mob ou joueur) |
+| Fondu III | Armure | Chance d'enflammer celui qui vous frappe pendant 6s | 2s | 49% | Prendre un coup (mob ou joueur) |
+| Fondu IV | Armure | Chance d'enflammer celui qui vous frappe pendant 8s | 2s | 63% | Prendre un coup (mob ou joueur) |
 | Vorace I               | Épée, Hache    | Chance de regagner de la nourriture (1 à 4)       | 2s       | 14%            | Attaquer un mob ou joueur                                         |
 | Vorace II              | Épée, Hache    | Chance de regagner de la nourriture (1 à 4)       | 2s       | 18%            | Attaquer un mob ou joueur                                         |
 | Vorace III             | Épée, Hache    | Chance de regagner de la nourriture (1 à 4)       | 2s       | 22%            | Attaquer un mob ou joueur                                         |
@@ -233,15 +233,15 @@ Achetées dans la boutique enchantement avec des dollars $ et non des Couronnes
 | Immolation III         | Épée, Hache    | Augmente les dégâts aux araignées                  | X        | 75%            | Taper une araignée                                                |
 | Grappin I              | Canne à pêche  | Tire le joueur touché vers soi                     | 4s       | 15%            | Toucher un mob ou joueur                                          |
 | Grappin II             | Canne à pêche  | Tire le joueur touché vers soi                     | 6s       | 25%            | Toucher un mob ou joueur                                          |
-| Grappin III            | Canne à pêche  | Tire le joueur touché vers soi                     | X        | 100%           | Toucher un mob ou joueur                                          |
-| Tueur du Néant I       | Épée, Hache    | Augmente les dégâts sur les Blazes, Ghasts, Pigmen | 2s       | 16%            | Taper un monstre du Nether                                        |
-| Tueur du Néant II      | Épée, Hache    | Augmente les dégâts sur les Blazes, Ghasts, Pigmen | 2s       | 21%            | Taper un monstre du Nether                                        |
-| Tueur du Néant III     | Épée, Hache    | Augmente les dégâts sur les Blazes, Ghasts, Pigmen | 2s       | 29%            | Taper un monstre du Nether                                        |
-| Tueur du Néant IV      | Épée, Hache    | Augmente les dégâts sur les Blazes, Ghasts, Pigmen | 2s       | 34%            | Taper un monstre du Nether                                        |
-| Tueur du Néant V       | Épée, Hache    | Augmente les dégâts sur les Blazes, Ghasts, Pigmen | 2s       | 41%            | Taper un monstre du Nether                                        |
-| Aveugle I              | Épée           | Donne l'effet cécité 1 pendant 3s                  | 5s       | 17%            | Taper un joueur                                                   |
-| Aveugle II             | Épée           | Donne l'effet cécité 2 pendant 4s                  | 5s       | 25%            | Taper un joueur                                                   |
-| Aveugle III            | Épée           | Donne l'effet cécité 3 pendant 5s                  | 5s       | 33%            | Taper un joueur                                                   |
+| Grappin III | Canne à pêche | Tire le joueur touché vers soi | 8s | 35% | Toucher un mob ou joueur |
+| Tueur du Néant I | Épée, Hache | Augmente les dégâts contre les blazes, les ghasts et les piglins zombifiés | 2s | 16% | Taper un monstre du Nether |
+| Tueur du Néant II | Épée, Hache | Augmente les dégâts contre les blazes, les ghasts et les piglins zombifiés | 2s | 21% | Taper un monstre du Nether |
+| Tueur du Néant III | Épée, Hache | Augmente les dégâts contre les blazes, les ghasts et les piglins zombifiés | 2s | 29% | Taper un monstre du Nether |
+| Tueur du Néant IV | Épée, Hache | Augmente les dégâts contre les blazes, les ghasts et les piglins zombifiés | 2s | 34% | Taper un monstre du Nether |
+| Tueur du Néant V | Épée, Hache | Augmente les dégâts contre les blazes, les ghasts et les piglins zombifiés | 2s | 41% | Taper un monstre du Nether |
+| Aveugle I | Épée | Donne l'effet cécité 1 pendant 3s | 3s | 17% | Taper un joueur |
+| Aveugle II | Épée | Donne l'effet cécité 2 pendant 4s | 3s | 25% | Taper un joueur |
+| Aveugle III | Épée | Donne l'effet cécité 3 pendant 5s | 3s | 33% | Taper un joueur |
 | Allure I               | Épée           | Attire les mobs vers soi                           | X        | 30%            | Taper un mob                                                      |
 | Allure II              | Épée           | Attire les mobs vers soi                           | X        | 60%            | Taper un mob                                                      |
 | Allure III             | Épée           | Attire les mobs vers soi                           | X        | 100%           | Taper un mob                                                      |
@@ -291,9 +291,9 @@ Achetées dans la boutique enchantement avec des dollars $ et non des Couronnes
 | Bombe Fumigène VI      | Casque         | Chance de donner cécité 2 pendant 5s et lâche de la fumée | 2s   | 34%            | Prendre un coup (mob ou joueur) et PV < 2.5 cœurs                 |
 | Bombe Fumigène VII     | Casque         | Chance de donner cécité 2 pendant 7s et lâche de la fumée | 2s   | 36%            | Prendre un coup (mob ou joueur) et PV < 3 cœurs                   |
 | Bombe Fumigène VIII    | Casque         | Chance de donner cécité 3 pendant 6s et lâche de la fumée | 2s   | 38%            | Prendre un coup (mob ou joueur) et PV < 3 cœurs                   |
-| Infernal I             | Épée, Hache    | Chance de brûler la cible                          | 2s       | 15%            | Mettre un coup (mob ou joueur)                                    |
-| Infernal II            | Épée, Hache    | Chance de brûler la cible                          | 2s       | 30%            | Mettre un coup (mob ou joueur)                                    |
-| Infernal III           | Épée, Hache    | Chance de brûler la cible                          | 2s       | 50%            | Mettre un coup (mob ou joueur)                                    |
+| Infernal I | Épée, Hache | Chance d'enflammer la cible pendant 2s | 2s | 15% | Mettre un coup (mob ou joueur) |
+| Infernal II | Épée, Hache | Chance d'enflammer la cible pendant 4s | 2s | 30% | Mettre un coup (mob ou joueur) |
+| Infernal III | Épée, Hache | Chance d'enflammer la cible pendant 6s | 2s | 50% | Mettre un coup (mob ou joueur) |
 | Extinction I           | Pantalon       | Chance de ne plus brûler                           | X        | 20%            | Prendre un coup (mob ou joueur) et être en feu                    |
 | Extinction II          | Pantalon       | Chance de ne plus brûler                           | X        | 60%            | Prendre un coup (mob ou joueur) et être en feu                    |
 | Extinction III         | Pantalon       | Chance de ne plus brûler                           | X        | 80%            | Prendre un coup (mob ou joueur) et être en feu                    |
@@ -326,9 +326,9 @@ Achetées dans la boutique enchantement avec des dollars $ et non des Couronnes
 | Trickster VI           | Armures        | Chance d'être téléporté derrière l'ennemi           | 5s       | 37%            | Recevoir un coup (mob ou joueur)                                   |
 | Trickster VII          | Armures        | Chance d'être téléporté derrière l'ennemi           | 5s       | 46%            | Recevoir un coup (mob ou joueur)                                   |
 | Trickster VIII         | Armures        | Chance d'être téléporté derrière l'ennemi           | 5s       | 51%            | Recevoir un coup (mob ou joueur)                                   |
-| Rocket I               | Elytra         | Chance d'obtenir l'effet Speed 1 pendant 2s         | 5s       | 10%            | Utiliser des feux d'artifices                                       |
-| Rocket II              | Elytra         | Chance d'obtenir l'effet Speed 2 pendant 3s         | 5s       | 25%            | Utiliser des feux d'artifices                                       |
-| Rocket III             | Elytra         | Chance d'obtenir l'effet Speed 3 pendant 4s         | 5s       | 45%            | Utiliser des feux d'artifices                                       |
+| Rocket I | Elytra | Chance d'obtenir l'effet Speed 1 pendant 2s | 3s | 15% | Utiliser des feux d'artifices |
+| Rocket II | Elytra | Chance d'obtenir l'effet Speed 2 pendant 3s | 3s | 35% | Utiliser des feux d'artifices |
+| Rocket III | Elytra | Chance d'obtenir l'effet Speed 3 pendant 4s | 3s | 65% | Utiliser des feux d'artifices |
 | Tireur d'élite I       | Arbalète       | Chance d'augmenter les dégâts d'arbalète de 50% à 150% | 3s     | 13%            | Tirer sur un mob ou joueur                                          |
 | Tireur d'élite II      | Arbalète       | Chance d'augmenter les dégâts d'arbalète de 50% à 150% | 3s     | 19%            | Tirer sur un mob ou joueur                                          |
 | Tireur d'élite III     | Arbalète       | Chance d'augmenter les dégâts d'arbalète de 50% à 150% | 3s     | 25%            | Tirer sur un mob ou joueur                                          |
@@ -348,9 +348,9 @@ Achetées dans la boutique enchantement avec des dollars $ et non des Couronnes
 | Critique I             | Épée           | Augmente les dégâts critiques de 10%                 | 5s       | 7%             | Mettre un coup critique (mob ou joueur)                             |
 | Critique II            | Épée           | Augmente les dégâts critiques de 15%                 | 5s       | 8%             | Mettre un coup critique (mob ou joueur)                             |
 | Critique III           | Épée           | Augmente les dégâts critiques de 20%                 | 5s       | 12%            | Mettre un coup critique (mob ou joueur)                             |
-| Étincelle I            | Trident        | Chance de brûler la cible                            | 3s       | 25%            | Mettre un coup ou tirer (mob ou joueur)                             |
-| Étincelle II           | Trident        | Chance de brûler la cible                            | 6s       | 35%            | Mettre un coup ou tirer (mob ou joueur)                             |
-| Étincelle III          | Trident        | Chance de brûler la cible                            | 8s       | 15%            | Mettre un coup ou tirer (mob ou joueur)                             |
+| Étincelle I | Trident | Chance d'enflammer la cible pendant 2s | 3s | 25% | Mettre un coup ou tirer (mob ou joueur) |
+| Étincelle II | Trident | Chance d'enflammer la cible pendant 4s | 6s | 35% | Mettre un coup ou tirer (mob ou joueur) |
+| Étincelle III | Trident | Chance d'enflammer la cible pendant 6s | 8s | 15% | Mettre un coup ou tirer (mob ou joueur) |
 | Force brutale I        | Haches         | Chance d'infliger des dégâts supplémentaires (0.5 cœurs) | 5s   | 5%             | Mettre un coup (joueur)                                             |
 | Force brutale II       | Haches         | Chance d'infliger des dégâts supplémentaires (1 cœurs)   | 5s   | 8%             | Mettre un coup (joueur)                                             |
 | Force brutale III      | Haches         | Chance d'infliger des dégâts supplémentaires (1.5 cœurs) | 5s   | 10%            | Mettre un coup (joueur)                                             |
@@ -361,9 +361,9 @@ Achetées dans la boutique enchantement avec des dollars $ et non des Couronnes
 | Noctambule I           | Épée           | Chance de geler les mobs la nuit (lenteur 11 pendant 20s) | X     | 40%            | Mettre un coup (mob)                                                |
 | Noctambule II          | Épée           | Chance de geler les mobs la nuit (lenteur 11 pendant 20s) | X     | 70%            | Mettre un coup (mob)                                                |
 | Noctambule III         | Épée           | Chance de geler les mobs la nuit (lenteur 11 pendant 20s) | X     | 100%           | Mettre un coup (mob)                                                |
-| Aimant I               | Épée           | Chance d'attirer les joueurs frappés                 | 5s       | 30%            | Mettre un coup (joueur)                                             |
-| Aimant II              | Épée           | Chance d'attirer les joueurs frappés                 | 5s       | 60%            | Mettre un coup (joueur)                                             |
-| Aimant III             | Épée           | Chance d'attirer les joueurs frappés                 | 5s       | 100%           | Mettre un coup (joueur)                                             |
+| Aimant I | Épée | Chance d'attirer les joueurs frappés | X | 30% | Mettre un coup (joueur) |
+| Aimant II | Épée | Chance d'attirer les joueurs frappés | X | 60% | Mettre un coup (joueur) |
+| Aimant III | Épée | Chance d'attirer les joueurs frappés | X | 100% | Mettre un coup (joueur) |
 ---
 
 ## 🔴 Les enchantements Mythiques
@@ -374,21 +374,21 @@ Achetées dans la boutique enchantement avec des dollars $ et non des Couronnes
 | Plantation I                        | Houe            | Planter les graines de blé en 3x3                                              | 3s       | 100%           | Avoir des graines de blé + s'accroupir + clic droit                   |
 | Plantation II                       | Houe            | Planter les graines de blé en 3x3                                              | 2s       | 100%           | Avoir des graines de blé + s'accroupir + clic droit                   |
 | Plantation III                      | Houe            | Planter les graines de blé en 3x3                                              | X        | 100%           | Avoir des graines de blé + s'accroupir + clic droit                   |
-| Plantation (pomme de terre) I       | Houe            | Planter des pommes de terre en 3x3                                             | 3s       | 100%           | Avoir des patates + s'accroupir + clic droit                           |
-| Plantation (pomme de terre) II      | Houe            | Planter des pommes de terre en 3x3                                             | 2s       | 100%           | Avoir des patates + s'accroupir + clic droit                           |
-| Plantation (pomme de terre) III     | Houe            | Planter des pommes de terre en 3x3                                             | X        | 100%           | Avoir des patates + s'accroupir + clic droit                           |
+| Plantation (pommes de terre) I | Houe | Planter des pommes de terre en 3x3 | 3s | 100% | Avoir des patates + s'accroupir + clic droit |
+| Plantation (pommes de terre) II | Houe | Planter des pommes de terre en 3x3 | 2s | 100% | Avoir des patates + s'accroupir + clic droit |
+| Plantation (pommes de terre) III | Houe | Planter des pommes de terre en 3x3 | X | 100% | Avoir des patates + s'accroupir + clic droit |
 | Plantation (carottes) I             | Houe            | Planter des carottes en 3x3                                                    | 3s       | 100%           | Avoir des carottes + s'accroupir + clic droit                          |
 | Plantation (carottes) II            | Houe            | Planter des carottes en 3x3                                                    | 2s       | 100%           | Avoir des carottes + s'accroupir + clic droit                          |
 | Plantation (carottes) III           | Houe            | Planter des carottes en 3x3                                                    | X        | 100%           | Avoir des carottes + s'accroupir + clic droit                          |
 | Plantation (torche-fleur) I         | Houe            | Planter des torches-fleurs en 3x3                                      | 3s       | 100%           | Avoir des torches-fleurs + s'accroupir + clic droit             |
 | Plantation (torche-fleur) II        | Houe            | Planter des torches-fleurs en 3x3                                      | 2s       | 100%           | Avoir des torches-fleurs + s'accroupir + clic droit             |
 | Plantation (torche-fleur) III       | Houe            | Planter des torches-fleurs en 3x3                                      | X        | 100%           | Avoir des torches-fleurs + s'accroupir + clic droit             |
-| Plantation (planturne) I            | Houe            | Planter des planturnes en 3x3                                          | 3s       | 100%           | Avoir des planturnes + s'accroupir + clic droit                 |
-| Plantation (planturne) II           | Houe            | Planter des planturnes en 3x3                                          | 2s       | 100%           | Avoir des planturnes + s'accroupir + clic droit                 |
-| Plantation (planturne) III          | Houe            | Planter des planturnes en 3x3                                          | X        | 100%           | Avoir des planturnes + s'accroupir + clic droit                 |
-| Plantation (betterave) I            | Houe            | Planter des betteraves en 3x3                                          | 3s       | 100%           | Avoir des betteraves + s'accroupir + clic droit                 |
-| Plantation (betterave) II           | Houe            | Planter des betteraves en 3x3                                          | 2s       | 100%           | Avoir des betteraves + s'accroupir + clic droit                 |
-| Plantation (betterave) III          | Houe            | Planter des betteraves en 3x3                                          | X        | 100%           | Avoir des betteraves + s'accroupir + clic droit                 |
+| Plantation (gousse de planturne) I | Houe | Planter des gousses de planturne en 3x3 | 3s | 100% | Avoir des gousses de planturne + s'accroupir + clic droit |
+| Plantation (gousse de planturne) II | Houe | Planter des gousses de planturne en 3x3 | 2s | 100% | Avoir des gousses de planturne + s'accroupir + clic droit |
+| Plantation (gousse de planturne) III | Houe | Planter des gousses de planturne en 3x3 | X | 100% | Avoir des gousses de planturne + s'accroupir + clic droit |
+| Plantation (betteraves) I | Houe | Planter des betteraves en 3x3 | 3s | 100% | Avoir des betteraves + s'accroupir + clic droit |
+| Plantation (betteraves) II | Houe | Planter des betteraves en 3x3 | 2s | 100% | Avoir des betteraves + s'accroupir + clic droit |
+| Plantation (betteraves) III | Houe | Planter des betteraves en 3x3 | X | 100% | Avoir des betteraves + s'accroupir + clic droit |
 | Plantation (verrues du Nether) I    | Houe            | Planter des verrues en 3x3                                             | 3s       | 100%           | Avoir des verrues + s'accroupir + clic droit                    |
 | Plantation (verrues du Nether) II   | Houe            | Planter des verrues en 3x3                                             | 2s       | 100%           | Avoir des verrues + s'accroupir + clic droit                    |
 | Plantation (verrues du Nether) III  | Houe            | Planter des verrues en 3x3                                             | X        | 100%           | Avoir des verrues + s'accroupir + clic droit                    |
@@ -502,29 +502,29 @@ Achetées dans la boutique enchantement avec des dollars $ et non des Couronnes
 | Homme d'épée III                    | Armure          | Réduit les dégâts de 12% à 15%                                                 | 4s       | 13%            | Prendre un coup (mob ou joueur)                          |
 | Homme d'épée IV                     | Armure          | Réduit les dégâts de 15% à 18%                                                 | 4s       | 16%            | Prendre un coup (mob ou joueur)                          |
 | Homme d'épée V                      | Armure          | Réduit les dégâts de 18% à 22%                                                 | 4s       | 21%            | Prendre un coup (mob ou joueur)                          |
-| Maître du Nether I                  | Épée            | Augmente les dégâts de 50% dans le Nether                                      | X        | 25%            | Mettre un coup et être dans le Nether                    |
-| Maître du Nether II                 | Épée            | Augmente les dégâts de 50% dans le Nether                                      | X        | 50%            | Mettre un coup et être dans le Nether                    |
-| Maître du Nether III                | Épée            | Augmente les dégâts de 50% dans le Nether                                      | X        | 75%            | Mettre un coup et être dans le Nether                    |
-| Maître de l'End I                   | Épée            | Augmente les dégâts de 50% dans l'End                                          | X        | 25%            | Mettre un coup et être dans l'End                        |
-| Maître de l'End II                  | Épée            | Augmente les dégâts de 50% dans l'End                                          | X        | 50%            | Mettre un coup et être dans l'End                        |
-| Maître de l'End III                 | Épée            | Augmente les dégâts de 50% dans l'End                                          | X        | 75%            | Mettre un coup et être dans l'End                        |
+| Maître du Nether I | Épée | Augmente les dégâts de 50% dans le Nether | X | 25% | Frapper un monstre dans le Nether |
+| Maître du Nether II | Épée | Augmente les dégâts de 50% dans le Nether | X | 50% | Frapper un monstre dans le Nether |
+| Maître du Nether III | Épée | Augmente les dégâts de 50% dans le Nether | X | 75% | Frapper un monstre dans le Nether |
+| Maître de l'End I | Épée | Augmente les dégâts de 50% dans l'End | X | 25% | Frapper un monstre dans l'End |
+| Maître de l'End II | Épée | Augmente les dégâts de 50% dans l'End | X | 50% | Frapper un monstre dans l'End |
+| Maître de l'End III | Épée | Augmente les dégâts de 50% dans l'End | X | 75% | Frapper un monstre dans l'End |
 | Saignement I                        | Hache           | Applique lenteur 1 (5s) + 1 à 3 de dégâts                                       | X        | 8%             | Mettre un coup (mob ou joueur)                           |
 | Saignement II                       | Hache           | Applique lenteur 1 (5s) + 1 à 3 de dégâts                                       | X        | 15%            | Mettre un coup (mob ou joueur)                           |
 | Saignement III                      | Hache           | Applique lenteur 1 (5s) + 1 à 3 de dégâts                                       | X        | 23%            | Mettre un coup (mob ou joueur)                           |
 | Saignement IV                       | Hache           | Applique lenteur 1 (5s) + 1 à 3 de dégâts                                       | X        | 30%            | Mettre un coup (mob ou joueur)                           |
 | Saignement V                        | Hache           | Applique lenteur 1 (5s) + 1 à 3 de dégâts                                       | X        | 44%            | Mettre un coup (mob ou joueur)                           |
 | Saignement VI                       | Hache           | Applique lenteur 1 (5s) + 1 à 3 de dégâts                                       | X        | 60%            | Mettre un coup (mob ou joueur)                           |
-| Immolation I                        | Épée            | Brûle les mobs autour (rayon de 2 blocs)                                       | 4s       | 10%            | Mettre un coup à un mob                                  |
-| Immolation II                       | Épée            | Brûle les mobs autour (rayon de 2 blocs)                                       | 5s       | 12%            | Mettre un coup à un mob                                  |
-| Immolation III                      | Épée            | Brûle les mobs autour (rayon de 2 blocs)                                       | 5s       | 16%            | Mettre un coup à un mob                                  |
+| Immolation I | Épée | Enflamme les mobs autour de vous pendant 2s (rayon de 2 blocs) | 4s | 10% | Mettre un coup à un mob |
+| Immolation II | Épée | Enflamme les mobs autour de vous pendant 3s (rayon de 4 blocs) | 5s | 12% | Mettre un coup à un mob |
+| Immolation III | Épée | Enflamme les mobs autour de vous pendant 4s (rayon de 6 blocs) | 5s | 16% | Mettre un coup à un mob |
 | Attaquant I                         | Arc             | Invoque une pluie de flèches sur la victime                                    | 8s       | 15%            | Toucher un mob ou joueur                                 |
 | Attaquant II                        | Arc             | Invoque une pluie de flèches sur la victime                                    | 8s       | 18%            | Toucher un mob ou joueur                                 |
 | Attaquant III                       | Arc             | Invoque une pluie de flèches sur la victime                                    | 8s       | 22%            | Toucher un mob ou joueur                                 |
-| Sniper I                            | Arc             | Tir à la tête augmente les dégâts de 100%                                      | 5s       | 15%            | Toucher un mob ou joueur                                 |
-| Sniper II                           | Arc             | Tir à la tête augmente les dégâts de 100%                                      | 5s       | 20%            | Toucher un mob ou joueur                                 |
-| Sniper III                          | Arc             | Tir à la tête augmente les dégâts de 100%                                      | 5s       | 25%            | Toucher un mob ou joueur                                 |
-| Sniper IV                           | Arc             | Tir à la tête augmente les dégâts de 100%                                      | 5s       | 30%            | Toucher un mob ou joueur                                 |
-| Sniper V                            | Arc             | Tir à la tête augmente les dégâts de 100%                                      | 5s       | 35%            | Toucher un mob ou joueur                                 |
+| Sniper I | Arc | Double les dégâts d'un tir dans la tête | 5s | 15% | Toucher un mob ou un joueur à la tête |
+| Sniper II | Arc | Double les dégâts d'un tir dans la tête | 5s | 20% | Toucher un mob ou un joueur à la tête |
+| Sniper III | Arc | Double les dégâts d'un tir dans la tête | 5s | 25% | Toucher un mob ou un joueur à la tête |
+| Sniper IV | Arc | Double les dégâts d'un tir dans la tête | 5s | 30% | Toucher un mob ou un joueur à la tête |
+| Sniper V | Arc | Double les dégâts d'un tir dans la tête | 5s | 35% | Toucher un mob ou un joueur à la tête |
 | Aegis I                             | Bottes          | Donne l'effet rapidité 1 (3s)                                                  | 3s       | 40%            | Porter les bottes + subir des dégâts de chute            |
 | Aegis II                            | Bottes          | Donne l'effet rapidité 2 (3s)                                                  | 3s       | 60%            | Porter les bottes + subir des dégâts de chute            |
 | Aegis III                           | Bottes          | Donne l'effet rapidité 3 (3s)                                                  | 3s       | 70%            | Porter les bottes + subir des dégâts de chute            |
@@ -572,7 +572,7 @@ Achetées dans la boutique enchantement avec des dollars $ et non des Couronnes
 | Rebondir II             | Épée, Hache     | Regagner de la vie (4 PV) lorsque l'on tue | 5s | 35% | Tuer un mob ou joueur |
 | Rebondir III            | Épée, Hache     | Regagner de la vie (6 PV) lorsque l'on tue | 5s | 45% | Tuer un mob ou joueur |
 | Aqua I                  | Bottes          | Double les dégâts dans l'eau | 3s | 8% | Être DANS l'eau |
-| Aqua II                 | Bottes          | Double les dégâts dans l'eau | 3s | 12% | Être DANS l'eau |
+| Aqua II | Bottes | Double les dégâts dans l'eau | 3s | 13% | Être DANS l'eau |
 | Aqua III                | Bottes          | Double les dégâts dans l'eau | 5s | 19% | Être DANS l'eau |
 | Aqua IV                 | Bottes          | Double les dégâts dans l'eau | 5s | 23% | Être DANS l'eau |
 | Détourner I             | Armure          | Inflige l'effet poison 1 (5s) et gagne l'effet régénération 1 (5s) | 20s | 6% | Prendre un coup (mob ou joueur) |
@@ -592,13 +592,13 @@ Achetées dans la boutique enchantement avec des dollars $ et non des Couronnes
 | Finka IV                | Plastron        | Chance de réduire les dégâts de 40% | 10s | 15% | Prendre un coup mob ou joueur |
 | Finka V                 | Plastron        | Chance de réduire les dégâts de 50% | 10s | 18% | Prendre un coup mob ou joueur |
 | Finka VI                | Plastron        | Chance de réduire les dégâts de 60% | 10s | 20% | Prendre un coup mob ou joueur |
-| Barbare I               | Hache           | Augmente les dégâts de la hache de 25% à 100% | 8s | 8% | Mettre un coup mob ou joueur à la hache |
-| Barbare II              | Hache           | Augmente les dégâts de la hache de 25% à 100% | 8s | 15% | Mettre un coup mob ou joueur à la hache |
-| Barbare III             | Hache           | Augmente les dégâts de la hache de 25% à 100% | 8s | 19% | Mettre un coup mob ou joueur à la hache |
-| Barbare IV              | Hache           | Augmente les dégâts de la hache de 25% à 100% | 8s | 25% | Mettre un coup mob ou joueur à la hache |
-| Frappe double I         | Épée            | Inflige un second coup | 15s | 8% | Mettre un coup (mob ou joueur) |
-| Frappe double II        | Épée            | Inflige un second coup | 15s | 13% | Mettre un coup (mob ou joueur) |
-| Frappe double III       | Épée            | Inflige un second coup | 15s | 19% | Mettre un coup (mob ou joueur) |
+| Barbare I | Hache | Augmente les dégâts de la hache de 25% à 100% | 2s | 8% | Mettre un coup mob ou joueur à la hache |
+| Barbare II | Hache | Augmente les dégâts de la hache de 25% à 100% | 2s | 15% | Mettre un coup mob ou joueur à la hache |
+| Barbare III | Hache | Augmente les dégâts de la hache de 25% à 100% | 2s | 19% | Mettre un coup mob ou joueur à la hache |
+| Barbare IV | Hache | Augmente les dégâts de la hache de 25% à 100% | 2s | 25% | Mettre un coup mob ou joueur à la hache |
+| Frappe double I | Épée | Inflige un second coup | 15s | 5% | Mettre un coup (mob ou joueur) |
+| Frappe double II | Épée | Inflige un second coup | 15s | 10% | Mettre un coup (mob ou joueur) |
+| Frappe double III | Épée | Inflige un second coup | 15s | 15% | Mettre un coup (mob ou joueur) |
 | Engrenages I            | Bottes          | Donne vitesse 1 | X | X | Porter les bottes |
 | Engrenages II           | Bottes          | Donne vitesse 2 | X | X | Porter les bottes |
 | Engrenages III          | Bottes          | Donne vitesse 3 | X | X | Porter les bottes |
@@ -611,11 +611,11 @@ Achetées dans la boutique enchantement avec des dollars $ et non des Couronnes
 | Inquisiteur II          | Épée            | Chance d'obtenir +25% d'exp sur un mob | 4s | 35% | Tuer un mob |
 | Inquisiteur III         | Épée            | Chance d'obtenir +25% d'exp sur un mob | 4s | 40% | Tuer un mob |
 | Inquisiteur IV          | Épée            | Chance d'obtenir +25% d'exp sur un mob | 4s | 45% | Tuer un mob |
-| Vol de vie I            | Épée            | Chance de voler 1 à 3 PV | 15s | 9% | Frapper (mob ou joueur) |
-| Vol de vie II           | Épée            | Chance de voler 1 à 3 PV | 15s | 13% | Frapper (mob ou joueur) |
-| Vol de vie III          | Épée            | Chance de voler 1 à 4 PV | 15s | 17% | Frapper (mob ou joueur) |
-| Vol de vie IV           | Épée            | Chance de voler 1 à 5 PV | 15s | 21% | Frapper (mob ou joueur) |
-| Vol de vie V            | Épée            | Chance de voler 1 à 5 PV | 15s | 25% | Frapper (mob ou joueur) |
+| Vol de la vie I | Épée | Chance de voler 1 à 3 PV | 15s | 9% | Frapper (mob ou joueur) |
+| Vol de la vie II | Épée | Chance de voler 1 à 3 PV | 15s | 13% | Frapper (mob ou joueur) |
+| Vol de la vie III | Épée | Chance de voler 1 à 4 PV | 15s | 17% | Frapper (mob ou joueur) |
+| Vol de la vie IV | Épée | Chance de voler 1 à 5 PV | 15s | 21% | Frapper (mob ou joueur) |
+| Vol de la vie V | Épée | Chance de voler 1 à 5 PV | 15s | 25% | Frapper (mob ou joueur) |
 | Surcharge I             | Armure          | Donne l'effet Health boost 1 (2 cœurs) | X | X | Port de l'armure |
 | Surcharge II            | Armure          | Donne l'effet Health boost 2 (4 cœurs) | X | X | Port de l'armure |
 | Surcharge III           | Armure          | Donne l'effet Health boost 3 (6 cœurs) | X | X | Port de l'armure |
@@ -637,11 +637,11 @@ Achetées dans la boutique enchantement avec des dollars $ et non des Couronnes
 | Désarmement VI          | Épée            | Chance d'enlever une pièce d'armure de l'adversaire | 6s | 1,6% | Mettre un coup (joueur) |
 | Désarmement VII         | Épée            | Chance d'enlever une pièce d'armure de l'adversaire | 6s | 1,8% | Mettre un coup (joueur) |
 | Désarmement VIII        | Épée            | Chance d'enlever une pièce d'armure de l'adversaire | 6s | 2% | Mettre un coup (joueur) |
-| Coup mortel I           | Trident         | Double les dégâts en headshot | 5s | 15% | Lancer son trident sur un mob ou joueur |
-| Coup mortel II          | Trident         | Double les dégâts en headshot | 5s | 20% | Lancer son trident sur un mob ou joueur |
-| Coup mortel III         | Trident         | Double les dégâts en headshot | 5s | 25% | Lancer son trident sur un mob ou joueur |
-| Coup mortel IV          | Trident         | Double les dégâts en headshot | 5s | 30% | Lancer son trident sur un mob ou joueur |
-| Coup mortel V           | Trident         | Double les dégâts en headshot | 5s | 35% | Lancer son trident sur un mob ou joueur |
+| Coup mortel I | Trident | Double les dégâts d'un lancer dans la tête | 5s | 15% | Toucher un mob ou un joueur à la tête avec son trident |
+| Coup mortel II | Trident | Double les dégâts d'un lancer dans la tête | 5s | 20% | Toucher un mob ou un joueur à la tête avec son trident |
+| Coup mortel III | Trident | Double les dégâts d'un lancer dans la tête | 5s | 25% | Toucher un mob ou un joueur à la tête avec son trident |
+| Coup mortel IV | Trident | Double les dégâts d'un lancer dans la tête | 5s | 30% | Toucher un mob ou un joueur à la tête avec son trident |
+| Coup mortel V | Trident | Double les dégâts d'un lancer dans la tête | 5s | 35% | Toucher un mob ou un joueur à la tête avec son trident |
 | Strife I                | Trident         | Augmente les dégâts de mêlée du trident (15%) | 3s | 5% | Frapper (mob ou joueur) |
 | Strife II               | Trident         | Augmente les dégâts de mêlée du trident (25%) | 6s | 10% | Frapper (mob ou joueur) |
 | Strife III              | Trident         | Augmente les dégâts de mêlée du trident (30%) | 8s | 15% | Frapper (mob ou joueur) |
@@ -649,16 +649,16 @@ Achetées dans la boutique enchantement avec des dollars $ et non des Couronnes
 | Lancement II            | Épée            | Projette en l'air de 9 unités | 15s | 27% | Clic droit |
 | Lancement III           | Épée            | Projette en l'air de 10 unités | 10s | 35% | Clic droit |
 | Tueur de Raid I         | Épée            | Augmente les dégâts de 80% à 120% contre les mobs de raids | X | 100% | Frapper un mob de raid (Pillager, Vindicator, Evoker, Ravager, Vex, Witch) |
-| Renforcé Armure I       | Armure          | Chance d'éviter 1 point de perte de durabilité de l'armure | X | 5% | Prendre un coup (mob ou joueur) |
-| Renforcé Armure II      | Armure          | Chance d'éviter 1 point de perte de durabilité de l'armure | X | 10% | Prendre un coup (mob ou joueur) |
-| Renforcé Armure III     | Armure          | Chance d'éviter 1 point de perte de durabilité de l'armure | X | 15% | Prendre un coup (mob ou joueur) |
-| Renforcé Armure IV      | Armure          | Chance d'éviter 1 point de perte de durabilité de l'armure | X | 20% | Prendre un coup (mob ou joueur) |
-| Renforcé Armure V       | Armure          | Chance d'éviter 1 point de perte de durabilité de l'armure | X | 25% | Prendre un coup (mob ou joueur) |
-| Renforcé Armure VI      | Armure          | Chance d'éviter 1 point de perte de durabilité de l'armure | X | 30% | Prendre un coup (mob ou joueur) |
-| Renforcé Armure VII     | Armure          | Chance d'éviter 1 point de perte de durabilité de l'armure | X | 35% | Prendre un coup (mob ou joueur) |
-| Renforcé Armure VIII    | Armure          | Chance d'éviter 1 point de perte de durabilité de l'armure | X | 40% | Prendre un coup (mob ou joueur) |
-| Renforcé Armure IX      | Armure          | Chance d'éviter 1 point de perte de durabilité de l'armure | X | 45% | Prendre un coup (mob ou joueur) |
-| Renforcé Armure X       | Armure          | Chance d'éviter 1 point de perte de durabilité de l'armure | X | 50% | Prendre un coup (mob ou joueur) |
+| Renforcé (armure) I | Armure | Chance de réparer un peu la pièce d'armure | X | 5% | Miner ou frapper un monstre |
+| Renforcé (armure) II | Armure | Chance de réparer un peu la pièce d'armure | X | 10% | Miner ou frapper un monstre |
+| Renforcé (armure) III | Armure | Chance de réparer un peu la pièce d'armure | X | 15% | Miner ou frapper un monstre |
+| Renforcé (armure) IV | Armure | Chance de réparer un peu la pièce d'armure | X | 20% | Miner ou frapper un monstre |
+| Renforcé (armure) V | Armure | Chance de réparer un peu la pièce d'armure | X | 25% | Miner ou frapper un monstre |
+| Renforcé (armure) VI | Armure | Chance de réparer un peu la pièce d'armure | X | 30% | Miner ou frapper un monstre |
+| Renforcé (armure) VII | Armure | Chance de réparer un peu la pièce d'armure | X | 35% | Miner ou frapper un monstre |
+| Renforcé (armure) VIII | Armure | Chance de réparer un peu la pièce d'armure | X | 40% | Miner ou frapper un monstre |
+| Renforcé (armure) IX | Armure | Chance de réparer un peu la pièce d'armure | X | 45% | Miner ou frapper un monstre |
+| Renforcé (armure) X | Armure | Chance de réparer un peu la pièce d'armure | X | 50% | Miner ou frapper un monstre |
 
 ---
 
@@ -667,9 +667,45 @@ Achetées dans la boutique enchantement avec des dollars $ et non des Couronnes
 
 | Enchantement Fabuleux | Adapté pour les | Description | CoolDown | Taux de chance | Condition d'activation |
 | ----------------------- | --------------- | ----------- | -------- | -------------- | ---------------------- |
-| Cupidon I               | Épée            | Crée un court effet de particules 💕Coeurs💕 autour de vous | X | 100% | Sélectionner ou désélectionner l'épée en main |
-| Tranché I (Houe)        | Houe            | Casser en 3x3 (sculk, feuilles, paille, mousse, éponges sèches et mouillées) | X | 100% | Casser un bloc |
+| Cupidon I | Épée | Crée un court effet de particules 💕Coeurs💕 autour de vous | 1s | 100% | Sélectionner ou désélectionner l'épée en main |
+| Tranché I | Houe | Casser en 3x3 (sculk, feuilles, paille, mousse, éponges sèches et mouillées) | X | 100% | Casser un bloc |
 | Tueur de Warden I       | Épée            | Augmente les dégâts contre les Wardens de 280% à 400% | X | 70% | Frapper un Warden |
 | Petite Aide I           | Jambières       | Invoque des chauves-souris et des effets pour vous aider à fuir | 60s | 30% | S'active lorsque le joueur a 6 PV ou moins. |
+| Désarmement I | Épée | Oblige le joueur frappé à ranger l'objet qu'il tient (différent du Désarmement légendaire) | 20s | 2% | Mettre un coup (joueur) |
+| Désarmement II | Épée | Oblige le joueur frappé à ranger l'objet qu'il tient (différent du Désarmement légendaire) | 20s | 4% | Mettre un coup (joueur) |
+| Désarmement III | Épée | Oblige le joueur frappé à ranger l'objet qu'il tient (différent du Désarmement légendaire) | 20s | 5% | Mettre un coup (joueur) |
+| Neutraliser I | Arc, Arbalète | Oblige le joueur touché à ranger l'objet qu'il tient | 20s | 5% | Toucher un joueur avec une flèche |
+| Neutraliser II | Arc, Arbalète | Oblige le joueur touché à ranger l'objet qu'il tient | 20s | 10% | Toucher un joueur avec une flèche |
+| Effrayer I | Épée, Hache | Coiffe le joueur frappé d'une citrouille pendant 2s | 20s | 1,8% | Mettre un coup (joueur) |
+| Effrayer II | Épée, Hache | Coiffe le joueur frappé d'une citrouille pendant 2s | 20s | 3,6% | Mettre un coup (joueur) |
+| Effrayer III | Épée, Hache | Coiffe le joueur frappé d'une citrouille pendant 3s | 20s | 4,4% | Mettre un coup (joueur) |
+| Effrayer IV | Épée, Hache | Coiffe le joueur frappé d'une citrouille pendant 3s | 20s | 5,2% | Mettre un coup (joueur) |
+| Effrayer V | Épée, Hache | Coiffe le joueur frappé d'une citrouille pendant 4s | 20s | 6% | Mettre un coup (joueur) |
+| Haste I | Pioche, Pelle, Hache | Donne l'effet Célérité I | X | 100% | Tenir l'outil en main |
+| Haste II | Pioche, Pelle, Hache | Donne l'effet Célérité II | X | 100% | Tenir l'outil en main |
+| Haste III | Pioche, Pelle, Hache | Donne l'effet Célérité III | X | 100% | Tenir l'outil en main |
+| Immortel I | Armure | Chance de réparer votre armure | 40s | 12% | Prendre un coup (mob ou joueur) |
+| Immortel II | Armure | Chance de réparer votre armure | 40s | 18% | Prendre un coup (mob ou joueur) |
+| Immortel III | Armure | Chance de réparer votre armure | 40s | 25% | Prendre un coup (mob ou joueur) |
+| Immortel IV | Armure | Chance de réparer votre armure | 40s | 31% | Prendre un coup (mob ou joueur) |
+| Incassable I | Outils | L'outil ne s'use plus | X | 100% | Utiliser l'outil |
+| L'âme liée I | Épée, Outils, Arc, Arbalète | Chance de garder l'objet quand vous mourez | 5 min | 4% | Mourir |
+| L'âme liée II | Épée, Outils, Arc, Arbalète | Chance de garder l'objet quand vous mourez | 5 min | 6% | Mourir |
+| L'âme liée III | Épée, Outils, Arc, Arbalète | Chance de garder l'objet quand vous mourez | 5 min | 8% | Mourir |
+| Multiplication I | Pioche | Chance d'obtenir plus de ressources d'un minerai | 5s | 15% | Miner un minerai |
+| Multiplication II | Pioche | Chance d'obtenir plus de ressources d'un minerai | 5s | 20% | Miner un minerai |
+| Multiplication III | Pioche | Chance d'obtenir plus de ressources d'un minerai | 6s | 25% | Miner un minerai |
+| Multiplication IV | Pioche | Chance d'obtenir plus de ressources d'un minerai | 7s | 28% | Miner un minerai |
+| Multiplication V | Pioche | Chance d'obtenir plus de ressources d'un minerai | 8s | 30% | Miner un minerai |
+| Phénix I | Plastron | Chance de vous ranimer quand vous mourez | 20s | 5% | Mourir |
+| Phénix II | Plastron | Chance de vous ranimer quand vous mourez | 20s | 7% | Mourir |
+| Phénix III | Plastron | Chance de vous ranimer quand vous mourez | 20s | 9% | Mourir |
+| Restaurer I | Pioche, Pelle, Hache | Répare l'outil à moitié quand il se casse, puis l'enchantement disparaît | X | 40% | L'outil se casse |
+| Restaurer II | Pioche, Pelle, Hache | Répare l'outil à moitié quand il se casse, puis l'enchantement disparaît | X | 60% | L'outil se casse |
+| Restaurer III | Pioche, Pelle, Hache | Répare l'outil à moitié quand il se casse, puis l'enchantement disparaît | X | 80% | L'outil se casse |
+| Restaurer IV | Pioche, Pelle, Hache | Répare l'outil à moitié quand il se casse, puis l'enchantement disparaît | X | 100% | L'outil se casse |
+| Rush I | Élytres | Donne l'effet Vitesse IV pendant 3s | 5s | 15% | Voler avec des élytres |
+| Rush II | Élytres | Donne l'effet Vitesse V pendant 3s | 5s | 25% | Voler avec des élytres |
+| Rush III | Élytres | Donne l'effet Vitesse VI pendant 3s | 5s | 26% | Voler avec des élytres |
 
 ---
