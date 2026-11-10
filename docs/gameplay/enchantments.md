@@ -93,9 +93,9 @@ Achetées dans la boutique enchantement avec des dollars $ et non des Couronnes
 | Frappe II              | Arc, Épée, Arbalète, Trident | Chance de foudroyer la victime                    | 3s       | 32%            | Attaquer (mob ou joueur)                                          |
 | Frappe III             | Arc, Épée, Arbalète, Trident | Chance de foudroyer la victime                    | 4s       | 40%            | Attaquer (mob ou joueur)                                          |
 | Aquatique I            | Casque         | Permet la respiration aquatique                   | X        | 100%           | Port du casque                                                    |
-| Fonte I                | Pioche         | Chance de faire fondre les minerais               | X        | 33%            | Miner                                                              |
-| Fonte II               | Pioche         | Chance de faire fondre les minerais               | X        | 66%            | Miner                                                             |
-| Fonte III              | Pioche         | Chance de faire fondre les minerais               | X        | 100%           | Miner                                                             |
+| Fonte I | Pioche, Pelle | Chance de faire fondre les blocs cassés | X | 33% | Casser un bloc |
+| Fonte II | Pioche, Pelle | Chance de faire fondre les blocs cassés | X | 66% | Casser un bloc |
+| Fonte III | Pioche, Pelle | Chance de faire fondre les blocs cassés | X | 100% | Casser un bloc |
 | Expérience I           | Pioche, Hache, Pelle | Chance de gagner plus d'exp (2-5) sur les minerais | 1s      | 15%            | Casser des minerais                                               |
 | Expérience II          | Pioche, Hache, Pelle | Chance de gagner plus d'exp (2-5) sur les minerais | 2s      | 30%            | Casser des minerais                                               |
 | Expérience III         | Pioche, Hache, Pelle | Chance de gagner plus d'exp (2-5) sur les minerais | 3s      | 45%            | Casser des minerais                                               |
@@ -318,14 +318,14 @@ Achetées dans la boutique enchantement avec des dollars $ et non des Couronnes
 | Fusée I                | Bottes         | Éjecte lorsque la vie est basse (3 cœurs)          | 8s       | 20%            | Recevoir un coup (mob ou joueur) avec moins de 3 cœurs             |
 | Fusée II               | Bottes         | Éjecte lorsque la vie est basse (3 cœurs)          | 8s       | 34%            | Recevoir un coup (mob ou joueur) avec moins de 3 cœurs             |
 | Fusée III              | Bottes         | Éjecte lorsque la vie est basse (3 cœurs)          | 8s       | 40%            | Recevoir un coup (mob ou joueur) avec moins de 3 cœurs             |
-| Trickster I            | Armures        | Chance d'être téléporté derrière l'ennemi           | 5s       | 8%             | Recevoir un coup (mob ou joueur)                                   |
-| Trickster II           | Armures        | Chance d'être téléporté derrière l'ennemi           | 5s       | 14%            | Recevoir un coup (mob ou joueur)                                   |
-| Trickster III          | Armures        | Chance d'être téléporté derrière l'ennemi           | 5s       | 17%            | Recevoir un coup (mob ou joueur)                                   |
-| Trickster IV           | Armures        | Chance d'être téléporté derrière l'ennemi           | 5s       | 21%            | Recevoir un coup (mob ou joueur)                                   |
-| Trickster V            | Armures        | Chance d'être téléporté derrière l'ennemi           | 5s       | 29%            | Recevoir un coup (mob ou joueur)                                   |
-| Trickster VI           | Armures        | Chance d'être téléporté derrière l'ennemi           | 5s       | 37%            | Recevoir un coup (mob ou joueur)                                   |
-| Trickster VII          | Armures        | Chance d'être téléporté derrière l'ennemi           | 5s       | 46%            | Recevoir un coup (mob ou joueur)                                   |
-| Trickster VIII         | Armures        | Chance d'être téléporté derrière l'ennemi           | 5s       | 51%            | Recevoir un coup (mob ou joueur)                                   |
+| Trickster I | Armure | Chance d'être téléporté derrière l'ennemi | 5s | 8% | Recevoir un coup (mob ou joueur) |
+| Trickster II | Armure | Chance d'être téléporté derrière l'ennemi | 5s | 14% | Recevoir un coup (mob ou joueur) |
+| Trickster III | Armure | Chance d'être téléporté derrière l'ennemi | 5s | 17% | Recevoir un coup (mob ou joueur) |
+| Trickster IV | Armure | Chance d'être téléporté derrière l'ennemi | 5s | 21% | Recevoir un coup (mob ou joueur) |
+| Trickster V | Armure | Chance d'être téléporté derrière l'ennemi | 5s | 29% | Recevoir un coup (mob ou joueur) |
+| Trickster VI | Armure | Chance d'être téléporté derrière l'ennemi | 5s | 37% | Recevoir un coup (mob ou joueur) |
+| Trickster VII | Armure | Chance d'être téléporté derrière l'ennemi | 5s | 46% | Recevoir un coup (mob ou joueur) |
+| Trickster VIII | Armure | Chance d'être téléporté derrière l'ennemi | 5s | 51% | Recevoir un coup (mob ou joueur) |
 | Rocket I | Elytra | Chance d'obtenir l'effet Speed 1 pendant 2s | 3s | 15% | Utiliser des feux d'artifices |
 | Rocket II | Elytra | Chance d'obtenir l'effet Speed 2 pendant 3s | 3s | 35% | Utiliser des feux d'artifices |
 | Rocket III | Elytra | Chance d'obtenir l'effet Speed 3 pendant 4s | 3s | 65% | Utiliser des feux d'artifices |
@@ -351,10 +351,10 @@ Achetées dans la boutique enchantement avec des dollars $ et non des Couronnes
 | Étincelle I | Trident | Chance d'enflammer la cible pendant 2s | 3s | 25% | Mettre un coup ou tirer (mob ou joueur) |
 | Étincelle II | Trident | Chance d'enflammer la cible pendant 4s | 6s | 35% | Mettre un coup ou tirer (mob ou joueur) |
 | Étincelle III | Trident | Chance d'enflammer la cible pendant 6s | 8s | 15% | Mettre un coup ou tirer (mob ou joueur) |
-| Force brutale I        | Haches         | Chance d'infliger des dégâts supplémentaires (0.5 cœurs) | 5s   | 5%             | Mettre un coup (joueur)                                             |
-| Force brutale II       | Haches         | Chance d'infliger des dégâts supplémentaires (1 cœurs)   | 5s   | 8%             | Mettre un coup (joueur)                                             |
-| Force brutale III      | Haches         | Chance d'infliger des dégâts supplémentaires (1.5 cœurs) | 5s   | 10%            | Mettre un coup (joueur)                                             |
-| Force brutale IV       | Haches         | Chance d'infliger des dégâts supplémentaires (2 cœurs)   | 5s   | 12%            | Mettre un coup (joueur)                                             |
+| Force brutale I | Hache | Chance d'infliger des dégâts supplémentaires (0.5 cœurs) | 5s | 5% | Mettre un coup (joueur) |
+| Force brutale II | Hache | Chance d'infliger des dégâts supplémentaires (1 cœurs) | 5s | 8% | Mettre un coup (joueur) |
+| Force brutale III | Hache | Chance d'infliger des dégâts supplémentaires (1.5 cœurs) | 5s | 10% | Mettre un coup (joueur) |
+| Force brutale IV | Hache | Chance d'infliger des dégâts supplémentaires (2 cœurs) | 5s | 12% | Mettre un coup (joueur) |
 | Suspendre I            | Épée           | Chance d'annuler les KB des mobs                     | X        | 40%            | Mettre un coup (mob)                                                |
 | Suspendre II           | Épée           | Chance d'annuler les KB des mobs                     | X        | 80%            | Mettre un coup (mob)                                                |
 | Suspendre III          | Épée           | Chance d'annuler les KB des mobs                     | X        | 100%           | Mettre un coup (mob)                                                |
@@ -418,11 +418,11 @@ Achetées dans la boutique enchantement avec des dollars $ et non des Couronnes
 | Radioactif V                        | Épée, Hache     | Inflige des dégâts (2-3 PV) aux joueurs alentour (rayon 5 blocs)                | 10s      | 9%             | Frapper un mob                                           |
 | Radioactif VI                       | Épée, Hache     | Inflige des dégâts (2-3 PV) aux joueurs alentour (rayon 6 blocs)                | 12s      | 12%            | Frapper un mob                                           |
 | Radioactif VII                      | Épée, Hache     | Inflige des dégâts (2-3 PV) aux joueurs alentour (rayon 7 blocs)                | 14s      | 15%            | Frapper un mob                                           |
-| Angélique I                         | Armure          | Chance de regagner de la vie (1-3 PV)                                          | 7s       | 9%             | Prendre un coup (mob ou joueur)                          |
-| Angélique II                        | Armure          | Chance de regagner de la vie (1-3 PV)                                          | 9s       | 14%            | Prendre un coup (mob ou joueur)                          |
-| Angélique III                       | Armure          | Chance de regagner de la vie (1-3 PV)                                          | 11s      | 17%            | Prendre un coup (mob ou joueur)                          |
-| Angélique IV                        | Armure          | Chance de regagner de la vie (1-4 PV)                                          | 13s      | 26%            | Prendre un coup (mob ou joueur)                          |
-| Angélique V                         | Armure          | Chance de regagner de la vie (1-4 PV)                                          | 15s      | 34%            | Prendre un coup (mob ou joueur)                          |
+| Angélique I | Plastron | Chance de regagner de la vie (1-3 PV) | 7s | 9% | Prendre un coup (mob ou joueur) |
+| Angélique II | Plastron | Chance de regagner de la vie (1-3 PV) | 9s | 14% | Prendre un coup (mob ou joueur) |
+| Angélique III | Plastron | Chance de regagner de la vie (1-3 PV) | 11s | 17% | Prendre un coup (mob ou joueur) |
+| Angélique IV | Plastron | Chance de regagner de la vie (1-4 PV) | 13s | 26% | Prendre un coup (mob ou joueur) |
+| Angélique V | Plastron | Chance de regagner de la vie (1-4 PV) | 15s | 34% | Prendre un coup (mob ou joueur) |
 | Déviation de flèche I               | Armure          | Chance d'annuler les dégâts des projectiles                                     | 6s       | 15%            | Prendre un coup de projectile (mob ou joueur)            |
 | Déviation de flèche II              | Armure          | Chance d'annuler les dégâts des projectiles                                     | 6s       | 25%            | Prendre un coup de projectile (mob ou joueur)            |
 | Déviation de flèche III             | Armure          | Chance d'annuler les dégâts des projectiles                                     | 6s       | 35%            | Prendre un coup de projectile (mob ou joueur)            |
@@ -648,7 +648,7 @@ Achetées dans la boutique enchantement avec des dollars $ et non des Couronnes
 | Lancement I             | Épée            | Projette en l'air de 8 unités | 15s | 20% | Clic droit |
 | Lancement II            | Épée            | Projette en l'air de 9 unités | 15s | 27% | Clic droit |
 | Lancement III           | Épée            | Projette en l'air de 10 unités | 10s | 35% | Clic droit |
-| Tueur de Raid I         | Épée            | Augmente les dégâts de 80% à 120% contre les mobs de raids | X | 100% | Frapper un mob de raid (Pillager, Vindicator, Evoker, Ravager, Vex, Witch) |
+| Tueur de Raid I | Épée, Hache | Augmente les dégâts de 80% à 120% contre les mobs de raids | X | 100% | Frapper un mob de raid (Pillager, Vindicator, Evoker, Ravager, Vex, Witch) |
 | Renforcé (armure) I | Armure | Chance de réparer un peu la pièce d'armure | X | 5% | Miner ou frapper un monstre |
 | Renforcé (armure) II | Armure | Chance de réparer un peu la pièce d'armure | X | 10% | Miner ou frapper un monstre |
 | Renforcé (armure) III | Armure | Chance de réparer un peu la pièce d'armure | X | 15% | Miner ou frapper un monstre |
@@ -669,7 +669,7 @@ Achetées dans la boutique enchantement avec des dollars $ et non des Couronnes
 | ----------------------- | --------------- | ----------- | -------- | -------------- | ---------------------- |
 | Cupidon I | Épée | Crée un court effet de particules 💕Coeurs💕 autour de vous | 1s | 100% | Sélectionner ou désélectionner l'épée en main |
 | Tranché I | Houe | Casser en 3x3 (sculk, feuilles, paille, mousse, éponges sèches et mouillées) | X | 100% | Casser un bloc |
-| Tueur de Warden I       | Épée            | Augmente les dégâts contre les Wardens de 280% à 400% | X | 70% | Frapper un Warden |
+| Tueur de Warden I | Épée, Hache | Augmente les dégâts contre les Wardens de 280% à 400% | X | 70% | Frapper un Warden |
 | Petite Aide I           | Jambières       | Invoque des chauves-souris et des effets pour vous aider à fuir | 60s | 30% | S'active lorsque le joueur a 6 PV ou moins. |
 | Désarmement I | Épée | Oblige le joueur frappé à ranger l'objet qu'il tient (différent du Désarmement légendaire) | 20s | 2% | Mettre un coup (joueur) |
 | Désarmement II | Épée | Oblige le joueur frappé à ranger l'objet qu'il tient (différent du Désarmement légendaire) | 20s | 4% | Mettre un coup (joueur) |
