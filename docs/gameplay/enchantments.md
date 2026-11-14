@@ -502,12 +502,12 @@ Achetées dans la boutique enchantement avec des dollars $ et non des Couronnes
 | Homme d'épée III                    | Armure          | Réduit les dégâts de 12% à 15%                                                 | 4s       | 13%            | Prendre un coup (mob ou joueur)                          |
 | Homme d'épée IV                     | Armure          | Réduit les dégâts de 15% à 18%                                                 | 4s       | 16%            | Prendre un coup (mob ou joueur)                          |
 | Homme d'épée V                      | Armure          | Réduit les dégâts de 18% à 22%                                                 | 4s       | 21%            | Prendre un coup (mob ou joueur)                          |
-| Maître du Nether I | Épée | Augmente les dégâts de 50% dans le Nether | X | 25% | Frapper un monstre dans le Nether |
-| Maître du Nether II | Épée | Augmente les dégâts de 50% dans le Nether | X | 50% | Frapper un monstre dans le Nether |
-| Maître du Nether III | Épée | Augmente les dégâts de 50% dans le Nether | X | 75% | Frapper un monstre dans le Nether |
-| Maître de l'End I | Épée | Augmente les dégâts de 50% dans l'End | X | 25% | Frapper un monstre dans l'End |
-| Maître de l'End II | Épée | Augmente les dégâts de 50% dans l'End | X | 50% | Frapper un monstre dans l'End |
-| Maître de l'End III | Épée | Augmente les dégâts de 50% dans l'End | X | 75% | Frapper un monstre dans l'End |
+| Maître du Nether I | Épée | Dans le Nether, augmente de 50 % vos dégâts contre tous les monstres | X | 25% | Frapper un monstre dans le Nether |
+| Maître du Nether II | Épée | Dans le Nether, augmente de 50 % vos dégâts contre tous les monstres | X | 50% | Frapper un monstre dans le Nether |
+| Maître du Nether III | Épée | Dans le Nether, augmente de 50 % vos dégâts contre tous les monstres | X | 75% | Frapper un monstre dans le Nether |
+| Maître de l'End I | Épée | Dans l'End, augmente de 50 % vos dégâts contre tous les monstres | X | 25% | Frapper un monstre dans l'End |
+| Maître de l'End II | Épée | Dans l'End, augmente de 50 % vos dégâts contre tous les monstres | X | 50% | Frapper un monstre dans l'End |
+| Maître de l'End III | Épée | Dans l'End, augmente de 50 % vos dégâts contre tous les monstres | X | 75% | Frapper un monstre dans l'End |
 | Saignement I                        | Hache           | Applique lenteur 1 (5s) + 1 à 3 de dégâts                                       | X        | 8%             | Mettre un coup (mob ou joueur)                           |
 | Saignement II                       | Hache           | Applique lenteur 1 (5s) + 1 à 3 de dégâts                                       | X        | 15%            | Mettre un coup (mob ou joueur)                           |
 | Saignement III                      | Hache           | Applique lenteur 1 (5s) + 1 à 3 de dégâts                                       | X        | 23%            | Mettre un coup (mob ou joueur)                           |
