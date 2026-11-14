@@ -5,7 +5,7 @@ sidebar_position: 9
 
 # 🏡 Hôtel des ventes
 
-**L'hôtel des ventes** permet à tous les joueurs de vendre et d'acheter des items.
+**L'hôtel des ventes** permet à tous les joueurs de vendre et d'acheter des **objets spéciaux** : équipements enchantés, livres, spawners, objets d'événement…
 
 Chaque joueur peut vendre ses items dans l'hôtel des ventes au prix qu'il le souhaite. À l'inverse, il peut également acheter les items mis en vente par d'autres joueurs au prix choisi par ceux-ci.
 
@@ -24,6 +24,20 @@ Si vous voulez vendre vos items dans l'hôtel des ventes, il vous faudra d'abord
 📈 Observez régulièrement l'hôtel des ventes ainsi que les objets qui y sont vendus pour vous faire une idée précise de la valeur de vos items.
 
 🕒 Tout item mis en vente reste disponible pendant **72 heures (3 jours)**. S'il n'a pas trouvé preneur, il est déplacé dans **Items expirés**, où vous devez le récupérer manuellement.
+
+---
+
+## 🏷️ Quels objets peut-on vendre ?
+
+L'hôtel des ventes est réservé aux **objets spéciaux** : équipements avec des enchantements personnalisés, livres d'enchantement, spawners, objets de quête ou d'événement… En résumé, un objet avec une description ou un nom coloré.
+
+Les **ressources classiques** (blocs, minerais, nourriture, objets sans description…) ne peuvent pas y être vendues. Pour les vendre, ouvrez votre propre boutique ou passez par celles des autres joueurs avec **/market** : voir la page [Markets](/docs/gameplay/market).
+
+:::info À savoir
+- Renommer un objet à l'enclume ne suffit pas : il reste une ressource classique.
+- Les gadgets cosmétiques ne peuvent pas être vendus.
+- Vous ne pouvez pas mettre d'objet en vente depuis les donjons ou les arènes PvP.
+:::
 
 ---
 
@@ -115,6 +129,7 @@ Utilisez **/ah history** ou le livre et plume **Historique** pour retrouver vos 
 Les arguments entre crochets sont facultatifs.
 
 * **/ah** ou **/hdv** – Ouvrir l'hôtel des ventes.
+* **/ah help** – Afficher l'aide des commandes.
 * **/ah sell &lt;prix&gt; [quantité]** – Mettre en vente tout ou partie du stack tenu en main, au prix total indiqué.
 * **/ah search &lt;recherche&gt;** – Rechercher un objet ou les annonces d'un vendeur.
 * **/ah history [page]** ou **/ah historique [page]** – Consulter vos achats et vos ventes.
