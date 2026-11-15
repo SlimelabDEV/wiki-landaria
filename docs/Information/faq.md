@@ -272,7 +272,7 @@ Pour conserver vos constructions, revisitez régulièrement toutes leurs zones, 
 - ⚠️ Une fois le Compte Premium activé, le compte à rebours en haut de l'écran dans la bossbar `/bossbar` ne cessera de diminuer, même lorsque vous serez déconnecté.
 
 :::tip 💡
-La durée de votre Premium personnel est automatiquement mise en pause tant qu'un **Premium pour tous** est actif.
+La durée de votre Premium personnel est automatiquement mise en pause tant qu'un **Premium pour tous** est actif, ainsi que pendant votre présence en [zone AFK](/docs/divers/afk). Elle reprend dès que vous en sortez.
 :::
 
 Utilisez `/premium` en jeu pour consulter les détails de votre compte Premium en cours.

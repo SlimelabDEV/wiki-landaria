@@ -15,8 +15,6 @@ Vous devez vous absenter ? Rendez-vous dans la **zone AFK** : vous y gagnez **1 
 
 Tapez **`/afk`** (ou **`/warp afk`**) pour vous y rendre.
 
-![La zone AFK](/img/afk/afk.png)
-
 Dans la zone, vous êtes à l'abri : personne ne peut vous blesser et vous ne pouvez rien jeter au sol. Pour repartir, faites **`/back`** : vous revenez à votre position précédente.
 
 ---

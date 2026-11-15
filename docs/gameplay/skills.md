@@ -78,6 +78,8 @@ Dans le menu des compétences, survolez le bouton **« Vos bonus XP actifs »** 
 
 Ces bonus vous aident à monter vos **compétences**. Les potions qui augmentent vos **gains d'argent** se consultent séparément dans le menu `/job`.
 
+Le **compte Premium** double aussi l'expérience gagnée dans toutes les compétences. Ce bonus s'ajoute à celui de vos potions.
+
 ---
 
 ## 💰 Quel lien avec les métiers ?

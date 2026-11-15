@@ -162,14 +162,28 @@ Tous les détails sont sur la page [Guildes](/docs/gameplay/guilde).
 
 ---
 
-## Commandes de débug 🪲
-- **/edebug** (en tenant l'item en main) : Permet de résoudre des bugs présents sur un item, des poussières magiques, des livres d'enchantements customs non fonctionnels, des runes protectrices et plus encore.
-
-:::tip 💡
-La commande `/edebug` peut ne pas résoudre tous les soucis de l'item. Dans ce cas, il est nécessaire d'ouvrir un ticket pour expliquer le problème au staff. Un remboursement ou un échange pourra être effectué.
-:::
+## Commandes Diverses 🎲
+- **/battlepass** ou **/bp** : Ouvre le battle pass pour suivre votre progression et récupérer les récompenses débloquées.
+- **/daily** : Ouvre la récompense journalière. Un nouveau jour commence à minuit, et une journée manquée fait repartir la série au jour 1.
+- **/cosmetique** ou **/cos** : Ouvre le menu pour acheter et équiper vos cosmétiques.
+- **/pets** ou **/pet** : Ouvre le menu de vos familiers.
+- **/enchantements** : Affiche la liste des enchantements personnalisés.
+- **/enchant** : Ouvre la boutique d'enchantements.
+- **/emoji** ou **/e** : Ouvre le livre des émojis (réservé à certains grades).
+- **/pack download** : Recharge le pack de ressources du serveur si les textures ne s'affichent pas correctement.
 
 ---
 
-## Commande du compte Premium ⭐
+## Commandes du compte Premium ⭐
 - **/premium** : Affiche les informations liées au compte Premium actif.
+- **/fcraft** ou **/fc** : Ouvre le menu de craft rapide.
+- **/skin** : Change votre skin, par exemple pour prendre celui d'un autre joueur.
+- **/tete** ou **/hdb** : Ouvre un menu de milliers de têtes à récupérer.
+- **/condense** : Transforme les minerais et matériaux de votre inventaire en blocs.
+- **/bottlexp** : Stocke votre expérience dans une fiole, ou la convertit en fioles d'expérience classiques.
+- **/autotools** : Active ou désactive le choix automatique du bon outil et le remplissage de votre main quand la pile se vide.
+- **/autotree** : Active ou désactive l'abattage des arbres en un coup.
+
+:::tip 💡
+Les commandes **/skin** et **/tete** s'achètent aussi avec vos tickets dans la [boutique AFK](/docs/divers/afk).
+:::
